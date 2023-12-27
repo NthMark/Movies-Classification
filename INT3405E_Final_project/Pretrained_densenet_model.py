@@ -86,7 +86,7 @@ class Pretrained_densenet_model:
         for genre in genres:
             self.movies_test[genre] = self.movies_test['genre'].apply(lambda x: 1 if genre in x else 0)
         self.genre_df = pd.DataFrame(self.movies_test['genre'].explode())
-        print(self.movies_test)
+
     def load_data(self, data):
         X_dataset = []
         for i in tqdm(range(data.shape[0])):
@@ -120,7 +120,7 @@ class Pretrained_densenet_model:
         self.x_test, self.y_test = self.load_data(self.movies_test)
         history = self.model.fit(self.x_train, self.y_train, verbose = 1, epochs=50,
                                  validation_data=(self.x_test, self.y_test),batch_size = 64)
-    def evaluate(self):
+    def predict(self):
         self.y_pred = self.model.predict(self.x_test)
         self.sorted_prediction_ids = np.argsort(-self.y_pred, axis=1)
 
@@ -129,7 +129,7 @@ class Pretrained_densenet_model:
 
     def get_column_names(self, row):
         return list(self.vectors_labels_test.columns[row == 1])
-    def calculating(self):
+    def calculating_accuracy(self):
         vectors_labels_test_new = self.vectors_labels_test.apply(self.get_column_names, axis=1).tolist ()
         top_5_prediction_ids = self.sorted_prediction_ids[:, :5]
         original_shape = top_5_prediction_ids.shape
@@ -145,9 +145,9 @@ def main():
     image_source = 'ml1m-images'
     model = Pretrained_densenet_model(image_source,weight_path, train_path, test_path)
     model.preprocessing()
-    # model.train()
-    # model.evaluate()
-    # model.calculating()
+    model.train()
+    model.predict()
+    model.calculating_accuracy()
 #%%
 if __name__ == '__main__':
     main()

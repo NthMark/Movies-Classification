@@ -92,6 +92,7 @@ class Pretrained_densenet_model:
         for genre in genres:
             self.movies_test[genre] = self.movies_test['genre'].apply(lambda x: 1 if genre in x else 0)
         self.genre_df = pd.DataFrame(self.movies_test['genre'].explode())
+        print(self.image_source + '/' + str(self.movies_test_update['movieid'][1]) + '.jpg')
     def load_data(self, data):
         X_dataset = []
         for i in tqdm(range(data.shape[0])):
@@ -122,7 +123,7 @@ class Pretrained_densenet_model:
         return 2 * ((precision * recall) / (precision + recall + K.epsilon ()))
     def train(self):
         self.x_train, self.y_train = self.load_data(self.movies_train)
-        self.x_test, self.y_test = self.load_data(self.movies_test)
+        self.x_test, self.y_test = self.load_data(self.movies_test_update)
         # history = self.model.fit(self.x_train, self.y_train, verbose = 1, epochs=50,
         #                          validation_data=(self.x_test, self.y_test),batch_size = 64)
     def predict(self):
@@ -150,9 +151,9 @@ def main():
     image_source = 'ml1m-images'
     model = Pretrained_densenet_model(image_source,weight_path, train_path, test_path)
     model.preprocessing()
-    model.train()
-    model.predict()
-    model.calculating_accuracy()
+    # model.train()
+    # model.predict()
+    # model.calculating_accuracy()
 #%%
 if __name__ == '__main__':
     main()

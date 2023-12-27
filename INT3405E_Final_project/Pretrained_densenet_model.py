@@ -9,8 +9,10 @@ import keras.backend as K
 from keras.optimizers import Adam
 
 from sklearn.preprocessing import MultiLabelBinarizer, OrdinalEncoder
+from cleanvision.imagelab import Imagelab
 import numpy as np
 import pandas as pd
+import os
 from tqdm import tqdm
 import importlib
 import sys
@@ -22,7 +24,8 @@ enc = OrdinalEncoder ()
 
 
 class Pretrained_densenet_model:
-    def __init__(self, weight_path, train_path,test_path):
+    def __init__(self, image_source,weight_path, train_path,test_path):
+        self.image_source = image_source
         self.weight_path = weight_path
         self.input_shape = (200, 200, 3)
         self.num_classes = 18
@@ -44,7 +47,58 @@ class Pretrained_densenet_model:
             layer.trainable = False
         self.model.load_weights(self.weight_path)
 
+    def check_exist(self, data):
+        sourcedir = self.image_source
+        delete_list_data = [2085, 47, 3941, 2364, 97, 2848, 3758, 3935, 681, 769, 1421, 571]
+        for i in range(data.shape[0]):
+            file_name = str(data['movieid'][i]) + '.jpg'
+            flag = True
+            for path in os.listdir(sourcedir):
+                if file_name == path:
+                    flag = False
+                    continue
+            if (flag):
+                delete_list_data.append(data['movieid'][i])
+        return delete_list_data
 
+    def preprocessing(self):
+        self.pre_movies_train = pd.read_csv(self.train_path, engine='python', sep='::',
+                                         names=['movieid', 'title', 'genre'], encoding='latin-1', index_col=False)
+        self.pre_movies_test = pd.read_csv(self.test_path, engine='python', sep='::',
+                                    names=['movieid', 'title', 'genre'], encoding='latin-1', index_col=False)
+        self.pre_movies_train['genre'] = self.pre_movies_train.genre.str.split('|')
+        self.pre_movies_test['genre'] = self.pre_movies_test.genre.str.split('|')
+
+        delete_train = self.check_exist(self.pre_movies_train)
+        delete_test = self.check_exist(self.pre_movies_test)
+
+        self.movies_train = self.pre_movies_train[~self.pre_movies_train['movieid'].isin(delete_train)]
+        self.movies_test = self.pre_movies_test[~self.pre_movies_test['movieid'].isin(delete_test)]
+
+        # new_file_train_path = 'dataset_cleaned/movies_train_update.DAT'
+        # self.movies_train.to_csv(new_file_train_path, sep=',', encoding='latin-1', index=False, header=False)
+        # new_file_test_path = '/content/drive/MyDrive/output/movies_test_update.DAT'
+        # self.movies_test.to_csv(new_file_test_path, sep=',', encoding='latin-1', index=False, header=False)
+        
+        genres = ['Action', 'Adventure', 'Animation', "Children's", 'Comedy',
+                  'Crime', 'Documentary', 'Drama', 'Fantasy', 'Film-Noir', 'Horror',
+                  'Musical', 'Mystery', 'Romance', 'Sci-Fi', 'Thriller', 'War', 'Western']
+        for genre in genres:
+            self.movies_test[genre] = self.movies_test['genre'].apply(lambda x: 1 if genre in x else 0)
+        self.genre_df = pd.DataFrame(self.movies_test['genre'].explode())
+        print(self.movies_test)
+    def load_data(self, data):
+        X_dataset = []
+        for i in tqdm(range(data.shape[0])):
+            img = image.load_img(self.image_source + '/' + str(data['movieid'][i]) + '.jpg', target_size=self.input_shape)
+            img = image.img_to_array(img)
+            img = img / 255.
+            X_dataset.append(img)
+        X = np.array(X_dataset)
+        mlb = MultiLabelBinarizer ()
+        mlb.fit(data['genre'])
+        Y = mlb.transform(data['genre'])
+        return X, Y
     def recall_m(self, y_true, y_pred):
         true_positives = K.sum(K.round(K.clip(y_true * y_pred, 0, 1)))
         possible_positives = K.sum(K.round(K.clip(y_true, 0, 1)))
@@ -61,32 +115,6 @@ class Pretrained_densenet_model:
         precision = self.precision_m(y_true, y_pred)
         recall = self.recall_m(y_true, y_pred)
         return 2 * ((precision * recall) / (precision + recall + K.epsilon ()))
-    def preprocessing(self):
-        self.movies_train = pd.read_csv(self.train_path, engine='python', sep=',',
-                                         names=['movieid', 'title', 'genre'], encoding='latin-1', index_col=False)
-        self.movies_test = pd.read_csv(self.test_path, engine='python', sep=',',
-                                    names=['movieid', 'title', 'genre'], encoding='latin-1', index_col=False)
-        self.movies_train['genre'] = self.movies_train.genre.str.split('|')
-        self.movies_test['genre'] = self.movies_test.genre.str.split('|')
-
-        genres = ['Action', 'Adventure', 'Animation', "Children's", 'Comedy',
-                  'Crime', 'Documentary', 'Drama', 'Fantasy', 'Film-Noir', 'Horror',
-                  'Musical', 'Mystery', 'Romance', 'Sci-Fi', 'Thriller', 'War', 'Western']
-        for genre in genres:
-            self.movies_test[genre] = self.movies_test['genre'].apply(lambda x: 1 if genre in x else 0)
-        self.genre_df = pd.DataFrame(self.movies_test['genre'].explode())
-    def load_data(self, data):
-        X_dataset = []
-        for i in tqdm(range(data.shape[0])):
-            img = image.load_img('ml1m-images/' + str(data['movieid'][i]) + '.jpg', target_size=self.input_shape)
-            img = image.img_to_array(img)
-            img = img / 255.
-            X_dataset.append(img)
-        X = np.array(X_dataset)
-        mlb = MultiLabelBinarizer ()
-        mlb.fit(data['genre'])
-        Y = mlb.transform(data['genre'])
-        return X, Y
     def train(self):
         self.x_train, self.y_train = self.load_data(self.movies_train)
         self.x_test, self.y_test = self.load_data(self.movies_test)
@@ -111,15 +139,15 @@ class Pretrained_densenet_model:
 
 
 def main():
-    train_path = 'dataset_cleaned/movies_train_update.DAT'
-    test_path = 'dataset_cleaned/movies_test_update.DAT'
+    train_path = 'pre_data/movies_train.dat'
+    test_path = 'pre_data/movies_test.dat'
     weight_path = 'dataset_cleaned/best_weights_32.h5'
-    
-    model = Pretrained_densenet_model(weight_path, train_path, test_path)
+    image_source = 'ml1m-images'
+    model = Pretrained_densenet_model(image_source,weight_path, train_path, test_path)
     model.preprocessing()
-    model.train()
-    model.evaluate()
-    model.calculating()
+    # model.train()
+    # model.evaluate()
+    # model.calculating()
 #%%
 if __name__ == '__main__':
     main()

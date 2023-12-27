@@ -74,11 +74,17 @@ class Pretrained_densenet_model:
 
         self.movies_train = self.pre_movies_train[~self.pre_movies_train['movieid'].isin(delete_train)]
         self.movies_test = self.pre_movies_test[~self.pre_movies_test['movieid'].isin(delete_test)]
-
         # new_file_train_path = 'dataset_cleaned/movies_train_update.DAT'
         # self.movies_train.to_csv(new_file_train_path, sep=',', encoding='latin-1', index=False, header=False)
         # new_file_test_path = '/content/drive/MyDrive/output/movies_test_update.DAT'
         # self.movies_test.to_csv(new_file_test_path, sep=',', encoding='latin-1', index=False, header=False)
+        self.movies_train = pd.read_csv ( 'dataset_cleaned/movies_train_update.DAT', engine='python', sep=',',
+                                              names=['movieid', 'title', 'genre'], encoding='latin-1', index_col=False )
+        self.movies_test = pd.read_csv ( 'dataset_cleaned/movies_test_update.DAT', engine='python', sep=',',
+                                             names=['movieid', 'title', 'genre'], encoding='latin-1', index_col=False )
+        self.movies_train['genre'] = self.movies_train.genre.str.split ( '|' )
+        self.movies_test['genre'] = self.movies_test.genre.str.split ( '|' )
+
         
         genres = ['Action', 'Adventure', 'Animation', "Children's", 'Comedy',
                   'Crime', 'Documentary', 'Drama', 'Fantasy', 'Film-Noir', 'Horror',
@@ -86,11 +92,11 @@ class Pretrained_densenet_model:
         for genre in genres:
             self.movies_test[genre] = self.movies_test['genre'].apply(lambda x: 1 if genre in x else 0)
         self.genre_df = pd.DataFrame(self.movies_test['genre'].explode())
-
+        print(self.movies_train)
     def load_data(self, data):
         X_dataset = []
         for i in tqdm(range(data.shape[0])):
-            img = image.load_img(self.image_source + '/' + str(data['movieid'][i]) + '.jpg', target_size=self.input_shape)
+            img = image.load_img(self.image_source + '/'+ str(data['movieid'][i]) + '.jpg', target_size=self.input_shape)
             img = image.img_to_array(img)
             img = img / 255.
             X_dataset.append(img)
@@ -118,14 +124,14 @@ class Pretrained_densenet_model:
     def train(self):
         self.x_train, self.y_train = self.load_data(self.movies_train)
         self.x_test, self.y_test = self.load_data(self.movies_test)
-        history = self.model.fit(self.x_train, self.y_train, verbose = 1, epochs=50,
-                                 validation_data=(self.x_test, self.y_test),batch_size = 64)
+        # history = self.model.fit(self.x_train, self.y_train, verbose = 1, epochs=50,
+        #                          validation_data=(self.x_test, self.y_test),batch_size = 64)
     def predict(self):
         self.y_pred = self.model.predict(self.x_test)
         self.sorted_prediction_ids = np.argsort(-self.y_pred, axis=1)
 
         enc.fit_transform(self.genre_df[['genre']])
-        self.vectors_labels_test = self.y_test
+        self.vectors_labels_test = self.movies_test.drop(columns = ['movieid', 'title', 'genre'], axis = 1)
 
     def get_column_names(self, row):
         return list(self.vectors_labels_test.columns[row == 1])

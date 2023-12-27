@@ -66,21 +66,21 @@ class Pretrained_densenet_model:
                                          names=['movieid', 'title', 'genre'], encoding='latin-1', index_col=False)
         self.pre_movies_test = pd.read_csv(self.test_path, engine='python', sep='::',
                                     names=['movieid', 'title', 'genre'], encoding='latin-1', index_col=False)
-        self.pre_movies_train['genre'] = self.pre_movies_train.genre.str.split('|')
-        self.pre_movies_test['genre'] = self.pre_movies_test.genre.str.split('|')
+        # self.pre_movies_train['genre'] = self.pre_movies_train.genre.str.split('|')
+        # self.pre_movies_test['genre'] = self.pre_movies_test.genre.str.split('|')
 
         delete_train = self.check_exist(self.pre_movies_train)
         delete_test = self.check_exist(self.pre_movies_test)
 
         self.movies_train_update = self.pre_movies_train[~self.pre_movies_train['movieid'].isin(delete_train)]
         self.movies_test_update = self.pre_movies_test[~self.pre_movies_test['movieid'].isin(delete_test)]
-        # new_file_train_path = 'dataset_cleaned/movies_train_update.DAT'
-        # self.movies_train_update.to_csv(new_file_train_path, sep=',', encoding='latin-1', index=False, header=False)
-        # new_file_test_path = 'dataset_cleaned/movies_test_update.DAT'
-        # self.movies_test_update.to_csv(new_file_test_path, sep=',', encoding='latin-1', index=False, header=False)
-        self.movies_train = pd.read_csv ( 'dataset_cleaned/movies_train_update.DAT', engine='python', sep=',',
+        new_file_train_path = 'dataset_cleaned/movies_train_update1.DAT'
+        self.movies_train_update.to_csv(new_file_train_path, sep=',', encoding='latin-1', index=False, header=False)
+        new_file_test_path = 'dataset_cleaned/movies_test_update1.DAT'
+        self.movies_test_update.to_csv(new_file_test_path, sep=',', encoding='latin-1', index=False, header=False)
+        self.movies_train = pd.read_csv ( 'dataset_cleaned/movies_train_update1.DAT', engine='python', sep=',',
                                               names=['movieid', 'title', 'genre'], encoding='latin-1', index_col=False )
-        self.movies_test = pd.read_csv ( 'dataset_cleaned/movies_test_update.DAT', engine='python', sep=',',
+        self.movies_test = pd.read_csv ( 'dataset_cleaned/movies_test_update1.DAT', engine='python', sep=',',
                                              names=['movieid', 'title', 'genre'], encoding='latin-1', index_col=False )
         self.movies_train['genre'] = self.movies_train.genre.str.split('|')
         self.movies_test['genre'] = self.movies_test.genre.str.split('|')
@@ -121,7 +121,7 @@ class Pretrained_densenet_model:
         recall = self.recall_m(y_true, y_pred)
         return 2 * ((precision * recall) / (precision + recall + K.epsilon ()))
     def train(self):
-        self.x_train, self.y_train = self.load_data(self.movies_train)
+        # self.x_train, self.y_train = self.load_data(self.movies_train)
         self.x_test, self.y_test = self.load_data(self.movies_test)
         # history = self.model.fit(self.x_train, self.y_train, verbose = 1, epochs=50,
         #                          validation_data=(self.x_test, self.y_test),batch_size = 64)

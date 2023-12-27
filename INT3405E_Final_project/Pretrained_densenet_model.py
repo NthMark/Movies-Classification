@@ -38,35 +38,35 @@ class Pretrained_densenet_model:
         x = Dropout(0.5)(x)
         predictions = Dense(self.num_classes, activation='sigmoid')(x)
         self.model = Model(inputs=base_model.input, outputs=predictions)
-        self.model.compile ( optimizer=Adam ( lr=self.learning_rate ), loss='binary_crossentropy',
-                        metrics=[self.f1_m] )
+        self.model.compile(optimizer=Adam(lr=self.learning_rate), loss='binary_crossentropy',
+                        metrics=[self.f1_m])
         for layer in base_model.layers:
             layer.trainable = False
         self.model.load_weights(self.weight_path)
 
 
-    def recall_m(y_true, y_pred):
-        true_positives = K.sum ( K.round ( K.clip ( y_true * y_pred, 0, 1 ) ) )
-        possible_positives = K.sum ( K.round ( K.clip ( y_true, 0, 1 ) ) )
+    def recall_m(self, y_true, y_pred):
+        true_positives = K.sum(K.round(K.clip(y_true * y_pred, 0, 1)))
+        possible_positives = K.sum(K.round(K.clip(y_true, 0, 1)))
         recall = true_positives / (possible_positives + K.epsilon ())
         return recall
 
-    def precision_m(y_true, y_pred):
-        true_positives = K.sum ( K.round ( K.clip ( y_true * y_pred, 0, 1 ) ) )
-        predicted_positives = K.sum ( K.round ( K.clip ( y_pred, 0, 1 ) ) )
+    def precision_m(self, y_true, y_pred):
+        true_positives = K.sum(K.round(K.clip(y_true * y_pred, 0, 1)))
+        predicted_positives = K.sum(K.round(K.clip(y_pred, 0, 1)))
         precision = true_positives / (predicted_positives + K.epsilon ())
         return precision
 
-    def f1_m(y_true, y_pred):
-        precision = precision_m ( y_true, y_pred )
-        recall = recall_m ( y_true, y_pred )
+    def f1_m(self, y_true, y_pred):
+        precision = self.precision_m(y_true, y_pred)
+        recall = self.recall_m(y_true, y_pred)
         return 2 * ((precision * recall) / (precision + recall + K.epsilon ()))
     def preprocessing(self):
-        self.movies_train = pd.read_csv ( self.train_path, engine='python', sep=',',
-                                         names=['movieid', 'title', 'genre'], encoding='latin-1', index_col=False )
+        self.movies_train = pd.read_csv(self.train_path, engine='python', sep=',',
+                                         names=['movieid', 'title', 'genre'], encoding='latin-1', index_col=False)
         self.movies_test = pd.read_csv(self.test_path, engine='python', sep=',',
                                     names=['movieid', 'title', 'genre'], encoding='latin-1', index_col=False)
-        self.movies_train['genre'] = self.movies_train.genre.str.split ( '|' )
+        self.movies_train['genre'] = self.movies_train.genre.str.split('|')
         self.movies_test['genre'] = self.movies_test.genre.str.split('|')
 
         genres = ['Action', 'Adventure', 'Animation', "Children's", 'Comedy',
@@ -88,8 +88,8 @@ class Pretrained_densenet_model:
         Y = mlb.transform(data['genre'])
         return X, Y
     def train(self):
-        self.x_train, self.y_train = self.load_data ( self.movies_train )
-        self.x_test, self.y_test = self.load_data ( self.movies_test )
+        self.x_train, self.y_train = self.load_data(self.movies_train)
+        self.x_test, self.y_test = self.load_data(self.movies_test)
         history = self.model.fit(self.x_train, self.y_train, verbose = 1, epochs=50,
                                  validation_data=(self.x_test, self.y_test),batch_size = 64)
     def evaluate(self):

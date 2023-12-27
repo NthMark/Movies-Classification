@@ -23,7 +23,6 @@ from sklearn.model_selection import train_test_split
 
 import pandas as pd
 import numpy as np
-import cv2
 import os
 from nltk import wordpunct_tokenize
 import re
@@ -41,11 +40,10 @@ from tensorflow.keras.metrics import *
 from tensorflow.keras import layers, models
 from keras.models import load_model
 from keras.optimizers import Adam
-
 class ModelByRating:
     def __init__(self,movie_train,movie_test,user,rating):
-        self.movie_train=movie_train
-        self.movie_test=movie_test
+        self.movie_train=movie_train.copy()
+        self.movie_test=movie_test.copy()
         self.movie_train['genre'] = self.movie_train.genre.str.split('|')
         self.movie_test['genre'] = self.movie_test.genre.str.split('|')
         self.user=user
@@ -83,6 +81,7 @@ class ModelByRating:
 
         self.vectors_genre1=[]
         self.vectors_labels=[]
+        self.vector_movieids=[]
         tree = KDTree(self.x_train[param_rating.list_train], leaf_size=2) 
         for i in range(len(self.data1_unique)):
             data1_each=self.data1[self.data1["movieid"]==int(self.data1_unique["movieid"].iloc[i])]
@@ -99,7 +98,8 @@ class ModelByRating:
                         genre_vector1[param_rating.genre2idx[g]] += 1
                 self.vectors_genre1.append(genre_vector1.astype(int))
                 self.vectors_labels.append(self.data1_unique["genre_vectors"].iloc[i].tolist())
-        
+                self.vector_movieids.append(int(self.data1_unique["movieid"].iloc[i]))
+
         self.vectors_labels=pd.DataFrame(self.vectors_labels)
         vectors_genre_table=pd.DataFrame(self.vectors_genre1)
         scaler=MinMaxScaler()
@@ -180,6 +180,19 @@ class ModelByRating:
             pickle.dump(model_rating, file)
         with open('./content/trained_model_params/hyperparamByRating.pkl', 'wb') as file:
             pickle.dump(hype_param_best, file)
+    def getValueByRating(self):
+        if self.isTrained==False and self.isPreprocess==True:
+            raise Exception('train_model() needs to be proceeded!')
+        if self.isPreprocess==False:
+            raise Exception('preprocess_data() needs to be proceeded first!')
+        train_rating=pd.DataFrame()
+        model_rating=pickle.load(open('./content/trained_model_params/modelByRating.pkl','rb'))
+        for i in range(self.vectors_labels.shape[1]):
+            y_pred_X = model_rating[i].predict_proba(self.vectors_train)[:,1]
+            train_rating[list(param_rating.genre2idx.keys())[list(param_rating.genre2idx.values()).index(i)]]=y_pred_X
+        train_rating["movieid"]=self.vector_movieids
+        train_rating.to_csv('./content/submission1.csv')
+        return train_rating
     def predict(self):
         if self.isTrained==False and self.isPreprocess==True:
             raise Exception('train_model() needs to be proceeded!')
@@ -208,6 +221,8 @@ class ModelByRating:
         top_5_prediction_ids = sorted_prediction_ids[:,:5]
         vectors_labels_test_new=self.vectors_labels_test.apply(self.get_column_names,axis=1).tolist()
         print(map_at_k.mapk(vectors_labels_test_new,top_5_prediction_ids,k=5))
+
+
 
 class ModelByTitle:
     def __init__(self,movie_train) :
@@ -434,9 +449,51 @@ class ModelByTitle:
         with open('./content/trained_model_params/log_chainsByTitle.pkl', 'wb') as file:
             pickle.dump(logreg_list, file)
 
+
     def __add_feature(self,X, feature_to_add):
             return hstack([X, csr_matrix(feature_to_add).T], 'csr')
     
+    def getValueByTitle(self):
+        if self.isTrained==False and self.isPreprocess==True:
+            raise Exception('train_model() needs to be proceeded!')
+        if self.isPreprocess==False:
+            raise Exception('preprocess_data() needs to be proceeded first!')
+        log_smote=pickle.load(open('./content/trained_model_params/log_borderlineSMOTEmodelByTitle.pkl', 'rb'))
+        log_smoteenn=pickle.load(open('./content/trained_model_params/log_borderlineSMOTEENNmodelByTitle.pkl', 'rb'))
+        boosting=pickle.load(open('./content/trained_model_params/gradientboostingbytitle.pkl', 'rb'))
+        neural=load_model('./content/trained_model_params/neuralbytitle.h5', custom_objects={'f1_m': neural_metrics.f1_m, 
+                                                               'precision_m': neural_metrics.precision_m, 
+                                                               'recall_m': neural_metrics.recall_m})
+        log_chains=pickle.load(open('./content/trained_model_params/log_chainsByTitle.pkl', 'rb'))
+        submission_binary = pd.DataFrame(columns=param_rating.genre2idx.keys())
+        submission_binary_combined = pd.DataFrame(columns=param_rating.genre2idx.keys())
+        submission_boost = pd.DataFrame(columns=param_rating.genre2idx.keys())
+        submission_chains = pd.DataFrame(columns=param_rating.genre2idx.keys())
+        #Logistic Regression with BorderlineSMOTE algorithm
+        for label in param_rating.genre2idx.keys():
+            test_y_prob = log_smoteenn[param_rating.genre2idx[label]].predict_proba(self.x_train)[:,1]
+            submission_binary[label] = test_y_prob
+        #Logistic Regression with SMOTEENN algorithm 
+        for label in param_rating.genre2idx.keys():
+            test_y_prob = log_smote[param_rating.genre2idx[label]].predict_proba(self.x_train)[:,1]
+            submission_binary_combined[label] = test_y_prob
+        #Gradient Boosting    
+        for label in param_rating.genre2idx.keys():
+            test_y_prob = boosting[param_rating.genre2idx[label]].predict_proba(self.x_train)[:,1]
+            submission_boost[label] = test_y_prob
+        #Neural network
+        submission_neural = neural.predict(self.x_train)
+        x_train_classfier=self.x_train.copy()
+        for label in param_rating.genre2idx.keys():
+            train_y = log_chains[param_rating.genre2idx[label]].predict(x_train_classfier)
+            train_y_prob = log_chains[param_rating.genre2idx[label]].predict_proba(x_train_classfier)[:,1]
+            submission_chains[label] = train_y_prob
+            x_train_classfier = self.__add_feature(x_train_classfier, train_y)
+        submission_title=(submission_binary_combined[param_rating.genre2idx.keys()]+submission_binary[param_rating.genre2idx.keys()]+submission_boost[param_rating.genre2idx.keys()]+submission_neural
+                     +submission_chains[param_rating.genre2idx.keys()])/5 
+        submission_title['movieid']=self.movie_train['movieid']
+        submission_title.to_csv('./content/submission2.csv')
+        return submission_title
     def predict(self,movie_test):
         if self.isTrained==False and self.isPreprocess==True:
             raise Exception('train_model() needs to be proceeded!')
@@ -452,16 +509,12 @@ class ModelByTitle:
         neural=load_model('./content/trained_model_params/neuralbytitle.h5', custom_objects={'f1_m': neural_metrics.f1_m, 
                                                                'precision_m': neural_metrics.precision_m, 
                                                                'recall_m': neural_metrics.recall_m})
-        
         # svm=pickle.load(open('./content/trained_model_params/svm_modelByTitle.pkl', 'rb'))
-
         log_chains=pickle.load(open('./content/trained_model_params/log_chainsByTitle.pkl', 'rb'))
         submission_binary = pd.DataFrame(columns=param_rating.genre2idx.keys())
         submission_binary_combined = pd.DataFrame(columns=param_rating.genre2idx.keys())
         submission_boost = pd.DataFrame(columns=param_rating.genre2idx.keys())
-
         # submission_svm = pd.DataFrame(columns=param_rating.genre2idx.keys())
-
         submission_chains = pd.DataFrame(columns=param_rating.genre2idx.keys())
         #Logistic Regression with BorderlineSMOTE algorithm
         for label in param_rating.genre2idx.keys():
@@ -605,6 +658,19 @@ class ModelByImage:
         else:# train 7 million params→ takes a lot of time
             _ = self.model.fit(self.x_train, self.y_train, verbose = 1, epochs=50,
                                      validation_data=(self.x_test, self.y_test),batch_size = 64)
+    def getValueByImage(self):
+        if self.isTrained==False and self.isPreprocess==True:
+            raise Exception('train() needs to be proceeded!')
+        if self.isPreprocess==False:
+            raise Exception('preprocessing() needs to be proceeded first!')
+        
+        train_img=pd.DataFrame(self.model.predict(self.x_train))
+        submission_img = pd.DataFrame(columns=param_rating.genre2idx.keys())
+        for label in param_rating.genre2idx.keys():
+            submission_img[label]=train_img[param_rating.genre2idx[label]]
+        submission_img['movieid']=self.movies_train['movieid']
+        submission_img.to_csv('./content/submission3.csv')
+        return train_img
     def predict(self):
         if self.isTrained==False and self.isPreprocess==True:
             raise Exception('train() needs to be proceeded!')
@@ -634,7 +700,30 @@ class ModelByImage:
         top_5_predictions = top_5_predictions.reshape(original_shape)
         print('Map@K score =  {:.3}'.format(map_at_k.mapk(vectors_labels_test_new, top_5_predictions, k = 5)))
 
+class FinalModel:
+    def __init__(self, movie_train, movie_test,user,rating,image_source,weight_path) :
+        self.movie_train=movie_train
+        self.movie_test=movie_test
+        self.user=user
+        self.rating=rating
+        self.image_source=image_source
+        self.weight_path=weight_path
+        self.w1=0
+        self.w2=0
+        self.w3=0
+    def predict(self):
+        self.model1=ModelByRating(self.movie_train,self.movie_test,self.user,self.rating)
+        self.model1.preprocess_data()
+        self.model1.train_model()
+        self.model2=ModelByTitle(self.movie_train)
+        self.model2.preprocess_data()
+        self.model2.train_model()
+        self.model3=ModelByImage(self.image_source,self.movie_train,self.movie_test,self.weight_path)
+        self.model3.preprocessing()
+        self.model3.train()
+    def train_model(self):
 
+        return self.model1.getValueByRating()+self.model2.getValueByTitle()+self.model3.getValueByImage()
 if __name__=='__main__':
     users = pd.read_csv('./content/dataset/users.dat', sep='::',
                         engine='python',
@@ -647,13 +736,23 @@ if __name__=='__main__':
                             sep='::', names=['movieid', 'title', 'genre'], encoding='latin-1', index_col=False).set_index('movieid')                         
     # movies_train['genre'] = movies_train.genre.str.split('|')
     # movies_test['genre'] = movies_test.genre.str.split('|')
-    model1=ModelByRating(movies_train,movies_test,users,ratings)
-    model1.preprocess_data()
-    model1.train_model()
-    model1.predict()
-    model1.evaluate_model()
+    # model1=ModelByRating(movies_train,movies_test,users,ratings)
+    # model1.preprocess_data()
+    # model1.train_model()
+    # model1.getValueByRating()
+    # model1.predict()
+    # model1.evaluate_model()
     # model2=ModelByTitle(movies_train)
     # model2.preprocess_data()
     # model2.train_model()
+    # model2.getValueByTitle()
     # model2.predict(movies_test)
     # model2.evaluate_model()
+    weight_path = './content/dataset_cleaned/best_weights_32.h5'
+    image_source = './content/dataset/ml1m-images'
+    model3=ModelByImage(image_source,movies_train,movies_test,weight_path)
+    model3.preprocessing()
+    model3.train()
+    model3.getValueByImage()
+    model3.predict()
+    model3.evaluate_model()

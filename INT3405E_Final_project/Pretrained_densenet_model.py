@@ -33,8 +33,7 @@ class Pretrained_densenet_model:
         self.test_path = test_path
         self.train_path = train_path
 
-        base_model = DenseNet121(weights = 'dataset_cleaned/densenet121_notop.h5',
-                                 include_top=False, input_shape=self.input_shape)
+        base_model = DenseNet121(include_top=False, input_shape=self.input_shape)
         x = base_model.output
         x = GlobalAveragePooling2D()(x)
         x = Dense(32, activation='relu', kernel_regularizer=regularizers.l2(0.01))(x)

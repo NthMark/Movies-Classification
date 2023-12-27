@@ -73,10 +73,12 @@ class Pretrained_densenet_model:
 
         self.movies_train_update = self.pre_movies_train[~self.pre_movies_train['movieid'].isin(delete_train)]
         self.movies_test_update = self.pre_movies_test[~self.pre_movies_test['movieid'].isin(delete_test)]
+
         new_file_train_path = 'dataset_cleaned/movies_train_update1.DAT'
         self.movies_train_update.to_csv(new_file_train_path, sep=',', encoding='latin-1', index=False, header=False)
         new_file_test_path = 'dataset_cleaned/movies_test_update1.DAT'
         self.movies_test_update.to_csv(new_file_test_path, sep=',', encoding='latin-1', index=False, header=False)
+
         self.movies_train = pd.read_csv ( 'dataset_cleaned/movies_train_update1.DAT', engine='python', sep=',',
                                               names=['movieid', 'title', 'genre'], encoding='latin-1', index_col=False )
         self.movies_test = pd.read_csv ( 'dataset_cleaned/movies_test_update1.DAT', engine='python', sep=',',

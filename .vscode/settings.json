@@ -1,0 +1,7 @@
+{
+    "python.analysis.extraPaths": [
+        "./content/params",
+        "./content/metrics",
+        "./content/model_class"
+    ]
+}

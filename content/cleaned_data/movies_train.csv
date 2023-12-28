@@ -1,0 +1,3107 @@
+movieid,title,genre
+1650,Washington Square,['Drama']
+185,The Net,"['Sci-Fi', 'Thriller']"
+1377,Batman Returns,"['Action', 'Adventure', 'Comedy', 'Crime']"
+3204,The Boys from Brazil,['Thriller']
+1901,Dear Jesse,['Documentary']
+758,The Jar,['Drama']
+1636,Stag,"['Action', 'Thriller']"
+2382,Police Academy 5: Assignment: Miami Beach,['Comedy']
+3126,The End of the Affair,['Drama']
+2440,Another Day in Paradise,['Drama']
+794,Midnight Dancers,"['Comedy', 'Drama']"
+347,Bitter Moon,['Drama']
+3421,Animal House,['Comedy']
+2304,Love Is the Devil,['Drama']
+1587,Conan the Barbarian,"['Action', 'Adventure']"
+1438,Dante's Peak,"['Action', 'Thriller']"
+1169,American Dream,['Documentary']
+2714,The Wood,['Drama']
+3522,Sacco and Vanzetti,['Drama']
+3213,Batman: Mask of the Phantasm,"['Animation', ""Children's""]"
+1059,William Shakespeare's Romeo and Juliet,"['Drama', 'Romance']"
+2523,Rollercoaster,"['Drama', 'Thriller']"
+3275,The Boondock Saints,"['Action', 'Comedy']"
+2598,Pushing Tin,['Comedy']
+2121,Cujo,"['Horror', 'Thriller']"
+3225,Down to You,"['Comedy', 'Romance']"
+3202,Even Dwarfs Started Small,['Drama']
+2933,The Fire Within,['Drama']
+1017,Swiss Family Robinson,"['Adventure', ""Children's""]"
+1146,Curtis's Charm,"['Comedy', 'Drama']"
+1648,The House of Yes,"['Comedy', 'Drama', 'Thriller']"
+801,Harriet the Spy,"[""Children's"", 'Comedy']"
+2101,Squanto: A Warrior's Tale,"['Adventure', 'Drama']"
+1616,The Peacemaker,"['Action', 'Thriller', 'War']"
+419,The Beverly Hillbillies,['Comedy']
+2078,The Jungle Book,"['Animation', ""Children's"", 'Comedy', 'Musical']"
+3531,All the Vermeers in New York,"['Comedy', 'Drama', 'Romance']"
+3014,Bustin' Loose,['Comedy']
+1240,The Terminator,"['Action', 'Sci-Fi', 'Thriller']"
+1374,Star Trek: The Wrath of Khan,"['Action', 'Adventure', 'Sci-Fi']"
+2940,Gilda,['Film-Noir']
+1123,A Perfect Candidate,['Documentary']
+1439,Meet Wally Sparks,['Comedy']
+312,Stuart Saves His Family,['Comedy']
+3163,Topsy-Turvy,['Drama']
+3702,Mad Max,"['Action', 'Sci-Fi']"
+2081,The Little Mermaid,"['Animation', ""Children's"", 'Comedy', 'Musical', 'Romance']"
+3049,How I Won the War,"['Comedy', 'War']"
+3850,Whatever Happened to Aunt Alice?,"['Crime', 'Thriller']"
+1367,101 Dalmatians,"[""Children's"", 'Comedy']"
+1284,The Big Sleep,"['Film-Noir', 'Mystery']"
+1378,Young Guns,"['Action', 'Comedy', 'Western']"
+1876,Deep Impact,"['Action', 'Drama', 'Sci-Fi', 'Thriller']"
+2173,The Navigator: A Mediaeval Odyssey,"['Adventure', 'Fantasy', 'Sci-Fi']"
+1906,Mr. Jealousy,"['Comedy', 'Romance']"
+152,The Addiction,['Horror']
+1795,El CallejÃ³n de los milagros,['Drama']
+3610,Roustabout,['Musical']
+2162,The NeverEnding Story II: The Next Chapter,"['Adventure', ""Children's"", 'Fantasy']"
+2522,Airport '77,['Drama']
+3190,Supernova,"['Adventure', 'Sci-Fi']"
+1114,The Funeral,['Drama']
+659,Purple Noon,"['Crime', 'Thriller']"
+2260,Wisdom,"['Action', 'Crime']"
+1056,Jude,['Drama']
+2348,Sid and Nancy,['Drama']
+1055,Shadow Conspiracy,['Thriller']
+593,The Silence of the Lambs,"['Drama', 'Thriller']"
+895,Venice/Venice,['Drama']
+1416,Evita,"['Drama', 'Musical']"
+3596,Screwed,['Comedy']
+1976,Friday the 13th Part 3: 3D,['Horror']
+2652,The Curse of Frankenstein,['Horror']
+691,Mrs. Winterbourne,"['Comedy', 'Romance']"
+2041,Condorman,"['Action', 'Adventure', ""Children's"", 'Comedy']"
+3046,The Incredibly True Adventure of Two Girls in Love,"['Comedy', 'Romance']"
+965,The 39 Steps,['Thriller']
+3554,Love and Basketball,"['Drama', 'Romance']"
+1830,Follow the Bitch,['Comedy']
+918,Meet Me in St. Louis,['Musical']
+2979,Body Shots,['Drama']
+1076,The Innocents,['Thriller']
+1205,The Transformers: The Movie,"['Action', 'Animation', ""Children's"", 'Sci-Fi', 'Thriller', 'War']"
+3114,Toy Story 2,"['Animation', ""Children's"", 'Comedy']"
+2178,Frenzy,['Thriller']
+3075,Repulsion,['Thriller']
+2564,The Empty Mirror,['Drama']
+1710,Man of Her Dreams,['Drama']
+3636,Those Who Love Me Can Take the Train,['Drama']
+2160,Rosemary's Baby,"['Horror', 'Thriller']"
+2956,Someone to Watch Over Me,"['Action', 'Crime', 'Thriller']"
+632,Land and Freedom,['War']
+2321,Pleasantville,['Comedy']
+1307,When Harry Met Sally...,"['Comedy', 'Romance']"
+3609,Regret to Inform,['Documentary']
+806,American Buffalo,['Drama']
+1676,Starship Troopers,"['Action', 'Adventure', 'Sci-Fi', 'War']"
+796,A Very Natural Thing,['Drama']
+1145,Snowriders,['Documentary']
+1134,Johnny 100 Pesos,"['Action', 'Drama']"
+1354,Breaking the Waves,['Drama']
+670,The World of Apu,['Drama']
+3840,Pumpkinhead,['Horror']
+1305,Texas Paris,['Drama']
+3773,House Party,['Comedy']
+3464,Solar Crisis,"['Sci-Fi', 'Thriller']"
+1485,Liar Liar,['Comedy']
+55,Georgia,['Drama']
+3254,Wayne's World 2,['Comedy']
+738,Le Garcu,['Drama']
+3758,Communion,"['Drama', 'Sci-Fi', 'Thriller']"
+2339,I'll Be Home For Christmas,"['Comedy', 'Romance']"
+1256,Duck Soup,"['Comedy', 'War']"
+720,Wallace & Gromit: The Best of Aardman Animation,['Animation']
+865,Small Faces,['Drama']
+3768,Braddock: Missing in Action III,"['Action', 'War']"
+3377,Hangmen Also Die,"['Drama', 'War']"
+3800,Criminal Lovers,"['Drama', 'Romance']"
+2340,Meet Joe Black,['Romance']
+685,It's My Party,['Drama']
+2449,The Garbage Pail Kids Movie,"['Adventure', ""Children's""]"
+1614,In & Out,['Comedy']
+2370,The Emerald Forest,"['Action', 'Adventure', 'Drama']"
+454,The Firm,"['Drama', 'Thriller']"
+654,Und keiner weint mir nach,"['Drama', 'Romance']"
+1180,Hear My Song,['Comedy']
+2801,Oscar and Lucinda,"['Drama', 'Romance']"
+1850,Don't Touch Me! I Love You,"['Drama', 'Romance']"
+582,Metisse,['Comedy']
+577,Andre,"['Adventure', ""Children's""]"
+2509,Eight Days a Week,['Comedy']
+1325,Amityville: A New Generation,['Horror']
+1306,Until the End of the World,"['Drama', 'Sci-Fi']"
+2513,Pet Sematary,['Horror']
+1564,Roseanna's Grave,"['Comedy', 'Romance']"
+2622,A Midsummer Night's Dream,"['Comedy', 'Fantasy']"
+2180,Torn Curtain,['Thriller']
+774,Wend Kuuni,['Drama']
+1954,Rocky,"['Action', 'Drama']"
+3591,Mr. Mom,"['Comedy', 'Drama']"
+468,But Came Down a Mountain Englishman Who Went Up a Hill,"['Comedy', 'Romance']"
+847,The Big Squeeze,"['Comedy', 'Drama']"
+941,The Mark of Zorro,['Adventure']
+1394,Raising Arizona,['Comedy']
+1516,Children of the Revolution,['Comedy']
+2724,Runaway Bride,"['Comedy', 'Romance']"
+1224,Henry V,"['Drama', 'War']"
+3191,The Quarry,['Drama']
+2087,Peter Pan,"['Animation', ""Children's"", 'Fantasy', 'Musical']"
+3333,The Killing of Sister George,['Drama']
+400,Homage,['Drama']
+911,Charade,"['Comedy', 'Mystery', 'Romance', 'Thriller']"
+1724,Full Speed,['Drama']
+3542,Coming Apart,['Drama']
+3201,Five Easy Pieces,['Drama']
+1970,A Nightmare on Elm Street 3: Dream Warriors,['Horror']
+2482,Still Crazy,"['Comedy', 'Romance']"
+3690,Porky's Revenge,['Comedy']
+3289,Not One Less,['Drama']
+934,Father of the Bride,['Comedy']
+3388,Harry and the Hendersons,['Comedy']
+317,The Santa Clause,"[""Children's"", 'Comedy', 'Fantasy']"
+544,Striking Distance,['Action']
+2085,101 Dalmatians,"['Animation', ""Children's""]"
+845,The Day the Sun Turned Cold,['Drama']
+3645,Cleo From 5 to 7,['Drama']
+2594,Open Your Eyes,"['Drama', 'Romance', 'Sci-Fi']"
+3282,Different for Girls,['Comedy']
+2047,The Gnome-Mobile,"[""Children's""]"
+3115,Flawless,['Drama']
+1261,Evil Dead II,"['Action', 'Adventure', 'Comedy', 'Horror']"
+302,Queen Margot,"['Drama', 'Romance']"
+2844,The Minus Man,"['Drama', 'Mystery']"
+3184,Montana,"['Action', 'Comedy', 'Crime', 'Drama']"
+2561,True Crime,"['Crime', 'Thriller']"
+2129,The Saltmen of Tibet,['Documentary']
+3944,Bootmen,"['Comedy', 'Drama']"
+267,Major Payne,['Comedy']
+837,Matilda,"[""Children's"", 'Comedy']"
+337,What's Eating Gilbert Grape,['Drama']
+1645,The Devil's Advocate,"['Crime', 'Horror', 'Mystery', 'Thriller']"
+1349,Nosferatu a Venezia,['Horror']
+2093,Return to Oz,"['Adventure', ""Children's"", 'Fantasy', 'Sci-Fi']"
+1980,Friday the 13th Part VII: The New Blood,['Horror']
+2504,200 Cigarettes,"['Comedy', 'Drama']"
+1019,000 Leagues Under the Sea 20,"['Adventure', ""Children's"", 'Fantasy', 'Sci-Fi']"
+234,Exit to Eden,['Comedy']
+807,Rendezvous in Paris,"['Comedy', 'Romance']"
+612,The Pallbearer,['Comedy']
+3681,For a Few Dollars More,['Western']
+706,Sunset Park,['Drama']
+660,August,['Drama']
+3340,Bride of the Monster,"['Horror', 'Sci-Fi']"
+2625,Black Mask,['Action']
+1058,Bitter Sugar,['Drama']
+3753,The Patriot,"['Action', 'Drama', 'War']"
+900,An American in Paris,"['Musical', 'Romance']"
+2447,Varsity Blues,"['Comedy', 'Drama']"
+25,Leaving Las Vegas,"['Drama', 'Romance']"
+721,Halfmoon,['Drama']
+3634,Seven Days in May,['Thriller']
+110,Braveheart,"['Action', 'Drama', 'War']"
+126,The NeverEnding Story III,"['Adventure', ""Children's"", 'Fantasy']"
+505,North,['Comedy']
+3889,Highlander: Endgame,"['Action', 'Adventure', 'Fantasy']"
+3260,Howards End,['Drama']
+1060,Swingers,"['Comedy', 'Drama']"
+2226,The Ring,['Drama']
+1829,Chinese Box,"['Drama', 'Romance']"
+1573,Face/Off,"['Action', 'Sci-Fi', 'Thriller']"
+2503,The Apple,['Drama']
+1020,Cool Runnings,['Comedy']
+430,Calendar Girl,['Drama']
+2236,Simon Birch,['Drama']
+153,Batman Forever,"['Action', 'Adventure', 'Comedy', 'Crime']"
+1696,Bent,"['Drama', 'War']"
+3244,The Goodbye Girl,"['Comedy', 'Romance']"
+1148,The Wrong Trousers,"['Animation', 'Comedy']"
+461,Go Fish,"['Drama', 'Romance']"
+3485,Autopsy,['Horror']
+2742,MÃ©nage,"['Comedy', 'Drama']"
+2278,Ronin,"['Action', 'Crime', 'Thriller']"
+1099,A Christmas Carol,['Drama']
+1392,Citizen Ruth,"['Comedy', 'Drama']"
+2232,Cube,"['Sci-Fi', 'Thriller']"
+2035,Blackbeard's Ghost,"[""Children's"", 'Comedy']"
+191,The Scarlet Letter,['Drama']
+1073,Willy Wonka and the Chocolate Factory,"['Adventure', ""Children's"", 'Comedy', 'Fantasy']"
+1568,MURDER and murder,"['Crime', 'Drama', 'Mystery']"
+83,Once Upon a Time... When We Were Colored,['Drama']
+3827,Space Cowboys,"['Action', 'Sci-Fi']"
+3142,U2: Rattle and Hum,"['Documentary', 'Musical']"
+2808,Universal Soldier,"['Action', 'Sci-Fi']"
+3833,The Brain That Wouldn't Die,"['Horror', 'Sci-Fi']"
+3561,Stacy's Knights,['Drama']
+3243,Encino Man,['Comedy']
+1657,Wonderland,['Documentary']
+1080,Monty Python's Life of Brian,['Comedy']
+2056,In Search of the Castaways,"['Adventure', ""Children's""]"
+3578,Gladiator,"['Action', 'Drama']"
+3592,Time Masters,"['Animation', 'Sci-Fi']"
+3078,Liberty Heights,['Drama']
+44,Mortal Kombat,"['Action', 'Adventure']"
+3527,Predator,"['Action', 'Sci-Fi', 'Thriller']"
+983,Madagascar Skin,['Romance']
+3094,Maurice,"['Drama', 'Romance']"
+188,The Prophecy,['Horror']
+2396,Shakespeare in Love,"['Comedy', 'Romance']"
+1654,FairyTale: A True Story,"[""Children's"", 'Drama', 'Fantasy']"
+3303,Black Tar Heroin: The Dark End of the Street,['Documentary']
+39,Clueless,"['Comedy', 'Romance']"
+3187,Trans,['Drama']
+778,Trainspotting,['Drama']
+484,Lassie,"['Adventure', ""Children's""]"
+2787,Cat's Eye,['Horror']
+555,True Romance,"['Action', 'Crime', 'Romance']"
+3726,Assault on Precinct 13,"['Action', 'Thriller']"
+2336,Elizabeth,['Drama']
+2204,Saboteur,['Thriller']
+710,Celtic Pride,['Comedy']
+2816,Iron Eagle II,"['Action', 'War']"
+1172,Cinema Paradiso,"['Comedy', 'Drama', 'Romance']"
+2265,Nothing But Trouble,"['Adventure', 'Comedy']"
+3033,Spaceballs,"['Comedy', 'Sci-Fi']"
+1558,Sudden Manhattan,['Comedy']
+2942,Flashdance,"['Drama', 'Romance']"
+2815,Iron Eagle,"['Action', 'War']"
+3045,Peter's Friends,"['Comedy', 'Drama']"
+569,Little Big League,"[""Children's"", 'Comedy']"
+2498,My Favorite Martian,"['Comedy', 'Sci-Fi']"
+946,To Be or Not to Be,"['Comedy', 'Drama', 'War']"
+3192,The Terrorist,['Drama']
+1921,Pi,"['Sci-Fi', 'Thriller']"
+2891,Texas Happy,['Comedy']
+3736,The Big Carnival,['Drama']
+3012,Battling Butler,['Comedy']
+2744,Otello,['Drama']
+280,Murder in the First,"['Drama', 'Thriller']"
+2835,Chill Factor,"['Action', 'Thriller']"
+2699,Arachnophobia,"['Action', 'Comedy', 'Sci-Fi', 'Thriller']"
+2907,Superstar,['Comedy']
+2199,Phoenix,"['Crime', 'Drama']"
+2407,Cocoon,"['Comedy', 'Sci-Fi']"
+598,Window to Paris,['Comedy']
+736,Twister,"['Action', 'Adventure', 'Romance', 'Thriller']"
+1820,The Proposition,['Drama']
+303,The Quick and the Dead,"['Action', 'Adventure', 'Western']"
+2202,Lifeboat,"['Drama', 'Thriller', 'War']"
+616,The Aristocats,"['Animation', ""Children's""]"
+2748,Allan Quartermain and the Lost City of Gold,"['Action', 'Adventure']"
+2198,Modulations,['Documentary']
+34,Babe,"[""Children's"", 'Comedy', 'Drama']"
+274,Man of the House,['Comedy']
+2302,My Cousin Vinny,['Comedy']
+3796,The Wisdom of Crocodiles,"['Romance', 'Thriller']"
+378,Speechless,"['Comedy', 'Romance']"
+2355,A Bug's Life,"['Animation', ""Children's"", 'Comedy']"
+2930,Return with Honor,['Documentary']
+3326,What Planet Are You From?,"['Comedy', 'Sci-Fi']"
+1427,Turbulence,['Thriller']
+1421,Grateful Dead,['Documentary']
+585,The Brady Bunch Movie,['Comedy']
+2376,A View to a Kill,['Action']
+939,The Reluctant Debutante,"['Comedy', 'Drama']"
+1611,My Own Private Idaho,['Drama']
+2725,Twin Falls Idaho,['Drama']
+369,Mrs. Parker and the Vicious Circle,['Drama']
+1054,Get on the Bus,['Drama']
+664,Faithful,['Comedy']
+2123,All Dogs Go to Heaven,"['Animation', ""Children's""]"
+156,Blue in the Face,['Comedy']
+1484,The Daytrippers,['Mystery']
+272,The Madness of King George,['Drama']
+1442,Prefontaine,['Drama']
+68,French Twist,"['Comedy', 'Romance']"
+804,She's the One,"['Comedy', 'Romance']"
+1456,The Pest,['Comedy']
+1545,Ponette,['Drama']
+52,Mighty Aphrodite,['Comedy']
+3491,My Chauffeur,['Comedy']
+3093,McCabe & Mrs. Miller,"['Drama', 'Western']"
+3394,Blind Date,"['Comedy', 'Romance']"
+1861,Junk Mail,"['Comedy', 'Thriller']"
+3490,Horror Express,['Horror']
+1733,Afterglow,"['Drama', 'Romance']"
+1207,To Kill a Mockingbird,['Drama']
+2733,Vibes,"['Adventure', 'Comedy']"
+3685,Prizzi's Honor,"['Comedy', 'Drama', 'Romance']"
+1194,Up in Smoke,['Comedy']
+1362,The Garden of Finzi-Contini,['Drama']
+2536,The Concorde: Airport '79,['Drama']
+1937,Going My Way,['Comedy']
+2600,eXistenZ,"['Action', 'Sci-Fi', 'Thriller']"
+3787,Shower,['Comedy']
+2713,Lake Placid,"['Horror', 'Thriller']"
+1295,The Unbearable Lightness of Being,['Drama']
+489,Made in America,['Comedy']
+797,The Old Lady Who Walked in the Sea,['Comedy']
+426,Body Snatchers,"['Horror', 'Sci-Fi', 'Thriller']"
+2451,The Gate,['Horror']
+2,Jumanji,"['Adventure', ""Children's"", 'Fantasy']"
+2367,King Kong,"['Action', 'Adventure', 'Horror']"
+1026,So Dear to My Heart,"[""Children's"", 'Drama']"
+1347,A Nightmare on Elm Street,['Horror']
+47,Seven,"['Crime', 'Thriller']"
+2215,Rich and Strange,"['Comedy', 'Romance']"
+3181,Titus,['Drama']
+3487,El Dorado,['Western']
+3318,Deterrence,['Thriller']
+2554,Children of the Damned,"['Horror', 'Sci-Fi', 'Thriller']"
+1578,The Innocent Sleep,['Crime']
+1238,Local Hero,['Comedy']
+3606,On the Town,['Musical']
+699,To Cross the Rubicon,['Drama']
+3559,Limelight,['Drama']
+3731,Cutter's Way,"['Drama', 'Thriller']"
+3393,Date with an Angel,"['Comedy', 'Fantasy']"
+1881,Quest for Camelot,"['Adventure', 'Animation', ""Children's"", 'Fantasy']"
+2951,A Fistful of Dollars,"['Action', 'Western']"
+668,Pather Panchali,['Drama']
+293,The Professional,"['Crime', 'Drama', 'Romance', 'Thriller']"
+1805,Wild Things,"['Crime', 'Drama', 'Mystery', 'Thriller']"
+2237,Without Limits,['Drama']
+2606,Idle Hands,"['Comedy', 'Horror']"
+1248,Touch of Evil,"['Crime', 'Film-Noir', 'Thriller']"
+943,The Ghost and Mrs. Muir,"['Drama', 'Romance']"
+2549,Wing Commander,"['Action', 'Sci-Fi']"
+2263,The Seventh Sign,['Thriller']
+2055,Hot Lead and Cold Feet,"['Comedy', 'Western']"
+2125,Ever After: A Cinderella Story,"['Drama', 'Romance']"
+1346,Cat People,['Horror']
+3245,I Am Cuba,['Drama']
+1735,Great Expectations,"['Drama', 'Romance']"
+2397,Mass Appeal,['Drama']
+2560,Ravenous,"['Drama', 'Horror']"
+2345,Desert Bloom,['Drama']
+2099,Song of the South,"['Adventure', 'Animation', ""Children's"", 'Musical']"
+1158,Here Comes Cookie,['Comedy']
+2557,I Stand Alone,['Drama']
+2434,Down in the Delta,['Drama']
+3431,Death Wish II,"['Action', 'Drama']"
+3419,Something for Everyone,"['Comedy', 'Crime']"
+841,Eyes Without a Face,['Horror']
+3339,Cross of Iron,['War']
+2903,Psycho III,"['Horror', 'Thriller']"
+1563,Dream With the Fishes,['Drama']
+3565,Where the Heart Is,"['Comedy', 'Drama']"
+3203,Dead Calm,['Thriller']
+3444,Bloodsport,['Action']
+997,Caught,"['Drama', 'Thriller']"
+1760,Spice World,"['Comedy', 'Musical']"
+3723,Hamlet,['Drama']
+665,Underground,['War']
+2040,The Computer Wore Tennis Shoes,"[""Children's"", 'Comedy']"
+1875,Clockwatchers,['Comedy']
+2024,The Rapture,"['Drama', 'Mystery']"
+2089,The Rescuers Down Under,"['Animation', ""Children's""]"
+3847,She Wolf of the SS Ilsa,['Horror']
+912,Casablanca,"['Drama', 'Romance', 'War']"
+2867,Fright Night,"['Comedy', 'Horror']"
+564,Chasers,['Comedy']
+1282,Fantasia,"['Animation', ""Children's"", 'Musical']"
+2307,One Tough Cop,"['Action', 'Drama']"
+2174,Beetlejuice,"['Comedy', 'Fantasy']"
+2802,Tequila Sunrise,"['Action', 'Romance', 'Thriller']"
+2858,American Beauty,"['Comedy', 'Drama']"
+928,Rebecca,"['Romance', 'Thriller']"
+473,In the Army Now,"['Comedy', 'War']"
+4,Waiting to Exhale,"['Comedy', 'Drama']"
+3223,A Zed & Two Noughts,['Drama']
+2790,The Final Conflict,['Horror']
+2571,The Matrix,"['Action', 'Sci-Fi', 'Thriller']"
+2133,Adventures in Babysitting,"['Adventure', 'Comedy']"
+2453,The Boy Who Could Fly,"['Drama', 'Fantasy']"
+432,City Slickers II: The Legend of Curly's Gold,"['Comedy', 'Western']"
+2328,Vampires,['Horror']
+1440,Amos & Andrew,['Comedy']
+3208,Loaded Weapon 1,"['Action', 'Comedy']"
+1651,Telling Lies in America,['Drama']
+2042,D2: The Mighty Ducks,"[""Children's"", 'Comedy']"
+2433,A Civil Action,['Drama']
+397,The Fear,['Horror']
+2436,Tea with Mussolini,['Comedy']
+2664,Invasion of the Body Snatchers,"['Horror', 'Sci-Fi']"
+2770,Bowfinger,['Comedy']
+3007,American Movie,['Documentary']
+1871,A Friend of the Deceased,"['Comedy', 'Drama']"
+1219,Psycho,"['Horror', 'Thriller']"
+3171,Room at the Top,['Drama']
+413,Airheads,['Comedy']
+3516,Book and Candle Bell,"['Comedy', 'Romance']"
+3381,Slaves to the Underground,"['Comedy', 'Drama']"
+476,The Inkwell,"['Comedy', 'Drama']"
+3809,What About Bob?,['Comedy']
+3044,Dead Again,"['Mystery', 'Romance', 'Thriller']"
+3546,What Ever Happened to Baby Jane?,"['Drama', 'Thriller']"
+350,The Client,"['Drama', 'Mystery', 'Thriller']"
+3321,The Waiting Game,['Comedy']
+3424,Do the Right Thing,"['Comedy', 'Drama']"
+3423,School Daze,['Drama']
+2820,Hamlet,['Drama']
+3928,Abbott and Costello Meet Frankenstein,"['Comedy', 'Horror']"
+3575,Defying Gravity,['Drama']
+1352,Albino Alligator,"['Crime', 'Thriller']"
+581,The Celluloid Closet,['Documentary']
+3479,Ladyhawke,"['Adventure', 'Fantasy', 'Romance']"
+966,A Walk in the Sun,['Drama']
+3870,Our Town,['Drama']
+2483,The Day of the Beast,"['Comedy', 'Horror', 'Thriller']"
+3925,Stranger Than Paradise,['Comedy']
+1643,Mrs. Brown,"['Drama', 'Romance']"
+1719,The Sweet Hereafter,['Drama']
+1262,The Great Escape,"['Adventure', 'War']"
+2857,Yellow Submarine,"['Animation', 'Musical']"
+3886,Steal This Movie!,['Drama']
+2458,Armed and Dangerous,"['Comedy', 'Crime']"
+2655,Howling II: Your Sister Is a Werewolf,['Horror']
+1776,Ride,['Drama']
+425,Blue Sky,"['Drama', 'Romance']"
+368,Maverick,"['Action', 'Comedy', 'Western']"
+470,House Party 3,['Comedy']
+3643,The Fighting Seabees,"['Action', 'Drama', 'War']"
+2448,Virus,"['Horror', 'Sci-Fi']"
+1793,Welcome to Woop-Woop,['Comedy']
+2794,European Vacation,['Comedy']
+398,Frank and Ollie,['Documentary']
+2954,Penitentiary,['Drama']
+299,Priest,['Drama']
+2535,Earthquake,['Action']
+2720,Inspector Gadget,"['Action', 'Adventure', ""Children's"", 'Comedy']"
+2266,The Butcher's Wife,"['Comedy', 'Romance']"
+3920,So Close Faraway,"['Drama', 'Fantasy']"
+980,In the Line of Duty 2,['Action']
+399,Girl in the Cadillac,['Drama']
+3443,Born American,"['Action', 'Drama', 'Thriller']"
+383,Wyatt Earp,['Western']
+316,Stargate,"['Action', 'Adventure', 'Sci-Fi']"
+2349,Mona Lisa,"['Comedy', 'Thriller']"
+1782,Little City,"['Comedy', 'Romance']"
+1211,Wings of Desire,"['Comedy', 'Drama', 'Romance']"
+279,My Family,['Drama']
+281,Nobody's Fool,['Drama']
+134,Sonic Outlaws,['Documentary']
+1113,The Associate,['Comedy']
+440,Dave,"['Comedy', 'Romance']"
+2602,Mighty Peking Man,"['Adventure', 'Sci-Fi']"
+560,Maine Beans of Egypt,['Drama']
+1151,Faust,"['Animation', 'Comedy', 'Thriller']"
+1653,Gattaca,"['Drama', 'Sci-Fi', 'Thriller']"
+2161,The NeverEnding Story,"['Adventure', ""Children's"", 'Fantasy']"
+795,Somebody to Love,['Drama']
+2642,Superman III,"['Action', 'Adventure', 'Sci-Fi']"
+3292,The Big Combo,['Film-Noir']
+2360,The Celebration,['Drama']
+408,8 Seconds,['Drama']
+3710,Action Jackson,"['Action', 'Comedy']"
+1129,Escape from New York,"['Action', 'Adventure', 'Sci-Fi', 'Thriller']"
+789,Worst of All I,['Drama']
+851,Basquiat,['Drama']
+2630,Besieged,['Drama']
+3704,Mad Max Beyond Thunderdome,"['Action', 'Sci-Fi']"
+158,Casper,"['Adventure', ""Children's""]"
+1267,The Manchurian Candidate,"['Film-Noir', 'Thriller']"
+3365,The Searchers,['Western']
+2357,Central Station,['Drama']
+314,The Secret of Roan Inish,['Drama']
+2932,Days of Heaven,['Drama']
+3304,Blue Collar,"['Crime', 'Drama']"
+2325,Orgazmo,['Comedy']
+51,Guardian Angel,"['Action', 'Drama', 'Thriller']"
+543,So I Married an Axe Murderer,"['Comedy', 'Romance', 'Thriller']"
+1317,I'm Not Rappaport,['Comedy']
+3376,The Fantastic Night,['Romance']
+287,Nina Takes a Lover,"['Comedy', 'Romance']"
+2474,The Color of Money,['Drama']
+3584,Breathless,"['Action', 'Drama', 'Romance', 'Thriller']"
+2271,Permanent Midnight,['Drama']
+3825,Coyote Ugly,['Drama']
+2003,Gremlins,"['Comedy', 'Horror']"
+1583,A Simple Wish,"[""Children's"", 'Fantasy']"
+2623,Trippin',['Comedy']
+929,Foreign Correspondent,['Thriller']
+3865,The Original Kings of Comedy,"['Comedy', 'Documentary']"
+2649,Son of Frankenstein,['Horror']
+1673,Boogie Nights,['Drama']
+1044,Surviving Picasso,['Drama']
+1227,Once Upon a Time in America,"['Crime', 'Drama', 'Thriller']"
+3590,The Lords of Flatbush,['Comedy']
+455,Free Willy,"['Adventure', ""Children's"", 'Drama']"
+999,2 Days in the Valley,['Crime']
+49,When Night Is Falling,"['Drama', 'Romance']"
+1854,Kissing a Fool,"['Comedy', 'Romance']"
+495,In the Realm of the Senses,['Drama']
+381,When a Man Loves a Woman,['Drama']
+2025,Lolita,"['Drama', 'Romance']"
+1297,Real Genius,['Comedy']
+240,Hideaway,['Thriller']
+2771,Brokedown Palace,['Drama']
+1599,Steel,['Action']
+171,Jeffrey,['Comedy']
+3124,Agnes Browne,"['Comedy', 'Drama']"
+388,Boys Life,['Drama']
+1963,Take the Money and Run,['Comedy']
+1353,The Mirror Has Two Faces,"['Comedy', 'Romance']"
+3786,But I'm a Cheerleader,['Comedy']
+1942,All the King's Men,['Drama']
+2450,Howard the Duck,"['Adventure', ""Children's"", 'Sci-Fi']"
+1386,Terror in a Texas Town,['Western']
+2480,Dry Cleaning,['Drama']
+1542,Brassed Off,"['Comedy', 'Drama', 'Romance']"
+3294,Eaten Alive,['Horror']
+2899,Gulliver's Travels,"['Adventure', 'Animation', ""Children's""]"
+2511,The Long Goodbye,['Crime']
+2095,The Shaggy D.A.,"[""Children's"", 'Comedy']"
+524,Rudy,['Drama']
+2587,Life,['Comedy']
+2439,Affliction,['Drama']
+3718,American Pimp,['Documentary']
+254,Jefferson in Paris,['Drama']
+2644,Dracula,['Horror']
+326,To Live,['Drama']
+3306,The Circus,['Comedy']
+3492,The Son of the Sheik,['Adventure']
+3382,Song of Freedom,['Drama']
+2604,Let it Come Down: The Life of Paul Bowles,['Documentary']
+587,Ghost,"['Comedy', 'Romance', 'Thriller']"
+1525,Warriors of Virtue,"['Action', 'Adventure', ""Children's"", 'Fantasy']"
+393,Street Fighter,['Action']
+1383,Adrenalin: Fear the Rush,"['Action', 'Sci-Fi']"
+3207,The Snows of Kilimanjaro,['Adventure']
+532,Serial Mom,"['Comedy', 'Crime', 'Horror']"
+183,Mute Witness,['Thriller']
+3360,Hoosiers,['Drama']
+2221,Blackmail,['Thriller']
+2314,Beloved,['Drama']
+2986,Robocop 2,"['Action', 'Crime', 'Sci-Fi']"
+2946,Help!,"['Comedy', 'Musical']"
+1888,Hope Floats,"['Comedy', 'Drama', 'Romance']"
+1812,Wide Awake,"[""Children's"", 'Comedy', 'Drama']"
+1165,The Bloody Child,"['Drama', 'Thriller']"
+1323,Amityville 3-D,['Horror']
+1880,Lawn Dogs,['Drama']
+3071,Stand and Deliver,['Drama']
+661,James and the Giant Peach,"['Animation', ""Children's"", 'Musical']"
+1977,Friday the 13th: The Final Chapter,['Horror']
+3544,Shakes the Clown,['Comedy']
+734,Getting Away With Murder,['Comedy']
+1090,Platoon,"['Drama', 'War']"
+1619,Seven Years in Tibet,"['Drama', 'War']"
+1899,Passion in the Desert,"['Adventure', 'Drama']"
+2058,The Negotiator,"['Action', 'Thriller']"
+2746,Little Shop of Horrors,"['Comedy', 'Horror', 'Musical']"
+771,La Vie est belle,"['Comedy', 'Drama']"
+2576,etc. Love,['Drama']
+1127,The Abyss,"['Action', 'Adventure', 'Sci-Fi', 'Thriller']"
+416,Bad Girls,['Western']
+168,First Knight,"['Action', 'Adventure', 'Drama', 'Romance']"
+2017,Babes in Toyland,"[""Children's"", 'Fantasy', 'Musical']"
+283,New Jersey Drive,"['Crime', 'Drama']"
+336,The Walking Dead,"['Drama', 'War']"
+629,Rude,['Drama']
+633,Denise Calls Up,['Comedy']
+673,Space Jam,"['Adventure', 'Animation', ""Children's"", 'Comedy', 'Fantasy']"
+2298,Strangeland,['Thriller']
+1701,Deconstructing Harry,"['Comedy', 'Drama']"
+2445,At First Sight,['Drama']
+1454,SubUrbia,['Comedy']
+3291,Trois,['Thriller']
+3465,That's Life!,['Drama']
+2910,L' Ennui,"['Drama', 'Romance']"
+798,Daylight,"['Action', 'Adventure', 'Thriller']"
+2905,Sanjuro,"['Action', 'Adventure']"
+1856,Kurt & Courtney,"['Documentary', 'Musical']"
+1330,April Fool's Day,"['Comedy', 'Horror']"
+333,Tommy Boy,['Comedy']
+858,The Godfather,"['Action', 'Crime', 'Drama']"
+3390,Shanghai Surprise,['Adventure']
+1868,The Truce,"['Drama', 'War']"
+1879,The Hanging Garden,['Drama']
+471,The Hudsucker Proxy,"['Comedy', 'Romance']"
+3600,Blue Hawaii,"['Comedy', 'Musical']"
+3261,Singles,"['Comedy', 'Drama', 'Romance']"
+1206,A Clockwork Orange,['Sci-Fi']
+2869,The Separation,['Drama']
+2875,Sommersby,"['Drama', 'Mystery', 'Romance']"
+3776,Melody Time,"['Animation', ""Children's"", 'Musical']"
+409,Above the Rim,['Drama']
+2117,Nineteen Eighty-Four,"['Drama', 'Sci-Fi']"
+2769,The Yards,"['Crime', 'Mystery']"
+790,An Unforgettable Summer,['Drama']
+2378,Police Academy,['Comedy']
+949,East of Eden,['Drama']
+2218,Juno and Paycock,['Drama']
+1273,Down by Law,"['Comedy', 'Drama']"
+1866,The Big Hit,"['Action', 'Comedy']"
+1975,Friday the 13th Part 2,['Horror']
+2915,Risky Business,['Comedy']
+479,Judgment Night,['Action']
+2610,Three Seasons,['Drama']
+567,Kika,['Drama']
+2876,Thumbelina,"['Animation', ""Children's""]"
+76,Screamers,"['Sci-Fi', 'Thriller']"
+3537,Where the Money Is,"['Comedy', 'Drama']"
+255,The Jerky Boys,['Comedy']
+717,Mouth to Mouth,['Comedy']
+113,Before and After,"['Drama', 'Mystery']"
+359,I Like It Like That,"['Comedy', 'Drama', 'Romance']"
+696,Butterfly Kiss,['Thriller']
+672,Tarantella,['Drama']
+3228,Wirey Spindell,['Comedy']
+2722,Deep Blue Sea,"['Action', 'Sci-Fi', 'Thriller']"
+3617,Road Trip,['Comedy']
+959,Of Human Bondage,['Drama']
+2726,The Killing,"['Crime', 'Film-Noir']"
+603,Love Bye Bye,['Comedy']
+1264,Diva,"['Action', 'Drama', 'Mystery', 'Romance', 'Thriller']"
+3308,The Flamingo Kid,"['Comedy', 'Drama']"
+3574,Carnosaur 3: Primal Species,"['Horror', 'Sci-Fi']"
+3716,Fatal Beauty,"['Action', 'Crime']"
+3853,The Tic Code,['Drama']
+2037,Candleshoe,"['Adventure', ""Children's"", 'Comedy']"
+2643,Superman IV: The Quest for Peace,"['Action', 'Adventure', 'Sci-Fi']"
+3489,Hook,"['Adventure', 'Fantasy']"
+1915,Voyage to the Beginning of the World,['Drama']
+714,Dead Man,['Western']
+2137,Charlotte's Web,"['Animation', ""Children's""]"
+2966,The Straight Story,['Drama']
+56,Kids of the Round Table,"['Adventure', ""Children's"", 'Fantasy']"
+1624,A Thousand Acres,['Drama']
+931,Spellbound,"['Mystery', 'Romance', 'Thriller']"
+1441,Benny & Joon,"['Comedy', 'Romance']"
+2695,The Boys,['Drama']
+259,Kiss of Death,"['Crime', 'Drama', 'Thriller']"
+556,The War Room,['Documentary']
+713,Of Love and Shadows,['Drama']
+2993,Thunderball,['Action']
+1610,The Hunt for Red October,"['Action', 'Thriller']"
+3271,Of Mice and Men,['Drama']
+2731,The 400 Blows,['Drama']
+571,The Wedding Gift,['Drama']
+1533,The Promise,['Drama']
+136,From the Journals of Jean Seberg,['Documentary']
+1839,My Giant,['Comedy']
+2241,Class,['Comedy']
+2838,I Woke Up Early the Day I Died,['Comedy']
+1972,A Nightmare on Elm Street 5: The Dream Child,['Horror']
+1296,A Room with a View,"['Drama', 'Romance']"
+2656,Tarantula,"['Horror', 'Sci-Fi']"
+3548,Auntie Mame,"['Comedy', 'Drama']"
+2741,No Mercy,"['Action', 'Thriller']"
+2583,Cookie's Fortune,['Mystery']
+977,Moonlight Murder,['Mystery']
+2527,Westworld,"['Action', 'Sci-Fi', 'Thriller', 'Western']"
+2666,It Conquered the World,['Sci-Fi']
+1303,The Man Who Would Be King,['Adventure']
+3161,Onegin,['Drama']
+2411,Rocky IV,"['Action', 'Drama']"
+1184,Mediterraneo,"['Comedy', 'War']"
+2593,The Monster,['Comedy']
+907,The Gay Divorcee,"['Comedy', 'Musical', 'Romance']"
+610,Heavy Metal,"['Action', 'Adventure', 'Animation', 'Horror', 'Sci-Fi']"
+3262,Twin Peaks: Fire Walk with Me,"['Drama', 'Mystery']"
+94,Beautiful Girls,['Drama']
+1569,My Best Friend's Wedding,"['Comedy', 'Romance']"
+2211,Secret Agent,['Thriller']
+2792,Airplane II: The Sequel,['Comedy']
+3001,The Suburbans,['Drama']
+2747,The Little Shop of Horrors,"['Comedy', 'Horror']"
+2755,Light of Day,['Drama']
+2347,The Pope of Greenwich Village,['Action']
+1924,Plan 9 from Outer Space,"['Horror', 'Sci-Fi']"
+1524,The Turning,['Drama']
+2200,Under Capricorn,['Drama']
+653,Dragonheart,"['Action', 'Adventure', 'Fantasy']"
+2209,Young and Innocent,"['Crime', 'Thriller']"
+828,The Adventures of Pinocchio,"['Adventure', ""Children's""]"
+428,A Bronx Tale,['Drama']
+3224,Woman in the Dunes,['Drama']
+712,Captives,['Drama']
+1425,Fierce Creatures,['Comedy']
+852,Tin Cup,"['Comedy', 'Romance']"
+269,My Crazy Life,['Drama']
+3646,Big Momma's House,['Comedy']
+2871,Deliverance,"['Adventure', 'Thriller']"
+2752,Outrageous Fortune,"['Comedy', 'Mystery']"
+1098,The Search for One-eye Jimmy,['Comedy']
+66,Lawnmower Man 2: Beyond Cyberspace,"['Sci-Fi', 'Thriller']"
+3715,Burglar,['Comedy']
+1314,Breathing Room,['Romance']
+3571,Time Code,['Drama']
+1447,Gridlock'd,['Crime']
+881,First Kid,"[""Children's"", 'Comedy']"
+1333,The Birds,['Horror']
+1372,Star Trek VI: The Undiscovered Country,"['Action', 'Adventure', 'Sci-Fi']"
+306,Three Colors: Red,['Drama']
+902,Breakfast at Tiffany's,"['Drama', 'Romance']"
+1891,The Ugly,"['Horror', 'Thriller']"
+2033,The Black Cauldron,"['Animation', ""Children's""]"
+3683,Blood Simple,"['Drama', 'Film-Noir']"
+1220,The Blues Brothers,"['Action', 'Comedy', 'Musical']"
+362,The Jungle Book,"['Adventure', ""Children's"", 'Romance']"
+2297,What Dreams May Come,"['Drama', 'Romance']"
+2685,The Red Dwarf,"['Comedy', 'Drama']"
+1319,Kids of Survival,['Documentary']
+3806,MacKenna's Gold,['Western']
+1221,The Godfather: Part II,"['Action', 'Crime', 'Drama']"
+1773,Tokyo Fist,"['Action', 'Drama']"
+3508,The Outlaw Josey Wales,['Western']
+2002,Lethal Weapon 3,"['Action', 'Comedy', 'Crime', 'Drama']"
+1532,Sprung,['Comedy']
+3035,Mister Roberts,"['Comedy', 'Drama', 'War']"
+27,Now and Then,['Drama']
+15,Cutthroat Island,"['Action', 'Adventure', 'Romance']"
+3615,Dinosaur,"['Animation', ""Children's""]"
+781,Stealing Beauty,['Drama']
+3317,Wonder Boys,"['Comedy', 'Drama']"
+2980,Men Cry Bullets,['Drama']
+3816,The Official Story,['Drama']
+3148,The Cider House Rules,['Drama']
+590,Dances with Wolves,"['Adventure', 'Drama', 'Western']"
+3384,The Taking of Pelham One Two Three,['Action']
+355,The Flintstones,"[""Children's"", 'Comedy']"
+2317,The Alarmist,['Comedy']
+1009,Escape to Witch Mountain,"['Adventure', ""Children's"", 'Fantasy']"
+1189,The Thin Blue Line,['Documentary']
+751,Careful,['Comedy']
+3541,Third World Cop,['Action']
+3803,Greaser's Palace,['Drama']
+438,The Cowboy Way,"['Action', 'Comedy']"
+2607,Get Real,['Drama']
+3153,The 7th Voyage of Sinbad,"['Action', 'Adventure', 'Fantasy']"
+2333,Gods and Monsters,['Drama']
+2779,Heaven Can Wait,['Comedy']
+731,Heaven's Prisoners,"['Mystery', 'Thriller']"
+273,Mary Shelley's Frankenstein,"['Drama', 'Horror']"
+674,Barbarella,"['Adventure', 'Sci-Fi']"
+2001,Lethal Weapon 2,"['Action', 'Comedy', 'Crime', 'Drama']"
+850,Cyclo,"['Crime', 'Drama']"
+1257,Better Off Dead...,['Comedy']
+1215,Army of Darkness,"['Action', 'Adventure', 'Comedy', 'Horror', 'Sci-Fi']"
+118,If Lucy Fell,"['Comedy', 'Romance']"
+1340,Bride of Frankenstein,['Horror']
+1106,The Leopard Son,['Documentary']
+728,Cold Comfort Farm,['Comedy']
+207,A Walk in the Clouds,"['Drama', 'Romance']"
+2837,Bedrooms & Hallways,"['Comedy', 'Romance']"
+3286,Snow Day,['Comedy']
+1671,Deceiver,['Crime']
+462,A Good Man in Africa,"['Action', 'Adventure']"
+824,Kaspar Hauser,['Drama']
+442,Demolition Man,"['Action', 'Sci-Fi']"
+1101,Top Gun,"['Action', 'Romance']"
+1041,Secrets & Lies,['Drama']
+2743,Native Son,['Drama']
+635,A Family Thing,"['Comedy', 'Drama']"
+2408,Cocoon: The Return,"['Comedy', 'Sci-Fi']"
+2997,Being John Malkovich,['Comedy']
+1345,Carrie,['Horror']
+956,Penny Serenade,"['Drama', 'Romance']"
+1128,The Fog,['Horror']
+2395,Rushmore,['Comedy']
+3653,The Endless Summer,['Documentary']
+1753,Half Baked,['Comedy']
+3857,Bless the Child,['Thriller']
+3182,Mr. Death: The Rise and Fall of Fred A. Leuchter Jr.,['Documentary']
+194,Smoke,['Drama']
+1952,Midnight Cowboy,['Drama']
+3022,The General,['Comedy']
+2574,The Out-of-Towners,['Comedy']
+86,White Squall,"['Adventure', 'Drama']"
+3750,Boricua's Bond,['Drama']
+1204,Lawrence of Arabia,"['Adventure', 'War']"
+1480,Smilla's Sense of Snow,"['Action', 'Drama', 'Thriller']"
+1004,The Glimmer Man,"['Action', 'Thriller']"
+133,Nueba Yol,"['Comedy', 'Drama']"
+3589,Baby... Kill! Kill,['Horror']
+2588,Clubland,['Drama']
+1170,Best of the Best 3: No Turning Back,['Action']
+844,The Story of Xinghua,['Drama']
+1666,Hugo Pool,['Romance']
+3769,Thunderbolt and Lightfoot,['Action']
+2673,Eternity and a Day,['Drama']
+729,or This Dream People Call Human Life Institute Benjamenta,['Drama']
+1668,One Night Stand,['Drama']
+2050,Herbie Goes Bananas,"['Adventure', ""Children's"", 'Comedy']"
+838,Emma,"['Comedy', 'Drama', 'Romance']"
+230,Dolores Claiborne,"['Drama', 'Thriller']"
+3754,The Adventures of Rocky and Bullwinkle,"['Animation', ""Children's"", 'Comedy']"
+2270,A Century of Cinema,['Documentary']
+1640,How to Be a Player,['Comedy']
+2372,Fletch Lives,['Comedy']
+2368,King Kong Lives,"['Action', 'Adventure', 'Horror']"
+780,Independence Day,"['Action', 'Sci-Fi', 'War']"
+963,The Inspector General,['Musical']
+2559,The King and I,"['Animation', ""Children's""]"
+1522,Ripe,['Drama']
+1420,Message to Love: The Isle of Wight Festival,['Documentary']
+496,What Happened Was...,"['Comedy', 'Drama', 'Romance']"
+1566,Hercules,"['Adventure', 'Animation', ""Children's"", 'Comedy', 'Musical']"
+291,Poison Ivy II,['Thriller']
+412,The Age of Innocence,['Drama']
+1584,Contact,"['Drama', 'Sci-Fi']"
+3838,Phantasm III: Lord of the Dead,['Horror']
+2586,Lover Goodbye,"['Comedy', 'Crime', 'Thriller']"
+3258,Death Becomes Her,['Comedy']
+3921,Beach Party,['Comedy']
+2683,Austin Powers: The Spy Who Shagged Me,['Comedy']
+199,The Umbrellas of Cherbourg,"['Drama', 'Musical']"
+3314,The Big Trees,"['Action', 'Drama']"
+848,The Spitfire Grill,['Drama']
+3551,Marathon Man,['Thriller']
+423,Blown Away,"['Action', 'Thriller']"
+2373,Red Sonja,"['Action', 'Adventure']"
+2070,Tender Mercies,['Drama']
+1606,Kull the Conqueror,"['Action', 'Adventure']"
+1784,As Good As It Gets,"['Comedy', 'Drama']"
+1198,Raiders of the Lost Ark,"['Action', 'Adventure']"
+3453,Here on Earth,"['Drama', 'Romance']"
+402,Open Season,['Comedy']
+3783,Croupier,"['Crime', 'Drama']"
+494,Executive Decision,"['Action', 'Thriller']"
+1548,The War at Home,['Drama']
+3579,I Dreamed of Africa,['Drama']
+866,Bound,"['Crime', 'Drama', 'Romance', 'Thriller']"
+3156,Bicentennial Man,"['Comedy', 'Drama', 'Sci-Fi']"
+3732,The Fury,['Horror']
+1251,8 1/2,['Drama']
+2233,Digging to China,['Drama']
+384,Bad Company,['Action']
+1475,Kama Sutra: A Tale of Love,['Romance']
+277,Miracle on 34th Street,['Drama']
+61,Eye for an Eye,"['Drama', 'Thriller']"
+2691,The Legend of 1900,['Drama']
+2974,Bats,"['Horror', 'Thriller']"
+3457,Waking the Dead,['Drama']
+2829,The Muse,"['Comedy', 'Drama']"
+2388,Steam: The Turkish Bath,"['Drama', 'Romance']"
+1742,Caught Up,['Crime']
+3748,The Match,"['Comedy', 'Romance']"
+574,Spanking the Monkey,"['Comedy', 'Drama']"
+1914,Smoke Signals,"['Comedy', 'Drama']"
+1313,Mad Dog Time,['Crime']
+521,Romeo Is Bleeding,"['Crime', 'Thriller']"
+2300,The Producers,"['Comedy', 'Musical']"
+644,Happy Weekend,['Comedy']
+2438,Outside Ozona,"['Drama', 'Thriller']"
+3401,Baby... Secret of the Lost Legend,"['Adventure', 'Sci-Fi']"
+1989,Prom Night III: The Last Kiss,['Horror']
+3568,Smiling Fish and Goat on Fire,['Drama']
+1515,Volcano,"['Drama', 'Thriller']"
+3042,Meatballs III,['Comedy']
+1051,Trees Lounge,['Drama']
+1605,Excess Baggage,"['Adventure', 'Romance']"
+3229,Another Man's Poison,"['Crime', 'Drama']"
+3426,Jungle Fever,"['Drama', 'Romance']"
+536,A Simple Twist of Fate,['Drama']
+376,The River Wild,"['Action', 'Thriller']"
+894,Liebelei,['Romance']
+210,Wild Bill,['Western']
+1376,Star Trek IV: The Voyage Home,"['Action', 'Adventure', 'Sci-Fi']"
+222,Circle of Friends,"['Drama', 'Romance']"
+3603,The Gay Deceivers,['Comedy']
+2468,Jumpin' Jack Flash,"['Action', 'Comedy', 'Romance', 'Thriller']"
+3220,Night Tide,['Drama']
+2804,A Christmas Story,"['Comedy', 'Drama']"
+3622,The Twelve Chairs,['Comedy']
+1941,Hamlet,['Drama']
+1464,Lost Highway,['Mystery']
+248,Houseguest,['Comedy']
+3319,Judy Berlin,['Drama']
+2847,Only Angels Have Wings,['Drama']
+415,Another Stakeout,"['Comedy', 'Thriller']"
+184,Nadja,['Drama']
+927,The Women,['Comedy']
+1430,Underworld,['Thriller']
+466,Hot Shots! Part Deux,"['Action', 'Comedy', 'War']"
+1185,My Left Foot,['Drama']
+2962,Fever Pitch,"['Comedy', 'Romance']"
+1188,Strictly Ballroom,"['Comedy', 'Romance']"
+1663,Stripes,['Comedy']
+242,Farinelli: il castrato,"['Drama', 'Musical']"
+1982,Halloween,['Horror']
+3149,Diamonds,['Mystery']
+849,Escape from L.A.,"['Action', 'Adventure', 'Sci-Fi', 'Thriller']"
+31,Dangerous Minds,['Drama']
+2963,Joe the King,"['Crime', 'Drama']"
+325,National Lampoon's Senior Trip,['Comedy']
+3135,The Great Santini,['Drama']
+1686,Red Corner,"['Crime', 'Thriller']"
+3831,Saving Grace,['Comedy']
+2845,White Boys,['Drama']
+2671,Notting Hill,"['Comedy', 'Romance']"
+379,Timecop,"['Action', 'Sci-Fi']"
+289,Only You,"['Comedy', 'Romance']"
+394,Coldblooded,['Action']
+297,Panther,['Drama']
+2459,The Texas Chainsaw Massacre,['Horror']
+3855,An Affair of Love,"['Drama', 'Romance']"
+30,Shanghai Triad,['Drama']
+3569,The Idiots,"['Comedy', 'Drama']"
+243,Gordy,['Comedy']
+2545,Relax... It's Just Sex,['Comedy']
+872,Aiqing wansui,['Drama']
+830,The First Wives Club,['Comedy']
+1092,Basic Instinct,"['Mystery', 'Thriller']"
+1998,Exorcist II: The Heretic,['Horror']
+1045,Love Is All There Is,"['Comedy', 'Drama']"
+2316,Practical Magic,"['Drama', 'Romance']"
+584,I Don't Want to Talk About It,['Drama']
+2950,The Blue Lagoon,"['Adventure', 'Drama', 'Romance']"
+2868,Fright Night Part II,['Horror']
+1384,The Substance of Fire,['Drama']
+211,The Browning Version,['Drama']
+244,Gumby: The Movie,"['Animation', ""Children's""]"
+1373,Star Trek V: The Final Frontier,"['Action', 'Adventure', 'Sci-Fi']"
+1783,Palmetto,"['Film-Noir', 'Mystery', 'Thriller']"
+335,The Underneath,"['Mystery', 'Thriller']"
+95,Broken Arrow,"['Action', 'Thriller']"
+3897,Almost Famous,"['Comedy', 'Drama']"
+2870,Barefoot in the Park,['Comedy']
+2452,The Gate II: Trespassers,['Horror']
+769,Marlene Dietrich: Shadow and Light,['Documentary']
+2248,Say Anything...,"['Comedy', 'Drama', 'Romance']"
+450,With Honors,"['Comedy', 'Drama']"
+3060,The Commitments,"['Comedy', 'Drama']"
+1115,Sleepover,"['Comedy', 'Drama']"
+3566,The Big Kahuna,"['Comedy', 'Drama']"
+3914,The Broken Hearts Club,['Drama']
+3841,Air America,"['Action', 'Comedy']"
+315,The Specialist,['Action']
+2014,Freaky Friday,"[""Children's"", 'Comedy']"
+562,Welcome to the Dollhouse,"['Comedy', 'Drama']"
+638,Jack and Sarah,['Romance']
+1529,Nowhere,['Drama']
+3280,The Baby,['Horror']
+2740,The Kindred,['Horror']
+3837,Phantasm II,['Horror']
+3087,Scrooged,['Comedy']
+332,Village of the Damned,"['Horror', 'Sci-Fi']"
+892,Twelfth Night,"['Comedy', 'Drama', 'Romance']"
+3345,the Lonesome Cougar Charlie,"['Adventure', ""Children's""]"
+3403,Raise the Titanic,"['Drama', 'Thriller']"
+2525,Alligator,"['Action', 'Horror', 'Sci-Fi']"
+2646,House of Dracula,['Horror']
+410,Addams Family Values,['Comedy']
+2264,We're No Angels,['Drama']
+1824,Homegrown,"['Comedy', 'Thriller']"
+2637,The Mummy's Hand,['Horror']
+1801,The Man in the Iron Mask,"['Action', 'Drama', 'Romance']"
+1589,Cop Land,"['Crime', 'Drama', 'Mystery']"
+3937,Runaway,"['Sci-Fi', 'Thriller']"
+3090,Matewan,['Drama']
+2234,Let's Talk About Sex,['Drama']
+226,Dream Man,['Thriller']
+3657,Pandora and the Flying Dutchman,['Drama']
+887,Talk of Angels,['Drama']
+3620,The Myth of Fingerprints,"['Comedy', 'Drama']"
+2988,Melvin and Howard,['Drama']
+2524,The Towering Inferno,"['Action', 'Drama']"
+3162,Simpatico,"['Comedy', 'Drama']"
+2471,Crocodile Dundee II,"['Adventure', 'Comedy']"
+933,To Catch a Thief,"['Comedy', 'Romance', 'Thriller']"
+258,A Kid in King Arthur's Court,"['Adventure', ""Children's"", 'Comedy', 'Fantasy', 'Romance']"
+201,Three Wishes,['Drama']
+2287,Them!,"['Sci-Fi', 'Thriller', 'War']"
+2054,I Shrunk the Kids Honey,"['Adventure', ""Children's"", 'Comedy', 'Fantasy', 'Sci-Fi']"
+2638,The Mummy's Tomb,['Horror']
+3037,Little Big Man,"['Comedy', 'Drama', 'Western']"
+993,Infinity,['Drama']
+1,Toy Story,"['Animation', ""Children's"", 'Comedy']"
+1157,La Symphonie pastorale,['Drama']
+541,Blade Runner,"['Film-Noir', 'Sci-Fi']"
+1084,Bonnie and Clyde,"['Crime', 'Drama']"
+2175,DÃ©jÃ  Vu,"['Drama', 'Romance']"
+2580,Go,['Crime']
+2901,Phantasm,"['Horror', 'Sci-Fi']"
+5,Father of the Bride Part II,['Comedy']
+2109,The Jerk,['Comedy']
+3712,Soapdish,['Comedy']
+3084,Home Page,['Documentary']
+2662,The War of the Worlds,"['Action', 'Sci-Fi', 'War']"
+596,Pinocchio,"['Animation', ""Children's""]"
+2390,Little Voice,['Comedy']
+2115,Indiana Jones and the Temple of Doom,"['Action', 'Adventure']"
+212,Bushwhacked,['Comedy']
+3211,A Cry in the Dark,['Drama']
+2991,Live and Let Die,['Action']
+2092,The Return of Jafar,"['Animation', ""Children's"", 'Musical']"
+3871,Shane,"['Drama', 'Western']"
+3159,Fantasia 2000,"['Animation', ""Children's"", 'Musical']"
+2941,South Pacific,"['Musical', 'Romance', 'War']"
+757,Ashes of Time,['Drama']
+2387,Very Bad Things,"['Comedy', 'Crime']"
+2322,Soldier,"['Action', 'Adventure', 'Sci-Fi', 'Thriller', 'War']"
+3915,Girlfight,['Drama']
+3164,The Alley Cats,['Drama']
+3130,Bonfire of the Vanities,['Comedy']
+65,Bio-Dome,['Comedy']
+1738,Vermin,['Comedy']
+1592,Air Bud,"[""Children's"", 'Comedy']"
+82,Antonia's Line,['Drama']
+2973,Crimes and Misdemeanors,['Comedy']
+2168,Dance with Me,"['Drama', 'Romance']"
+2205,Mr. & Mrs. Smith,['Comedy']
+2977,Crazy in Alabama,"['Comedy', 'Drama']"
+2310,The Mighty,['Drama']
+704,The Quest,"['Action', 'Adventure']"
+3711,Sarafina!,['Drama']
+2059,The Parent Trap,"[""Children's"", 'Drama']"
+913,The Maltese Falcon,"['Film-Noir', 'Mystery']"
+3217,A Star Is Born,['Drama']
+2052,Hocus Pocus,"[""Children's"", 'Comedy']"
+2665,Earth Vs. the Flying Saucers,['Sci-Fi']
+3798,What Lies Beneath,['Thriller']
+2609,The King of Masks,['Drama']
+2443,Playing by Heart,"['Drama', 'Romance']"
+3041,Meatballs Part II,['Comedy']
+823,La Collectionneuse,['Drama']
+506,Orlando,['Drama']
+54,The Big Green,"[""Children's"", 'Comedy']"
+2256,Parasite,"['Horror', 'Sci-Fi']"
+3616,Loser,"['Comedy', 'Romance']"
+1167,Dear God,['Comedy']
+1889,Insomnia,['Thriller']
+3679,The Decline of Western Civilization,['Documentary']
+2083,The Muppet Christmas Carol,"[""Children's"", 'Musical']"
+1898,The Land Girls,"['Drama', 'War']"
+1038,Unhook the Stars,['Drama']
+864,The Wife,"['Comedy', 'Drama']"
+2008,Then the Fireworks This World,"['Crime', 'Drama', 'Film-Noir']"
+246,Hoop Dreams,['Documentary']
+890,Baton Rouge,['Thriller']
+3506,North Dallas Forty,"['Comedy', 'Drama']"
+295,A Pyromaniac's Love Story,"['Comedy', 'Romance']"
+1957,Chariots of Fire,['Drama']
+17,Sense and Sensibility,"['Drama', 'Romance']"
+2834,The Very Thought of You,"['Comedy', 'Romance']"
+81,Things to Do in Denver when You're Dead,"['Crime', 'Drama', 'Romance']"
+3003,Train of Life,"['Comedy', 'Drama']"
+573,Professore! Ciao,['Drama']
+2295,The Impostors,['Comedy']
+2022,The Last Temptation of Christ,['Drama']
+3868,The Naked Gun: From the Files of Police Squad!,['Comedy']
+2275,Six-String Samurai,"['Action', 'Adventure', 'Sci-Fi']"
+3198,Papillon,['Drama']
+3608,Pee-wee's Big Adventure,['Comedy']
+2369,Desperately Seeking Susan,"['Comedy', 'Romance']"
+901,Funny Face,"['Comedy', 'Musical']"
+1466,Donnie Brasco,"['Crime', 'Drama']"
+3332,The Legend of Lobo,"['Adventure', ""Children's""]"
+3395,Nadine,['Comedy']
+1292,Being There,['Comedy']
+265,Like Water for Chocolate,"['Drama', 'Romance']"
+2667,The Mole People,['Sci-Fi']
+951,His Girl Friday,['Comedy']
+2873,Lulu on the Bridge,"['Drama', 'Mystery', 'Romance']"
+2495,The Fantastic Planet,"['Animation', 'Sci-Fi']"
+3470,Dersu Uzala,"['Adventure', 'Drama']"
+387,A Low Down Dirty Shame,"['Action', 'Comedy']"
+3560,Phantom Love,['Drama']
+1931,Mutiny on the Bounty,['Adventure']
+1591,Spawn,"['Action', 'Adventure', 'Sci-Fi', 'Thriller']"
+3122,Santa Fe Trail,"['Drama', 'Romance', 'Western']"
+822,Hedd Wyn,['Drama']
+2426,The Theory of Flight,"['Comedy', 'Drama', 'Romance']"
+100,City Hall,"['Drama', 'Thriller']"
+2680,Floating,['Drama']
+2097,Something Wicked This Way Comes,"[""Children's"", 'Horror']"
+2486,24-hour Woman,['Drama']
+2572,10 Things I Hate About You,"['Comedy', 'Romance']"
+2573,Tango,['Drama']
+3206,Against All Odds,['Romance']
+361,It Could Happen to You,"['Drama', 'Romance']"
+310,Rent-a-Kid,['Comedy']
+208,Waterworld,"['Action', 'Adventure']"
+1846,Nil By Mouth,['Drama']
+2187,Stage Fright,"['Mystery', 'Thriller']"
+3467,Hud,"['Drama', 'Western']"
+3763,F/X,"['Action', 'Crime', 'Thriller']"
+614,Loaded,"['Drama', 'Thriller']"
+1835,City of Angels,['Romance']
+971,Cat on a Hot Tin Roof,['Drama']
+1939,The Best Years of Our Lives,"['Drama', 'War']"
+2268,A Few Good Men,"['Crime', 'Drama']"
+2165,Your Friends and Neighbors,['Drama']
+1682,The Truman Show,['Drama']
+1294,M*A*S*H,"['Comedy', 'War']"
+811,Der Bewegte Mann,['Comedy']
+2128,Safe Men,['Comedy']
+964,Angel and the Badman,['Western']
+103,Unforgettable,['Thriller']
+3760,The Kentucky Fried Movie,['Comedy']
+594,Snow White and the Seven Dwarfs,"['Animation', ""Children's"", 'Musical']"
+1217,Ran,"['Drama', 'War']"
+1487,Selena,"['Drama', 'Musical']"
+3790,Groove,['Drama']
+2108,L.A. Story,"['Comedy', 'Romance']"
+1336,Body Parts,['Horror']
+342,Muriel's Wedding,"['Comedy', 'Romance']"
+3767,Missing in Action 2: The Beginning,"['Action', 'War']"
+275,Mixed Nuts,['Comedy']
+2849,Queens Logic,"['Comedy', 'Drama']"
+609,Homeward Bound II: Lost in San Francisco,"['Adventure', ""Children's""]"
+1409,Michael,"['Comedy', 'Romance']"
+1930,Cavalcade,['Drama']
+2217,Elstree Calling,"['Comedy', 'Musical']"
+1197,The Princess Bride,"['Action', 'Adventure', 'Comedy', 'Romance']"
+3839,Phantasm IV: Oblivion,['Horror']
+3934,Kronos,['Sci-Fi']
+1689,The Man Who Knew Too Little,"['Comedy', 'Mystery']"
+57,Home for the Holidays,['Drama']
+1130,The Howling,['Horror']
+2096,Sleeping Beauty,"['Animation', ""Children's"", 'Musical']"
+3482,Price of Glory,['Drama']
+2279,Urban Legend,"['Horror', 'Thriller']"
+1244,Manhattan,"['Comedy', 'Drama', 'Romance']"
+109,Headless Body in Topless Bar,['Comedy']
+1149,JLG/JLG - autoportrait de dÃ©cembre,"['Documentary', 'Drama']"
+3416,The Trial,['Drama']
+2958,Naturally Native,['Drama']
+2432,Stepmom,['Drama']
+1233,The Boat,"['Action', 'Drama', 'War']"
+3474,Retroactive,"['Sci-Fi', 'Thriller']"
+2912,The Limey,"['Action', 'Crime', 'Drama']"
+950,The Thin Man,['Mystery']
+308,Three Colors: White,['Drama']
+3513,Rules of Engagement,"['Drama', 'Thriller']"
+2112,Grand Canyon,"['Crime', 'Drama']"
+3703,Mad Max 2,"['Action', 'Sci-Fi']"
+480,Jurassic Park,"['Action', 'Adventure', 'Sci-Fi']"
+1087,Madame Butterfly,['Musical']
+2919,Year of Living Dangerously,"['Drama', 'Romance']"
+3877,Supergirl,"['Action', 'Adventure', 'Fantasy']"
+177,Lord of Illusions,['Horror']
+1740,Men of Means,"['Action', 'Drama']"
+338,Virtuosity,"['Sci-Fi', 'Thriller']"
+2394,The Prince of Egypt,"['Animation', 'Musical']"
+3660,Puppet Master,"['Horror', 'Sci-Fi', 'Thriller']"
+2543,Six Ways to Sunday,['Comedy']
+1417,The Portrait of a Lady,['Drama']
+386,S.F.W.,['Drama']
+1199,Brazil,['Sci-Fi']
+1078,Bananas,"['Comedy', 'War']"
+3843,Sleepaway Camp,['Horror']
+1381,Grease 2,"['Comedy', 'Musical', 'Romance']"
+1203,12 Angry Men,['Drama']
+3664,Puppet Master 5: The Final Chapter,"['Horror', 'Sci-Fi', 'Thriller']"
+1570,Tetsuo II: Body Hammer,['Sci-Fi']
+1107,Loser,['Comedy']
+1213,GoodFellas,"['Crime', 'Drama']"
+3269,Forever Young,"['Adventure', 'Romance', 'Sci-Fi']"
+1968,The Breakfast Club,"['Comedy', 'Drama']"
+3755,The Perfect Storm,"['Action', 'Adventure', 'Thriller']"
+2575,The Dreamlife of Angels,['Drama']
+3818,Pot O' Gold,"['Comedy', 'Musical']"
+2517,Christine,['Horror']
+6,Heat,"['Action', 'Crime', 'Thriller']"
+1039,Synthetic Pleasures,['Documentary']
+1028,Mary Poppins,"[""Children's"", 'Comedy', 'Musical']"
+2064,Roger & Me,"['Comedy', 'Documentary']"
+722,The Haunted World of Edward D. Wood Jr.,['Documentary']
+2100,Splash,"['Comedy', 'Fantasy', 'Romance']"
+2931,Time of the Gypsies,['Drama']
+2599,Election,['Comedy']
+1444,Guantanamera,['Comedy']
+2415,Violets Are Blue...,"['Drama', 'Romance']"
+2768,Stiff Upper Lips,['Comedy']
+2978,Three to Tango,"['Comedy', 'Romance']"
+1687,The Jackal,"['Action', 'Thriller']"
+358,Higher Learning,['Drama']
+2657,The Rocky Horror Picture Show,"['Comedy', 'Horror', 'Musical', 'Sci-Fi']"
+2984,On Any Sunday,['Documentary']
+2422,The Karate Kid III,"['Action', 'Adventure', 'Drama']"
+107,Muppet Treasure Island,"['Adventure', ""Children's"", 'Comedy', 'Musical']"
+2663,It Came from Beneath the Sea,['Sci-Fi']
+628,Primal Fear,"['Drama', 'Thriller']"
+182,Moonlight and Valentino,"['Drama', 'Romance']"
+3083,All About My Mother,"['Comedy', 'Drama']"
+2105,Tron,"['Action', 'Adventure', 'Fantasy', 'Sci-Fi']"
+2131,Autumn Sonata,['Drama']
+1225,Amadeus,['Drama']
+331,Tom & Viv,['Drama']
+20,Money Train,['Action']
+3469,Inherit the Wind,['Drama']
+3189,My Dog Skip,['Comedy']
+2094,The Rocketeer,"['Action', 'Adventure', 'Sci-Fi']"
+1275,Highlander,"['Action', 'Adventure']"
+407,In the Mouth of Madness,"['Horror', 'Thriller']"
+2196,Knock Off,['Action']
+1079,A Fish Called Wanda,['Comedy']
+2018,Bambi,"['Animation', ""Children's""]"
+1926,The Broadway Melody,['Musical']
+3378,The Ogre,['Drama']
+2190,Why Do Fools Fall In Love?,['Drama']
+2229,The Pleasure Garden,['Drama']
+885,Bogus,"[""Children's"", 'Drama', 'Fantasy']"
+2817,Aces: Iron Eagle III,"['Action', 'War']"
+3519,Force 10 from Navarone,"['Action', 'War']"
+3564,The Flintstones in Viva Rock Vegas,"[""Children's"", 'Comedy']"
+2134,Weird Science,['Comedy']
+1588,George of the Jungle,"[""Children's"", 'Comedy']"
+1621,Soul Food,['Drama']
+1144,The Line King: Al Hirschfeld,['Documentary']
+3509,Black and White,['Drama']
+3810,White Sands,"['Drama', 'Thriller']"
+3366,Where Eagles Dare,"['Action', 'Adventure', 'War']"
+962,They Made Me a Criminal,"['Crime', 'Drama']"
+3029,Nighthawks,"['Action', 'Drama']"
+2353,Enemy of the State,"['Action', 'Thriller']"
+700,Angus,['Comedy']
+2832,The Lost Son,['Drama']
+2684,Taxman,"['Comedy', 'Drama']"
+2514,Pet Sematary II,['Horror']
+2852,A Soldier's Story,['Drama']
+3475,A Place in the Sun,"['Drama', 'Romance']"
+2996,Music of the Heart,['Drama']
+1602,Leave It to Beaver,['Comedy']
+723,Two Friends,['Drama']
+2288,The Thing,"['Action', 'Horror', 'Sci-Fi', 'Thriller']"
+1971,A Nightmare on Elm Street 4: The Dream Master,['Horror']
+2670,Run Deep Run Silent,['War']
+3131,Broadway Damage,['Comedy']
+322,Swimming with Sharks,"['Comedy', 'Drama']"
+3422,She's Gotta Have It,"['Comedy', 'Romance']"
+2957,Sparrows,['Drama']
+2315,Bride of Chucky,"['Horror', 'Thriller']"
+2639,Mommie Dearest,['Drama']
+2303,Nashville,"['Drama', 'Musical']"
+787,The Gate of Heavenly Peace,['Documentary']
+3413,Impact,"['Crime', 'Drama']"
+2354,The Rugrats Movie,"['Animation', ""Children's"", 'Comedy']"
+1424,Inside,['Action']
+3057,Where's Marlowe?,['Comedy']
+701,Daens,['Drama']
+2284,Bandit Queen,['Drama']
+725,The Great White Hype,['Comedy']
+1565,Head Above Water,"['Comedy', 'Thriller']"
+1641,The Full Monty,['Comedy']
+523,Ruby in Paradise,['Drama']
+2972,Red Sorghum,"['Drama', 'War']"
+766,I Shot Andy Warhol,['Drama']
+1200,Aliens,"['Action', 'Sci-Fi', 'Thriller', 'War']"
+1163,Mina Tannenbaum,['Drama']
+1756,The Prophecy II,['Horror']
+602,A Great Day in Harlem,['Documentary']
+1969,A Nightmare on Elm Street Part 2: Freddy's Revenge,['Horror']
+3125,The End of the Affair,['Drama']
+1541,Addicted to Love,"['Comedy', 'Romance']"
+2800,Little Nemo: Adventures in Slumberland,"['Animation', ""Children's""]"
+2938,Man Facing Southeast,['Drama']
+748,The Arrival,"['Action', 'Sci-Fi', 'Thriller']"
+1013,The Parent Trap,"[""Children's"", 'Drama']"
+1904,Henry Fool,"['Comedy', 'Drama']"
+1463,That Old Feeling,"['Comedy', 'Romance']"
+3056,Oxygen,['Thriller']
+2708,An Autumn Tale,['Romance']
+1528,Intimate Relations,['Comedy']
+1034,Freeway,['Crime']
+501,Naked,['Drama']
+43,Restoration,['Drama']
+1393,Jerry Maguire,"['Drama', 'Romance']"
+538,Six Degrees of Separation,['Drama']
+1768,Mat' i syn,['Drama']
+3466,Heart and Souls,"['Comedy', 'Fantasy']"
+589,Terminator 2: Judgment Day,"['Action', 'Sci-Fi', 'Thriller']"
+2616,Dick Tracy,"['Action', 'Crime']"
+1692,Alien Escape,"['Horror', 'Sci-Fi']"
+3120,The Distinguished Gentleman,['Comedy']
+3916,Remember the Titans,['Drama']
+2176,Rope,['Thriller']
+1150,The Return of Martin Guerre,['Drama']
+3015,Coma,['Thriller']
+3518,The End of Violence,"['Drama', 'Thriller']"
+1916,Buffalo 66,"['Action', 'Comedy', 'Drama']"
+3936,The Phantom of the Opera,"['Drama', 'Thriller']"
+3761,Blood Out Blood In,"['Crime', 'Drama']"
+3581,Human Traffic,['Drama']
+1371,Star Trek: The Motion Picture,"['Action', 'Adventure', 'Sci-Fi']"
+161,Crimson Tide,"['Drama', 'Thriller', 'War']"
+3315,Happy Go Lovely,['Musical']
+1331,Audrey Rose,['Horror']
+647,Courage Under Fire,"['Drama', 'War']"
+1950,In the Heat of the Night,"['Drama', 'Mystery']"
+1559,The Next Step,['Drama']
+3536,Keeping the Faith,"['Comedy', 'Romance']"
+2195,Dirty Work,['Comedy']
+1553,Late Bloomers,['Comedy']
+755,Kim,"[""Children's"", 'Drama']"
+1520,Commandments,['Romance']
+626,A Thin Line Between Love and Hate,['Comedy']
+422,Blink,['Thriller']
+452,Widows' Peak,['Drama']
+2444,24 7: Twenty Four Seven,"['Comedy', 'Drama']"
+2863,A Hard Day's Night,"['Comedy', 'Musical']"
+2299,The Battle of the Sexes,['Comedy']
+1938,The Lost Weekend,['Drama']
+3100,A River Runs Through It,['Drama']
+2337,Velvet Goldmine,['Drama']
+1053,Normal Life,"['Crime', 'Drama']"
+3252,Scent of a Woman,['Drama']
+3638,Moonraker,"['Action', 'Romance', 'Sci-Fi']"
+2916,Total Recall,"['Action', 'Adventure', 'Sci-Fi', 'Thriller']"
+2712,Eyes Wide Shut,['Drama']
+3493,Torso,['Horror']
+1711,Midnight in the Garden of Good and Evil,"['Comedy', 'Crime', 'Drama', 'Mystery']"
+1285,Heathers,['Comedy']
+2269,Indecent Proposal,['Drama']
+2344,Runaway Train,"['Action', 'Adventure', 'Drama', 'Thriller']"
+3116,Miss Julie,['Drama']
+2843,White Cat Black Cat,"['Comedy', 'Romance']"
+1928,Cimarron,['Western']
+2493,The Harmonists,['Drama']
+1841,The Gingerbread Man,"['Drama', 'Thriller']"
+2098,Son of Flubber,"[""Children's"", 'Comedy']"
+512,Robert A. Heinlein's The Puppet Masters,"['Horror', 'Sci-Fi']"
+3361,Bull Durham,['Comedy']
+260,Star Wars: Episode IV - A New Hope,"['Action', 'Adventure', 'Fantasy', 'Sci-Fi']"
+889,1-900,['Romance']
+270,Love Affair,"['Drama', 'Romance']"
+2296,A Night at the Roxbury,['Comedy']
+1721,Titanic,"['Drama', 'Romance']"
+3320,Mifune,"['Comedy', 'Romance']"
+2152,Air Bud: Golden Receiver,"[""Children's"", 'Comedy']"
+3235,Where the Buffalo Roam,['Comedy']
+1359,Jingle All the Way,"['Adventure', ""Children's"", 'Comedy']"
+3709,Sleepwalkers,['Horror']
+1035,The Sound of Music,['Musical']
+3628,Flying Tigers,"['Action', 'Drama', 'War']"
+2900,Monkey Shines,"['Horror', 'Sci-Fi']"
+3374,Daughters of the Dust,['Drama']
+3501,Murphy's Romance,"['Comedy', 'Romance']"
+3364,The Asphalt Jungle,"['Crime', 'Film-Noir']"
+754,Gold Diggers: The Secret of Bear Mountain,"['Adventure', ""Children's""]"
+1308,I Shot a Man in Vegas,['Comedy']
+1366,The Crucible,['Drama']
+307,Three Colors: Blue,['Drama']
+1089,Reservoir Dogs,"['Crime', 'Thriller']"
+3151,The Bat Whispers,"['Crime', 'Drama', 'Mystery']"
+1411,Hamlet,['Drama']
+3196,Stalag 17,"['Drama', 'War']"
+2179,Topaz,['Thriller']
+3883,Catfish in Black Bean Sauce,"['Comedy', 'Drama']"
+353,The Crow,"['Action', 'Romance', 'Thriller']"
+860,Maybe Not Maybe,['Comedy']
+2570,A Walk on the Moon,"['Drama', 'Romance']"
+3447,The Good Earth,['Drama']
+2066,Out of the Past,['Film-Noir']
+149,Amateur,"['Crime', 'Drama', 'Thriller']"
+3717,Gone in 60 Seconds,"['Action', 'Crime']"
+1288,This Is Spinal Tap,"['Comedy', 'Drama', 'Musical']"
+3219,Pacific Heights,['Thriller']
+2477,Firewalker,['Adventure']
+1230,Annie Hall,"['Comedy', 'Romance']"
+3582,Hospitals & Hip-Hop Jails,['Drama']
+2005,The Goonies,"['Adventure', ""Children's"", 'Fantasy']"
+776,Babyfever,"['Comedy', 'Drama']"
+2142,An American Tail: Fievel Goes West,"['Animation', ""Children's"", 'Comedy']"
+1271,Fried Green Tomatoes,['Drama']
+750,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,"['Sci-Fi', 'War']"
+1437,The Cement Garden,['Drama']
+3216,Vampyros Lesbos,['Horror']
+818,A Very Brady Sequel,['Comedy']
+1679,Chairman of the Board,['Comedy']
+1855,Krippendorf's Tribe,['Comedy']
+3227,Just Frenzy Not Love,"['Comedy', 'Drama', 'Thriller']"
+2069,The Trip to Bountiful,['Drama']
+955,Bringing Up Baby,['Comedy']
+1137,Hustler White,['Romance']
+3032,The Omega Man,['Sci-Fi']
+3669,Stay Tuned,['Comedy']
+2582,Twin Dragons,"['Action', 'Comedy']"
+3103,Stanley & Iris,"['Drama', 'Romance']"
+3404,Titanic,"['Action', 'Drama']"
+1511,A Chef in Love,['Comedy']
+3362,Dog Day Afternoon,"['Comedy', 'Crime', 'Drama']"
+2596,SLC Punk!,"['Comedy', 'Drama']"
+2886,The Adventures of Elmo in Grouchland,"[""Children's"", 'Comedy']"
+2734,The Mosquito Coast,['Drama']
+3079,Mansfield Park,['Drama']
+1709,Legal Deceit,['Thriller']
+1809,Hana-bi,"['Comedy', 'Crime', 'Drama']"
+557,Mamma Roma,['Drama']
+534,Shadowlands,"['Drama', 'Romance']"
+1908,Resurrection Man,"['Drama', 'Thriller']"
+1363,The Preacher's Wife,['Drama']
+3751,Chicken Run,"['Animation', ""Children's"", 'Comedy']"
+3283,Minnie and Moskowitz,['Action']
+1495,Turbo: A Power Rangers Movie,"['Action', 'Adventure', ""Children's""]"
+1772,Blues Brothers 2000,"['Action', 'Comedy', 'Musical']"
+3327,Beyond the Mat,['Documentary']
+3949,Requiem for a Dream,['Drama']
+2418,Nothing in Common,['Comedy']
+63,Don't Be a Menace to South Central While Drinking Your Juice in the Hood,['Comedy']
+855,Every Other Weekend,['Drama']
+3338,For All Mankind,['Documentary']
+899,Singin' in the Rain,"['Musical', 'Romance']"
+688,Operation Dumbo Drop,"['Action', 'Adventure', 'Comedy', 'War']"
+3428,The Champ,['Drama']
+812,Magic Hunter,['Drama']
+2922,Hang 'em High,['Western']
+3328,Ghost Dog: The Way of the Samurai,"['Crime', 'Drama']"
+3265,Hard-Boiled,"['Action', 'Crime']"
+1397,Bastard Out of Carolina,['Drama']
+3097,The Shop Around the Corner,"['Comedy', 'Romance']"
+1245,Miller's Crossing,['Drama']
+2592,The Joyriders,['Drama']
+224,Don Juan DeMarco,"['Comedy', 'Drama', 'Romance']"
+3287,The Tigger Movie,"['Animation', ""Children's""]"
+1063,Johns,['Drama']
+3141,The Two Jakes,['Drama']
+3351,Two Thousand Maniacs!,['Horror']
+1489,Cats Don't Dance,"['Animation', ""Children's"", 'Musical']"
+3836,Kelly's Heroes,"['Action', 'Comedy', 'War']"
+1973,Freddy's Dead: The Final Nightmare,['Horror']
+832,Ransom,"['Drama', 'Thriller']"
+2953,Home Alone 2: Lost in New York,"[""Children's"", 'Comedy']"
+2185,I Confess,['Thriller']
+84,Last Summer in the Hamptons,"['Comedy', 'Drama']"
+319,Shallow Grave,['Thriller']
+3899,Circus,['Comedy']
+1503,8 Heads in a Duffel Bag,['Comedy']
+3912,Beautiful,"['Comedy', 'Drama']"
+3770,Dreamscape,"['Adventure', 'Crime', 'Sci-Fi', 'Thriller']"
+1932,The Great Ziegfeld,['Musical']
+64,Two if by Sea,"['Comedy', 'Romance']"
+3043,Meatballs 4,['Comedy']
+3635,The Spy Who Loved Me,['Action']
+1050,Looking for Richard,"['Documentary', 'Drama']"
+2132,Who's Afraid of Virginia Woolf?,['Drama']
+2352,The Big Chill,"['Comedy', 'Drama']"
+1985,Halloween 4: The Return of Michael Myers,['Horror']
+861,Supercop,"['Action', 'Thriller']"
+2332,Belly,"['Crime', 'Drama']"
+3671,Blazing Saddles,"['Comedy', 'Western']"
+3743,Boys and Girls,"['Comedy', 'Romance']"
+3290,Soft Toilet Seats,['Comedy']
+463,Guilty as Sin,"['Crime', 'Drama', 'Thriller']"
+3722,Live Virgin,['Comedy']
+2043,Darby O'Gill and the Little People,"['Adventure', ""Children's"", 'Fantasy']"
+305,Ready to Wear,['Comedy']
+3950,Tigerland,['Drama']
+1967,Labyrinth,"['Adventure', ""Children's"", 'Fantasy']"
+987,Bliss,"['Drama', 'Romance']"
+3478,La Bamba,['Drama']
+1727,The Horse Whisperer,['Drama']
+1739,3 Ninjas: High Noon On Mega Mountain,"['Action', ""Children's""]"
+1837,The Odd Couple II,['Comedy']
+1153,Raw Deal,['Film-Noir']
+3862,About Adam,['Comedy']
+3059,British Intelligence,['Drama']
+1694,The Apostle,['Drama']
+2778,Never Talk to Strangers,['Thriller']
+2045,A Far Off Place,"['Adventure', ""Children's"", 'Drama', 'Romance']"
+935,The Band Wagon,"['Comedy', 'Musical']"
+3700,The Brother from Another Planet,"['Drama', 'Sci-Fi']"
+1434,The Stranger,['Action']
+869,Kansas City,['Crime']
+3024,Piranha,"['Horror', 'Sci-Fi']"
+75,Big Bully,"['Comedy', 'Drama']"
+364,The Lion King,"['Animation', ""Children's"", 'Musical']"
+2632,The Saragossa Manuscript,['Drama']
+3923,Return of the Fly,"['Horror', 'Sci-Fi']"
+3231,The Saphead,['Comedy']
+1030,Pete's Dragon,"['Adventure', 'Animation', ""Children's"", 'Musical']"
+189,Reckless,['Comedy']
+2181,Marnie,['Thriller']
+3178,The Hurricane,['Drama']
+3458,Blood and Sand,"['Drama', 'Romance']"
+229,Death and the Maiden,"['Drama', 'Thriller']"
+1380,Grease,"['Comedy', 'Musical', 'Romance']"
+2146,St. Elmo's Fire,"['Drama', 'Romance']"
+1175,Delicatessen,"['Comedy', 'Sci-Fi']"
+3091,Kagemusha,"['Drama', 'War']"
+3058,The Ape,"['Horror', 'Sci-Fi']"
+733,The Rock,"['Action', 'Adventure', 'Thriller']"
+3473,Jonah Who Will Be 25 in the Year 2000,['Comedy']
+1337,The Body Snatcher,['Horror']
+3407,The Carriers Are Waiting,"['Comedy', 'Drama']"
+266,Legends of the Fall,"['Drama', 'Romance', 'War', 'Western']"
+2113,Graveyard Shift,"['Horror', 'Thriller']"
+2614,Chopping Mall,"['Action', 'Horror', 'Sci-Fi']"
+170,Hackers,"['Action', 'Crime', 'Thriller']"
+2566,Doug's 1st Movie,"['Animation', ""Children's""]"
+530,Second Best,['Drama']
+2194,The Untouchables,"['Action', 'Crime', 'Drama']"
+2892,New Rose Hotel,"['Action', 'Drama']"
+3096,My Man Godfrey,['Comedy']
+3913,Barenaked in America,['Documentary']
+2377,Lifeforce,"['Horror', 'Sci-Fi']"
+1318,Blue Juice,"['Comedy', 'Drama']"
+1507,Paradise Road,"['Drama', 'War']"
+908,North by Northwest,"['Drama', 'Thriller']"
+2660,The Thing From Another World,['Sci-Fi']
+2020,Dangerous Liaisons,"['Drama', 'Romance']"
+3625,Better Living Through Circuitry,['Documentary']
+3550,The Hunger,['Horror']
+1033,The Fox and the Hound,"['Animation', ""Children's""]"
+2904,Rain,['Drama']
+263,Ladybird Ladybird,['Drama']
+1705,Guy,['Drama']
+2783,The Tomb of Ligeia,['Horror']
+2308,Detroit 9000,"['Action', 'Crime']"
+2280,Clay Pigeons,['Crime']
+834,Phat Beach,['Comedy']
+2238,Seven Beauties,"['Comedy', 'Drama']"
+1176,The Double Life of Veronique,['Drama']
+2130,Atlantic City,"['Crime', 'Drama', 'Romance']"
+1730,Kundun,['Drama']
+3521,Mystery Train,"['Comedy', 'Crime', 'Drama']"
+441,Dazed and Confused,['Comedy']
+606,Candyman: Farewell to the Flesh,['Horror']
+1843,Slappy and the Stinkers,"[""Children's"", 'Comedy']"
+3854,AimÃ©e & Jaguar,"['Drama', 'Romance']"
+3136,The James Dean Story,['Documentary']
+1183,The English Patient,"['Drama', 'Romance', 'War']"
+658,Billy's Holiday,['Drama']
+876,Police Story 4: Project S,['Action']
+1885,The Opposite of Sex,"['Comedy', 'Drama']"
+7,Sabrina,"['Comedy', 'Romance']"
+2004,Gremlins 2: The New Batch,"['Comedy', 'Horror']"
+1143,Three Lives and Only One Death,['Comedy']
+19,Ace Ventura: When Nature Calls,['Comedy']
+1649,Cheap & Out of Control Fast,['Documentary']
+1833,Mercury Rising,"['Action', 'Drama', 'Thriller']"
+1729,Jackie Brown,"['Crime', 'Drama']"
+3852,The Tao of Steve,['Comedy']
+2122,Children of the Corn,"['Horror', 'Thriller']"
+1415,Thieves,"['Crime', 'Drama', 'Romance']"
+1543,The Designated Mourner,['Drama']
+842,Tales from the Crypt Presents: Bordello of Blood,['Horror']
+656,Eddie,['Comedy']
+3074,Jeremiah Johnson,['Western']
+3917,Hellraiser,['Horror']
+3545,Cabaret,"['Musical', 'War']"
+884,Sweet Nothing,['Drama']
+1280,Raise the Red Lantern,['Drama']
+1186,Lies Sex,['Drama']
+2484,Tinseltown,['Comedy']
+3166,Brenda Starr,['Adventure']
+1160,Six of a Kind,['Comedy']
+104,Happy Gilmore,['Comedy']
+2970,Fitzcarraldo,"['Adventure', 'Drama']"
+782,The Fan,['Thriller']
+2521,Airport 1975,['Drama']
+1140,Entertaining Angels: The Dorothy Day Story,['Drama']
+2897,And the Ship Sails On,"['Comedy', 'War']"
+604,Criminals,['Documentary']
+1094,The Crying Game,"['Drama', 'Romance', 'War']"
+3195,Tess of the Storm Country,['Drama']
+1840,He Got Game,['Drama']
+537,Sirens,"['Comedy', 'Drama']"
+3587,Inferno,['Horror']
+1431,Beverly Hills Ninja,"['Action', 'Comedy']"
+2693,Trekkies,['Documentary']
+2068,Fanny and Alexander,['Drama']
+3311,The Man from Laramie,['Western']
+389,Le Colonel Chabert,"['Drama', 'Romance', 'War']"
+1252,Chinatown,"['Film-Noir', 'Mystery', 'Thriller']"
+3512,Return to Me,"['Drama', 'Romance']"
+651,Das Superweib,['Comedy']
+3476,Jacob's Ladder,"['Horror', 'Mystery', 'Thriller']"
+3747,Jesus' Son,['Drama']
+2568,The Mod Squad,"['Action', 'Crime']"
+3299,Hanging Up,"['Comedy', 'Drama']"
+3784,The Kid,['Comedy']
+3267,El Mariachi,"['Action', 'Thriller']"
+846,Flirt,['Drama']
+3095,The Grapes of Wrath,['Drama']
+1988,Hello Mary Lou: Prom Night II,['Horror']
+220,Castle Freak,['Horror']
+3324,Drowning Mona,['Comedy']
+3573,Carnosaur 2,"['Horror', 'Sci-Fi']"
+1623,Wishmaster,['Horror']
+3359,Breaking Away,['Drama']
+249,Immortal Beloved,"['Drama', 'Romance']"
+264,L' Enfer,['Drama']
+14,Nixon,['Drama']
+3514,Joe Gould's Secret,['Drama']
+2225,Easy Virtue,['Drama']
+2937,The Palm Beach Story,['Comedy']
+2334,The Siege,"['Action', 'Thriller']"
+3069,The Effect of Gamma Rays on Man-in-the-Moon Marigolds,['Drama']
+1762,Deep Rising,"['Action', 'Horror', 'Sci-Fi']"
+1178,Paths of Glory,"['Drama', 'War']"
+2261,One Crazy Summer,['Comedy']
+2182,The Wrong Man,"['Drama', 'Film-Noir', 'Thriller']"
+3383,Big Fella,"['Drama', 'Musical']"
+1193,One Flew Over the Cuckoo's Nest,['Drama']
+1389,Jaws 3-D,"['Action', 'Horror']"
+2936,Sullivan's Travels,['Comedy']
+1660,Eve's Bayou,['Drama']
+3599,Anchors Aweigh,"['Comedy', 'Musical']"
+973,Meet John Doe,['Drama']
+709,Oliver & Company,"['Animation', ""Children's""]"
+1874,Still Breathing,"['Comedy', 'Romance']"
+1918,Lethal Weapon 4,"['Action', 'Comedy', 'Crime', 'Drama']"
+678,Some Folks Call It a Sling Blade,"['Drama', 'Thriller']"
+3193,Creature,['Documentary']
+2034,The Black Hole,['Sci-Fi']
+2692,Run Lola Run,"['Action', 'Crime', 'Romance']"
+1863,Major League: Back to the Minors,['Comedy']
+540,Sliver,['Thriller']
+2992,Rawhead Rex,"['Horror', 'Thriller']"
+2765,The Acid House,"['Comedy', 'Drama']"
+1476,Private Parts,"['Comedy', 'Drama']"
+1987,Prom Night,['Horror']
+493,Menace II Society,"['Action', 'Crime', 'Drama']"
+449,Fear of a Black Hat,['Comedy']
+3210,Fast Times at Ridgemont High,['Comedy']
+2696,The Dinner Game,['Comedy']
+2633,The Mummy,"['Horror', 'Romance']"
+79,The Juror,"['Drama', 'Thriller']"
+2497,Message in a Bottle,['Romance']
+1260,M,"['Crime', 'Film-Noir', 'Thriller']"
+1046,Beautiful Thing,"['Drama', 'Romance']"
+2923,Citizen's Band,['Comedy']
+1991,Child's Play,['Horror']
+3030,Yojimbo,"['Comedy', 'Drama', 'Western']"
+742,Thinner,"['Horror', 'Thriller']"
+500,Mrs. Doubtfire,['Comedy']
+3,Grumpier Old Men,"['Comedy', 'Romance']"
+1327,The Amityville Horror,['Horror']
+3199,Pal Joey,"['Comedy', 'Musical', 'Romance']"
+3814,Love and Death,['Comedy']
+2163,Attack of the Killer Tomatoes!,"['Comedy', 'Horror']"
+2379,Police Academy 2: Their First Assignment,['Comedy']
+3576,The Hidden,"['Action', 'Horror', 'Sci-Fi']"
+1992,Child's Play 2,['Horror']
+687,Country Life,"['Drama', 'Romance']"
+1081,Victor/Victoria,"['Comedy', 'Musical']"
+1598,Desperate Measures,"['Crime', 'Drama', 'Thriller']"
+1684,Mrs. Dalloway,['Romance']
+975,Something to Sing About,"['Comedy', 'Musical']"
+3938,The Slumber Party Massacre,['Horror']
+2677,Buena Vista Social Club,['Documentary']
+427,Boxing Helena,"['Mystery', 'Romance', 'Thriller']"
+663,Kids in the Hall: Brain Candy,['Comedy']
+1138,Dadetown,['Documentary']
+3449,The Good Mother,['Drama']
+923,Citizen Kane,['Drama']
+2975,The Best Man,['Drama']
+3558,The Law,['Drama']
+1156,The Children Are Watching us,['Drama']
+2274,Lilian's Story,['Drama']
+1757,Duoluo tianshi,['Drama']
+1311,Santa with Muscles,['Comedy']
+1398,In Love and War,"['Romance', 'War']"
+1799,Suicide Kings,"['Crime', 'Drama']"
+3832,Black Sabbath,['Horror']
+11,The American President,"['Comedy', 'Drama', 'Romance']"
+1913,Picnic at Hanging Rock,"['Drama', 'Mystery']"
+3593,Battlefield Earth,"['Action', 'Sci-Fi']"
+3604,Gypsy,['Musical']
+3875,The Devil Rides Out,['Horror']
+2635,The Mummy's Curse,['Horror']
+3259,Far and Away,"['Drama', 'Romance']"
+2051,Herbie Goes to Monte Carlo,"['Adventure', ""Children's"", 'Comedy']"
+3297,With Byrd at the South Pole,['Documentary']
+784,The Cable Guy,['Comedy']
+945,Top Hat,"['Comedy', 'Musical', 'Romance']"
+996,Last Man Standing,"['Action', 'Drama', 'Western']"
+2386,Jerry Springer: Ringmaster,['Drama']
+1765,A Letter From Death Row,"['Crime', 'Drama']"
+1154,T-Men,['Film-Noir']
+3777,Nekromantik,"['Comedy', 'Horror']"
+1546,Schizopolis,['Comedy']
+2544,The School of Flesh,['Drama']
+2116,The Lord of the Rings,"['Adventure', 'Animation', ""Children's"", 'Sci-Fi']"
+1744,Firestorm,"['Action', 'Adventure', 'Thriller']"
+1859,Taste of Cherry,['Drama']
+2990,Licence to Kill,['Action']
+2784,The Masque of the Red Death,['Horror']
+3278,Gendernauts,['Documentary']
+3434,Death Wish V: The Face of Death,"['Action', 'Drama']"
+3392,She-Devil,['Comedy']
+3888,Skipped Parts,"['Drama', 'Romance']"
+2565,The King and I,['Musical']
+770,Costa Brava,['Drama']
+2243,Broadcast News,"['Comedy', 'Drama', 'Romance']"
+676,They Bite,['Drama']
+1873,Les MisÃ©rables,['Drama']
+680,Alphaville,['Sci-Fi']
+140,Up Close and Personal,"['Drama', 'Romance']"
+2427,The Thin Red Line,"['Action', 'Drama', 'War']"
+1232,Stalker,"['Mystery', 'Sci-Fi']"
+3891,Turn It Up,"['Crime', 'Drama']"
+3632,Monsieur Verdoux,['Comedy']
+3442,Band of the Hand,['Action']
+3670,The Story of G.I. Joe,['War']
+3730,The Conversation,"['Drama', 'Mystery']"
+271,Losing Isaiah,['Drama']
+1355,Nightwatch,"['Horror', 'Thriller']"
+2251,The Cabinet of Dr. Ramirez,['Comedy']
+3631,It's in the Water,['Comedy']
+96,In the Bleak Midwinter,['Comedy']
+989,Schlafes Bruder,['Drama']
+1460,That Darn Cat!,"[""Children's"", 'Comedy', 'Mystery']"
+910,Some Like It Hot,"['Comedy', 'Crime']"
+2881,Double Jeopardy,"['Action', 'Thriller']"
+1254,The Treasure of the Sierra Madre,['Adventure']
+1993,Child's Play 3,['Horror']
+1574,Fall,['Romance']
+174,Jury Duty,['Comedy']
+3621,Possession,"['Drama', 'Horror']"
+3152,The Last Picture Show,['Drama']
+2082,The Mighty Ducks,"[""Children's"", 'Comedy']"
+3387,Who's Harry Crumb?,['Comedy']
+800,Lone Star,"['Drama', 'Mystery']"
+1922,Whatever,['Drama']
+3110,Country,['Drama']
+827,The Convent,['Drama']
+3572,Carnosaur,"['Horror', 'Sci-Fi']"
+1002,Ed's Next Move,['Comedy']
+2889,Alaska Mystery,['Comedy']
+215,Before Sunrise,"['Drama', 'Romance']"
+3197,The Presidio,['Action']
+1228,Raging Bull,['Drama']
+304,Roommates,"['Comedy', 'Drama']"
+137,Man of the Year,['Documentary']
+741,Ghost in the Shell,"['Animation', 'Sci-Fi']"
+3236,Zachariah,['Western']
+803,Walking and Talking,['Romance']
+2292,Overnight Delivery,['Romance']
+1796,In God's Hands,"['Action', 'Drama']"
+2987,Who Framed Roger Rabbit?,"['Adventure', 'Animation', 'Film-Noir']"
+3876,Jerry & Tom,['Drama']
+2690,An Ideal Husband,['Comedy']
+625,Asfour Stah,['Drama']
+620,Scream of Stone,['Drama']
+592,Batman,"['Action', 'Adventure', 'Crime', 'Drama']"
+2150,The Gods Must Be Crazy,['Comedy']
+3939,The Slumber Party Massacre II,['Horror']
+2074,The Night Porter,['Drama']
+554,Trial by Jury,['Thriller']
+2546,The Deep End of the Ocean,['Drama']
+961,Little Lord Fauntleroy,['Drama']
+3766,Missing in Action,"['Action', 'War']"
+2775,Head On,['Drama']
+698,Delta of Venus,['Drama']
+1214,Alien,"['Action', 'Horror', 'Sci-Fi', 'Thriller']"
+3602,G. I. Blues,['Musical']
+3505,No Way Out,['Thriller']
+2403,First Blood,['Action']
+2273,Rush Hour,"['Action', 'Thriller']"
+2318,Happiness,['Comedy']
+474,In the Line of Fire,"['Action', 'Thriller']"
+682,Tigrero: A Film That Was Never Made,"['Documentary', 'Drama']"
+1816,Two Girls and a Guy,"['Comedy', 'Drama']"
+2687,Tarzan,"['Animation', ""Children's""]"
+3017,Creepshow 2,['Horror']
+3112,'Night Mother,['Drama']
+1674,Witness,"['Drama', 'Romance', 'Thriller']"
+1322,Amityville 1992: It's About Time,['Horror']
+2718,Drop Dead Gorgeous,['Comedy']
+2601,A Little Bit of Soul,['Comedy']
+3662,Puppet Master III: Toulon's Revenge,"['Horror', 'Sci-Fi', 'Thriller']"
+1304,Butch Cassidy and the Sundance Kid,"['Action', 'Comedy', 'Western']"
+2460,The Texas Chainsaw Massacre 2,['Horror']
+2716,Ghostbusters,"['Comedy', 'Horror']"
+205,Unstrung Heroes,"['Comedy', 'Drama']"
+116,Anne Frank Remembered,['Documentary']
+737,Barb Wire,"['Action', 'Sci-Fi']"
+3188,The Life and Times of Hank Greenberg,['Documentary']
+3648,The Abominable Snowman,"['Horror', 'Sci-Fi']"
+3005,The Bone Collector,['Thriller']
+897,For Whom the Bell Tolls,"['Adventure', 'War']"
+2619,Mascara,['Drama']
+1061,Sleepers,"['Crime', 'Drama']"
+1027,Robin Hood: Prince of Thieves,['Drama']
+816,Two Deaths,['Drama']
+1210,Star Wars: Episode VI - Return of the Jedi,"['Action', 'Adventure', 'Romance', 'Sci-Fi', 'War']"
+3335,Jail Bait,"['Crime', 'Drama']"
+2612,Mildred Pierce,['Drama']
+1586,G.I. Jane,"['Action', 'Drama', 'War']"
+508,Philadelphia,['Drama']
+1320,AlienÂ³,"['Action', 'Horror', 'Sci-Fi', 'Thriller']"
+2312,Children of a Lesser God,['Drama']
+2959,Fight Club,['Drama']
+1726,The Postman,['Drama']
+3026,Slaughterhouse,['Horror']
+1493,Love and Other Catastrophes,['Romance']
+3104,Midnight Run,"['Action', 'Adventure', 'Comedy', 'Crime']"
+3370,Betrayed,"['Drama', 'Thriller']"
+613,Jane Eyre,"['Drama', 'Romance']"
+667,Bloodsport 2,['Action']
+1748,Dark City,"['Film-Noir', 'Sci-Fi', 'Thriller']"
+1018,That Darn Cat!,"[""Children's"", 'Comedy', 'Mystery']"
+1672,The Rainmaker,['Drama']
+2177,Family Plot,"['Comedy', 'Thriller']"
+3676,Eraserhead,"['Drama', 'Horror']"
+1269,Arsenic and Old Lace,"['Comedy', 'Mystery', 'Thriller']"
+3348,The Night Visitor,"['Crime', 'Thriller']"
+1250,The Bridge on the River Kwai,"['Drama', 'War']"
+2911,The Grandfather,['Drama']
+3036,Quest for Fire,['Adventure']
+2282,Pecker,"['Comedy', 'Drama']"
+3821,Nutty Professor II: The Klumps,['Comedy']
+349,Clear and Present Danger,"['Action', 'Adventure', 'Thriller']"
+1847,Ratchet,"['Drama', 'Thriller']"
+1119,Drunks,['Drama']
+120,Race the Sun,['Drama']
+3639,The Man with the Golden Gun,['Action']
+1497,Double Team,['Action']
+1278,Young Frankenstein,"['Comedy', 'Horror']"
+1704,Good Will Hunting,['Drama']
+1551,Buddy,"['Adventure', ""Children's"", 'Drama']"
+276,Milk Money,"['Comedy', 'Romance']"
+2810,Perfect Blue,"['Animation', 'Mystery']"
+1401,Ghosts of Mississippi,['Drama']
+59,The Confessional,"['Drama', 'Mystery']"
+1490,B*A*P*S,['Comedy']
+3583,Black Tights,['Drama']
+3874,A Couch in New York,"['Comedy', 'Romance']"
+2156,The Best Man,"['Comedy', 'Drama']"
+3295,Raining Stones,['Drama']
+1302,Field of Dreams,['Drama']
+1482,The Van,"['Comedy', 'Drama']"
+3102,Jagged Edge,['Thriller']
+3932,The Invisible Man,"['Horror', 'Sci-Fi']"
+854,The Ballad of Narayama,['Drama']
+227,Drop Zone,['Action']
+507,A Perfect World,"['Action', 'Drama']"
+779,'Til There Was You,"['Drama', 'Romance']"
+429,Cabin Boy,['Comedy']
+1133,Talking About Sex,"['Comedy', 'Drama']"
+3128,A Map of the World,['Drama']
+488,M. Butterfly,['Drama']
+3073,The Sandpiper,"['Drama', 'Romance']"
+1986,Halloween 5: The Revenge of Michael Myers,['Horror']
+3145,The Cradle Will Rock,['Drama']
+151,Rob Roy,"['Drama', 'Romance', 'War']"
+1662,Gang Related,['Crime']
+3525,Bachelor Party,['Comedy']
+2456,The Fly II,"['Horror', 'Sci-Fi']"
+3054,PokÃ©mon: The First Movie,"['Animation', ""Children's""]"
+50,The Usual Suspects,"['Crime', 'Thriller']"
+3257,The Bodyguard,"['Action', 'Drama', 'Romance', 'Thriller']"
+1842,Illtown,"['Crime', 'Drama']"
+2010,Metropolis,['Sci-Fi']
+1827,The Big One,"['Comedy', 'Documentary']"
+552,The Three Musketeers,"['Action', 'Adventure', 'Comedy']"
+1860,Character,['Drama']
+3336,It Happened Here,['Drama']
+2467,The Name of the Rose,['Mystery']
+2283,The Sheltering Sky,['Drama']
+3342,Birdy,"['Drama', 'War']"
+41,Richard III,"['Drama', 'War']"
+1470,Rhyme & Reason,['Documentary']
+3209,The Loves of Carmen,['Drama']
+2023,The Godfather: Part III,"['Action', 'Crime', 'Drama']"
+992,The Rich Man's Wife,['Thriller']
+146,The Amazing Panda Adventure,"['Adventure', ""Children's""]"
+165,Die Hard: With a Vengeance,"['Action', 'Thriller']"
+3894,Solas,['Drama']
+2737,Assassination,['Action']
+3358,Defending Your Life,"['Comedy', 'Romance']"
+1849,Prince Valiant,['Adventure']
+1426,Zeus and Roxanne,"[""Children's""]"
+467,Live Nude Girls,['Comedy']
+411,You So Crazy,['Comedy']
+3694,Part II Toxic Avenger,"['Comedy', 'Horror']"
+3675,White Christmas,['Musical']
+2894,Romance,"['Drama', 'Romance']"
+1005,D3: The Mighty Ducks,"[""Children's"", 'Comedy']"
+1011,Herbie Rides Again,"['Adventure', ""Children's"", 'Comedy']"
+3586,The Idolmaker,['Drama']
+2945,Mike's Murder,['Mystery']
+1461,Vegas Vacation,['Comedy']
+2291,Edward Scissorhands,"['Drama', 'Romance']"
+3901,Duets,"['Comedy', 'Drama']"
+3741,Badlands,"['Crime', 'Drama']"
+406,Federal Hill,['Drama']
+2485,She's All That,"['Comedy', 'Romance']"
+288,Natural Born Killers,"['Action', 'Thriller']"
+3540,Passion of Mind,"['Romance', 'Thriller']"
+2754,Deadtime Stories,['Horror']
+3138,Stealing Home,['Drama']
+1423,Hearts and Minds,['Drama']
+2398,Miracle on 34th Street,['Drama']
+2617,The Mummy,"['Action', 'Adventure', 'Horror', 'Thriller']"
+2410,Rocky III,"['Action', 'Drama']"
+469,The House of the Spirits,"['Drama', 'Romance']"
+3943,Bamboozled,['Comedy']
+180,Mallrats,['Comedy']
+2861,For Love of the Game,"['Comedy', 'Drama']"
+1042,That Thing You Do!,['Comedy']
+3895,The Watcher,"['Crime', 'Thriller']"
+2756,Wanted: Dead or Alive,['Action']
+3050,Light It Up,['Drama']
+2285,If....,['Drama']
+1012,Old Yeller,"[""Children's"", 'Drama']"
+3727,Near Dark,"['Comedy', 'Horror']"
+3400,We're Back! A Dinosaur's Story,"['Animation', ""Children's""]"
+3867,All the Rage,['Drama']
+1473,Best Men,"['Action', 'Comedy', 'Crime', 'Drama']"
+3165,Boiling Point,"['Action', 'Drama']"
+1579,For Ever Mozart,['Drama']
+329,Star Trek: Generations,"['Action', 'Adventure', 'Sci-Fi']"
+3143,Hell in the Pacific,"['Drama', 'War']"
+3598,Hamlet,['Drama']
+155,Beyond Rangoon,"['Drama', 'War']"
+2880,Operation Condor 2,"['Action', 'Adventure', 'Comedy']"
+2306,Holy Man,['Comedy']
+3249,The Hand That Rocks the Cradle,['Thriller']
+2925,The Conformist,['Drama']
+2786,Haunted Honeymoon,['Comedy']
+13,Balto,"['Animation', ""Children's""]"
+3468,The Hustler,['Drama']
+2927,Brief Encounter,"['Drama', 'Romance']"
+630,Carried Away,"['Drama', 'Romance']"
+115,Happiness Is in the Field,['Comedy']
+636,Frisk,['Drama']
+819,Stefano Quantestorie,"['Comedy', 'Drama']"
+3879,The Art of War,['Action']
+3739,Trouble in Paradise,"['Comedy', 'Romance']"
+453,For Love or Money,['Comedy']
+3585,The Great Locomotive Chase,"['Adventure', 'War']"
+36,Dead Man Walking,['Drama']
+2569,Among Giants,"['Drama', 'Romance']"
+1287,Ben-Hur,"['Action', 'Adventure', 'Drama']"
+2151,The Gods Must Be Crazy II,['Comedy']
+1360,Identification of a Woman,['Drama']
+1465,Rosewood,['Drama']
+1343,Cape Fear,['Thriller']
+2611,The Winslow Boy,['Drama']
+1656,Swept from the Sea,['Romance']
+880,The Island of Dr. Moreau,"['Sci-Fi', 'Thriller']"
+1351,Blood & Wine,['Drama']
+2929,Reds,['Drama']
+1315,Paris Was a Woman,['Documentary']
+1675,Incognito,"['Crime', 'Thriller']"
+344,Ace Ventura: Pet Detective,['Comedy']
+2343,The Naked Man,['Drama']
+1458,Touch,['Romance']
+924,2001: A Space Odyssey,"['Drama', 'Mystery', 'Sci-Fi', 'Thriller']"
+1014,Pollyanna,"[""Children's"", 'Comedy', 'Drama']"
+1316,Anna,['Drama']
+2850,Public Access,"['Drama', 'Thriller']"
+1628,The Locusts,['Drama']
+2073,Fandango,['Comedy']
+565,Cronos,['Horror']
+1595,Free Willy 3: The Rescue,"['Adventure', ""Children's"", 'Drama']"
+1555,or Not To Have,['Drama']
+655,Mutters Courage,['Comedy']
+1923,There's Something About Mary,['Comedy']
+3699,Starman,"['Adventure', 'Drama', 'Romance', 'Sci-Fi']"
+985,Small Wonders,['Documentary']
+1399,Marvin's Room,['Drama']
+836,Chain Reaction,"['Action', 'Adventure', 'Thriller']"
+1627,U Turn,"['Action', 'Crime', 'Mystery']"
+1298,Pink Floyd - The Wall,"['Drama', 'Musical', 'War']"
+1237,The Seventh Seal,['Drama']
+482,Killing Zoe,['Thriller']
+763,The Last of the High Kings,['Drama']
+1652,Year of the Horse,['Documentary']
+2106,Swing Kids,"['Drama', 'War']"
+3439,Teenage Mutant Ninja Turtles II: The Secret of the Ooze,"['Action', ""Children's"", 'Fantasy']"
+3274,Single White Female,['Action']
+2389,Psycho,"['Crime', 'Horror', 'Thriller']"
+443,The Endless Summer 2,['Documentary']
+3379,On the Beach,['Drama']
+1334,The Blob,"['Horror', 'Sci-Fi']"
+223,Clerks,['Comedy']
+2550,The Haunting,"['Horror', 'Thriller']"
+3380,Railroaded!,['Film-Noir']
+2721,Trick,['Romance']
+1396,Sneakers,"['Crime', 'Drama', 'Sci-Fi']"
+237,Forget Paris,"['Comedy', 'Romance']"
+792,A Hungarian Fairy Tale,['Fantasy']
+1722,Tomorrow Never Dies,"['Action', 'Romance', 'Thriller']"
+1523,N.M. Truth or Consequences,"['Action', 'Crime', 'Romance']"
+2650,The Ghost of Frankenstein,['Horror']
+1549,Rough Magic,"['Drama', 'Romance']"
+693,Under the Domin Tree,['Drama']
+1265,Groundhog Day,"['Comedy', 'Romance']"
+2807,Universal Soldier: The Return,"['Action', 'Sci-Fi']"
+3882,Bring It On,['Comedy']
+786,Eraser,"['Action', 'Thriller']"
+1626,Fire Down Below,"['Action', 'Drama', 'Thriller']"
+286,Nemesis 2: Nebula,"['Action', 'Sci-Fi', 'Thriller']"
+2272,One True Thing,['Drama']
+3686,Flatliners,['Thriller']
+3140,The Three Ages,['Comedy']
+3448,Vietnam Good Morning,"['Comedy', 'Drama', 'War']"
+3355,The Ninth Gate,['Thriller']
+1716,Other Rooms Other Voices,['Drama']
+1202,Withnail and I,['Comedy']
+1633,Ulee's Gold,['Drama']
+3438,Teenage Mutant Ninja Turtles,"['Action', ""Children's"", 'Fantasy']"
+2145,Pretty in Pink,"['Comedy', 'Drama', 'Romance']"
+2562,Bandits,['Drama']
+547,Surviving the Game,"['Action', 'Adventure', 'Thriller']"
+2437,Wilde,['Drama']
+2828,Dudley Do-Right,"[""Children's"", 'Comedy']"
+1655,Phantoms,['Horror']
+1688,Anastasia,"['Animation', ""Children's"", 'Musical']"
+2208,The Lady Vanishes,"['Comedy', 'Mystery', 'Romance', 'Thriller']"
+2039,Cheetah,"['Adventure', ""Children's""]"
+3406,Captain Horatio Hornblower,"['Action', 'Adventure', 'War']"
+3123,Spring Fever USA,['Comedy']
+2964,Julien Donkey-Boy,['Drama']
+1474,Jungle2Jungle,"[""Children's"", 'Comedy']"
+1909,The X-Files: Fight the Future,"['Mystery', 'Sci-Fi', 'Thriller']"
+2153,The Avengers,"['Action', 'Adventure']"
+708,The Truth About Cats & Dogs,"['Comedy', 'Romance']"
+1723,Twisted,"['Comedy', 'Drama']"
+3495,Roadside Prophets,"['Comedy', 'Drama']"
+2981,Can You Spare a Dime? Brother,['Documentary']
+3146,Deuce Bigalow: Male Gigolo,['Comedy']
+2629,The Love Letter,"['Comedy', 'Romance']"
+1070,Macao,['Adventure']
+2884,Dog Park,"['Comedy', 'Romance']"
+3329,The Year My Voice Broke,['Drama']
+24,Powder,"['Drama', 'Sci-Fi']"
+1283,High Noon,['Western']
+2620,This Is My Father,"['Drama', 'Romance']"
+1958,Terms of Endearment,"['Comedy', 'Drama']"
+3264,Buffy the Vampire Slayer,"['Comedy', 'Horror']"
+3398,The Muppets Take Manhattan,"[""Children's"", 'Comedy']"
+2825,Rosie,['Drama']
+3061,Holiday Inn,"['Comedy', 'Musical']"
+112,Rumble in the Bronx,"['Action', 'Adventure', 'Crime']"
+3549,Guys and Dolls,['Musical']
+2028,Saving Private Ryan,"['Action', 'Drama', 'War']"
+21,Get Shorty,"['Action', 'Comedy', 'Drama']"
+2864,Splendor,['Comedy']
+176,Living in Oblivion,['Comedy']
+3828,Better Living,['Comedy']
+1370,Die Hard 2,"['Action', 'Thriller']"
+926,All About Eve,['Drama']
+3325,The Next Best Thing,"['Comedy', 'Drama']"
+2293,Shadrach,['Drama']
+568,Bhaji on the Beach,"['Comedy', 'Drama']"
+3494,True Grit,"['Adventure', 'Western']"
+3878,X: The Unknown,['Sci-Fi']
+2757,Frances,['Drama']
+1121,Glory Daze,['Drama']
+2384,Babe: Pig in the City,"[""Children's"", 'Comedy']"
+3771,The Golden Voyage of Sinbad,"['Action', 'Adventure']"
+2537,Beyond the Poseidon Adventure,['Adventure']
+3451,Guess Who's Coming to Dinner,"['Comedy', 'Drama']"
+3647,Running Free,['Drama']
+1900,The Children of Heaven,['Drama']
+2605,Entrapment,"['Crime', 'Thriller']"
+615,Bread and Chocolate,['Drama']
+563,Germinal,['Drama']
+3305,Bluebeard,"['Film-Noir', 'Horror']"
+833,High School High,['Comedy']
+692,Solo,"['Action', 'Sci-Fi', 'Thriller']"
+3009,Portraits Chinois,['Drama']
+2139,The Secret of NIMH,"['Animation', ""Children's""]"
+2841,Stir of Echoes,['Thriller']
+1361,Paradise Lost: The Child Murders at Robin Hood Hills,['Documentary']
+1093,The Doors,"['Drama', 'Musical']"
+3307,City Lights,"['Comedy', 'Drama', 'Romance']"
+97,Hate,['Drama']
+2793,An American Werewolf in Paris,"['Comedy', 'Horror']"
+3515,Me Myself I,['Comedy']
+328,Tales From the Crypt Presents: Demon Knight,['Horror']
+3880,The Ballad of Ramblin' Jack,['Documentary']
+936,Ninotchka,"['Comedy', 'Romance']"
+3472,Horror Hotel,['Horror']
+166,The Doom Generation,"['Comedy', 'Drama']"
+707,Mulholland Falls,"['Crime', 'Film-Noir', 'Thriller']"
+1794,Love and Death on Long Island,"['Comedy', 'Drama']"
+3066,Tora! Tora! Tora!,['War']
+2262,About Last Night...,"['Comedy', 'Drama', 'Romance']"
+1218,The Killer,"['Action', 'Thriller']"
+3813,Interiors,['Drama']
+3614,Honeymoon in Vegas,"['Comedy', 'Romance']"
+1095,Glengarry Glen Ross,['Drama']
+3588,The King of Marvin Gardens,"['Crime', 'Drama']"
+3441,Red Dawn,"['Action', 'War']"
+3391,Who's That Girl?,['Comedy']
+669,Aparajito,['Drama']
+2686,The Red Violin,"['Drama', 'Mystery']"
+1249,Nikita,['Thriller']
+1872,Go Now,['Drama']
+71,Fair Game,['Action']
+197,The Stars Fell on Henrietta,['Drama']
+2111,The Man with Two Brains,['Comedy']
+1208,Apocalypse Now,"['Drama', 'War']"
+3176,The Talented Mr. Ripley,"['Drama', 'Mystery', 'Thriller']"
+3341,Born Yesterday,['Comedy']
+3168,Easy Rider,"['Adventure', 'Drama']"
+970,Beat the Devil,"['Comedy', 'Drama']"
+2846,The Adventures of Milo and Otis,"[""Children's""]"
+2166,Return to Paradise,"['Drama', 'Romance']"
+3502,My Life,['Drama']
+684,Windows,['Drama']
+531,The Secret Garden,"[""Children's"", 'Drama']"
+2197,Firelight,['Drama']
+2164,Surf Nazis Must Die,['Drama']
+3735,Serpico,"['Crime', 'Drama']"
+675,Hostile Intentions,"['Action', 'Drama', 'Thriller']"
+1104,A Streetcar Named Desire,['Drama']
+451,Flesh and Bone,"['Drama', 'Mystery', 'Romance']"
+3555,U-571,"['Action', 'Thriller']"
+1187,Passion Fish,['Drama']
+3167,Carnal Knowledge,['Drama']
+3523,Taffin,"['Action', 'Thriller']"
+932,An Affair to Remember,['Romance']
+1082,The Candidate,['Drama']
+3405,A Night to Remember,"['Action', 'Drama']"
+1984,Halloween III: Season of the Witch,['Horror']
+3745,Titan A.E.,"['Adventure', 'Animation', 'Sci-Fi']"
+3698,The Running Man,"['Action', 'Adventure', 'Sci-Fi']"
+3873,Cat Ballou,"['Comedy', 'Western']"
+1068,Crossfire,"['Crime', 'Film-Noir']"
+2814,The Bat,['Horror']
+404,Brother Minister: The Assassination of Malcolm X,['Documentary']
+1243,Rosencrantz and Guildenstern Are Dead,"['Comedy', 'Drama']"
+2882,Jakob the Liar,['Drama']
+972,The Last Time I Saw Paris,['Drama']
+414,The Air Up There,['Comedy']
+542,Son in Law,['Comedy']
+2908,Boys Don't Cry,['Drama']
+2781,The Tingler,['Horror']
+2118,The Dead Zone,"['Horror', 'Thriller']"
+2567,EDtv,['Comedy']
+1728,The Winter Guest,['Drama']
+517,Rising Sun,"['Action', 'Drama', 'Mystery']"
+3552,Caddyshack,['Comedy']
+3817,The Other Side of Sunday,"['Comedy', 'Drama']"
+621,My Favorite Season,['Drama']
+181,Mighty Morphin Power Rangers: The Movie,"['Action', ""Children's""]"
+2702,Summer of Sam,['Drama']
+2518,Night Shift,['Comedy']
+3812,Everything You Always Wanted to Know About Sex,['Comedy']
+2505,8MM,['Thriller']
+2856,I Saw What You Did,['Thriller']
+2577,Metroland,"['Comedy', 'Drama']"
+2127,Last Rites First Love,"['Drama', 'Romance']"
+504,No Escape,"['Action', 'Sci-Fi']"
+2928,The Razor's Edge,['Drama']
+3312,The McCullochs,['Drama']
+3892,Anatomy,['Horror']
+511,The Program,"['Action', 'Drama']"
+1597,Conspiracy Theory,"['Action', 'Mystery', 'Romance', 'Thriller']"
+1300,My Life as a Dog,['Drama']
+2465,Deadly Friend,['Horror']
+2385,Home Fries,"['Comedy', 'Romance']"
+527,Schindler's List,"['Drama', 'War']"
+3924,Pajama Party,['Comedy']
+3396,The Muppet Movie,"[""Children's"", 'Comedy']"
+3725,American Pop,"['Animation', 'Musical']"
+3507,The Odd Couple,['Comedy']
+1990,Prom Night IV: Deliver Us From Evil,['Horror']
+2949,Dr. No,['Action']
+1293,Gandhi,['Drama']
+2648,Frankenstein,['Horror']
+597,Pretty Woman,"['Comedy', 'Romance']"
+2976,Bringing Out the Dead,"['Drama', 'Horror']"
+123,Chungking Express,"['Drama', 'Mystery', 'Romance']"
+1620,Kiss the Girls,"['Crime', 'Drama', 'Thriller']"
+1862,Species II,"['Horror', 'Sci-Fi']"
+352,Crooklyn,['Comedy']
+3154,Blood on the Sun,"['Drama', 'War']"
+2701,Wild Wild West,"['Action', 'Sci-Fi', 'Western']"
+3623,Mission: Impossible 2,"['Action', 'Thriller']"
+1091,Weekend at Bernie's,['Comedy']
+3222,Carmen,['Drama']
+639,Girl 6,['Comedy']
+1905,Marie Baie Des Anges,['Drama']
+1718,Stranger in the House,['Thriller']
+1031,Bedknobs and Broomsticks,"['Adventure', ""Children's"", 'Musical']"
+93,Vampire in Brooklyn,"['Comedy', 'Romance']"
+497,Much Ado About Nothing,"['Comedy', 'Romance']"
+1562,Batman & Robin,"['Action', 'Adventure', 'Crime']"
+67,Two Bits,['Drama']
+2994,The City,['Drama']
+356,Forrest Gump,"['Comedy', 'Romance', 'War']"
+1911,Doctor Dolittle,['Comedy']
+1161,The Tin Drum,['Drama']
+759,Maya Lin: A Strong Clear Vision,['Documentary']
+245,The Glass Shield,"['Crime', 'Drama']"
+3650,Anguish,['Horror']
+2247,Married to the Mob,['Comedy']
+2707,Arlington Road,['Thriller']
+1259,Stand by Me,"['Adventure', 'Comedy', 'Drama']"
+2120,Needful Things,"['Drama', 'Horror']"
+2220,The Manxman,['Drama']
+251,The Hunted,['Action']
+1268,Pump Up the Volume,['Drama']
+2323,The Cruise,['Documentary']
+2061,Full Tilt Boogie,['Documentary']
+3139,Tarzan the Fearless,"['Action', 'Adventure']"
+982,Picnic,['Drama']
+2079,Kidnapped,"[""Children's"", 'Drama']"
+370,Naked Gun 33 1/3: The Final Insult,['Comedy']
+2944,The Dirty Dozen,"['Action', 'War']"
+465,Heaven & Earth,"['Action', 'Drama', 'War']"
+1554,The Pillow Book,"['Drama', 'Romance']"
+371,The Paper,"['Comedy', 'Drama']"
+195,Something to Talk About,"['Comedy', 'Drama', 'Romance']"
+1222,Full Metal Jacket,"['Action', 'Drama', 'War']"
+1040,The Secret Agent,['Drama']
+2840,Stigmata,['Thriller']
+1096,Sophie's Choice,['Drama']
+2416,Back to School,['Comedy']
+1253,The Day the Earth Stood Still,"['Drama', 'Sci-Fi']"
+2738,Crimes of the Heart,"['Comedy', 'Drama']"
+2961,The Story of Us,"['Comedy', 'Drama']"
+917,The Little Princess,"[""Children's"", 'Drama']"
+72,Kicking and Screaming,"['Comedy', 'Drama']"
+711,Flipper,"['Adventure', ""Children's""]"
+2290,Stardust Memories,"['Comedy', 'Drama']"
+650,Moll Flanders,['Drama']
+3724,Coming Home,"['Drama', 'War']"
+805,A Time to Kill,['Drama']
+261,Little Women,['Drama']
+2874,The Pajama Game,['Comedy']
+3797,The In Crowd,['Thriller']
+2681,Free Enterprise,"['Comedy', 'Romance', 'Sci-Fi']"
+311,Relative Fear,"['Horror', 'Thriller']"
+857,Crows and Sparrows,['Drama']
+773,Touki Bouki,['Drama']
+727,War Stories,['Documentary']
+481,Kalifornia,"['Drama', 'Thriller']"
+3118,Tumbleweeds,['Drama']
+3860,The Opportunists,['Crime']
+2647,House of Frankenstein,['Horror']
+777,Pharaoh's Army,['War']
+1779,Sphere,"['Adventure', 'Sci-Fi', 'Thriller']"
+1519,Broken English,['Drama']
+1767,Music From Another Room,"['Drama', 'Romance']"
+3668,Romeo and Juliet,"['Drama', 'Romance']"
+1749,The Leading Man,['Romance']
+2356,Celebrity,['Comedy']
+3281,The Brandon Teena Story,['Documentary']
+3158,The Emperor and the Assassin,['Drama']
+1335,Blood Beach,"['Action', 'Horror']"
+1236,Trust,"['Comedy', 'Drama']"
+46,How to Make an American Quilt,"['Drama', 'Romance']"
+418,Being Human,['Drama']
+1105,Children of the Corn IV: The Gathering,['Horror']
+2634,The Mummy,['Horror']
+859,The Hippie Revolution,['Documentary']
+1152,He Walked by Night,"['Crime', 'Film-Noir', 'Thriller']"
+2528,Logan's Run,"['Action', 'Adventure', 'Sci-Fi']"
+3729,Shaft,"['Action', 'Crime']"
+953,It's a Wonderful Life,['Drama']
+1126,Drop Dead Fred,"['Comedy', 'Fantasy']"
+247,Heavenly Creatures,"['Drama', 'Fantasy', 'Romance', 'Thriller']"
+1162,The Ruling Class,['Comedy']
+2848,Othello,['Drama']
+1658,A Life Less Ordinary,"['Romance', 'Thriller']"
+1806,Paulie,"['Adventure', ""Children's"", 'Comedy']"
+346,Backbeat,"['Drama', 'Musical']"
+1001,The Associate,['Comedy']
+3762,Daughter of Dr. Jeckyll,['Horror']
+2110,Dead Men Don't Wear Plaid,"['Comedy', 'Crime', 'Thriller']"
+2021,Dune,"['Fantasy', 'Sci-Fi']"
+1274,Akira,"['Adventure', 'Animation', 'Sci-Fi', 'Thriller']"
+545,Harlem,['Drama']
+2124,The Addams Family,['Comedy']
+3357,East-West,"['Drama', 'Romance']"
+1062,The Sunchaser,['Drama']
+3137,The Sea Wolves,"['Action', 'War']"
+2341,Dancing at Lughnasa,['Drama']
+1994,Poltergeist,"['Horror', 'Thriller']"
+2883,Mumford,['Comedy']
+12,Dracula: Dead and Loving It,"['Comedy', 'Horror']"
+1787,A Paralyzing Fear: The Story of Polio in America,['Documentary']
+868,Death in Brunswick,['Comedy']
+716,Switchblade Sisters,['Crime']
+3460,Hillbillys in a Haunted House,['Comedy']
+1917,Armageddon,"['Action', 'Adventure', 'Sci-Fi', 'Thriller']"
+1356,Star Trek: First Contact,"['Action', 'Adventure', 'Sci-Fi']"
+284,New York Cop,"['Action', 'Crime']"
+1791,Twilight,"['Crime', 'Drama']"
+3230,The Odessa File,['Thriller']
+1959,Out of Africa,"['Drama', 'Romance']"
+1678,The Joy Luck Club,['Drama']
+2140,The Dark Crystal,"[""Children's"", 'Fantasy', 'Sci-Fi']"
+2084,Newsies,"[""Children's"", 'Musical']"
+1884,Fear and Loathing in Las Vegas,"['Comedy', 'Drama']"
+42,Dead Presidents,"['Action', 'Crime', 'Drama']"
+3858,Cecil B. Demented,['Comedy']
+2678,Desert Blue,['Drama']
+1789,The Sadness of Sex,['Drama']
+2653,Son of Dracula,['Horror']
+1585,Love Serenade,['Comedy']
+3577,Two Moon Juction,['Drama']
+756,Carmen Miranda: Bananas Is My Business,['Documentary']
+570,The Slingshot,"['Comedy', 'Drama']"
+1792,U.S. Marshalls,"['Action', 'Thriller']"
+3134,Grand Illusion,"['Drama', 'War']"
+3334,Key Largo,"['Crime', 'Drama', 'Film-Noir', 'Thriller']"
+954,Mr. Smith Goes to Washington,['Drama']
+2735,The Golden Child,"['Action', 'Adventure', 'Comedy']"
+1177,Enchanted April,['Drama']
+1960,The Last Emperor,"['Drama', 'War']"
+2057,The Incredible Journey,"['Adventure', ""Children's""]"
+2833,Lucie Aubrac,"['Romance', 'War']"
+1571,When the Cats Away,"['Comedy', 'Romance']"
+579,La Scorta,['Thriller']
+2971,All That Jazz,['Musical']
+1255,Bad Taste,"['Comedy', 'Horror']"
+3684,The Fabulous Baker Boys,"['Drama', 'Romance']"
+3663,Puppet Master 4,"['Horror', 'Sci-Fi', 'Thriller']"
+1617,L.A. Confidential,"['Crime', 'Film-Noir', 'Mystery', 'Thriller']"
+1419,Walkabout,['Drama']
+874,Killer: A Journal of Murder,"['Crime', 'Drama']"
+2999,Man of the Century,['Comedy']
+3752,Myself and Irene Me,['Comedy']
+896,Wild Reeds,['Drama']
+937,Love in the Afternoon,"['Comedy', 'Romance']"
+1764,Tainted,"['Comedy', 'Thriller']"
+2753,The Bedroom Window,['Thriller']
+1632,A Smile Like Yours,"['Comedy', 'Romance']"
+637,Sgt. Bilko,['Comedy']
+3389,Let's Get Harry,"['Action', 'Adventure']"
+294,The Perez Family,"['Comedy', 'Romance']"
+3477,Empire Records,"['Comedy', 'Drama']"
+1715,Office Killer,['Thriller']
+1110,Bird of Prey,['Action']
+1890,Little Boy Blue,['Drama']
+1235,Harold and Maude,['Comedy']
+3349,The Perils of Pauline,['Comedy']
+3734,Prince of the City,['Drama']
+1032,Alice in Wonderland,"['Animation', ""Children's"", 'Musical']"
+1870,Texas Pop. 81 Dancer,"['Comedy', 'Drama']"
+1410,The Evening Star,"['Comedy', 'Drama']"
+3782,Shaft's Big Score!,"['Action', 'Crime']"
+938,Gigi,['Musical']
+3667,Rent-A-Cop,"['Action', 'Comedy']"
+2239,Swept Away,"['Comedy', 'Drama']"
+3089,The Bicycle Thief,['Drama']
+1067,A Damsel in Distress,"['Comedy', 'Musical', 'Romance']"
+2246,Stars and Bars,['Comedy']
+529,Searching for Bobby Fischer,['Drama']
+3025,Rough Night in Jericho,['Western']
+3649,American Gigolo,['Drama']
+1774,Mass Transit,"['Comedy', 'Drama']"
+3714,Clara's Heart,['Drama']
+2917,Body Heat,"['Crime', 'Thriller']"
+3785,Scary Movie,"['Comedy', 'Horror']"
+2077,The Journey of Natty Gann,"['Adventure', ""Children's""]"
+3533,An Actor's Revenge,['Drama']
+3830,Psycho Beach Party,"['Comedy', 'Horror', 'Thriller']"
+2998,Dreaming of Joseph Lees,['Romance']
+1064,Aladdin and the King of Thieves,"['Animation', ""Children's"", 'Comedy']"
+1432,Metro,['Action']
+719,Multiplicity,['Comedy']
+2552,My Boyfriend's Back,['Comedy']
+2469,Peggy Sue Got Married,"['Comedy', 'Romance']"
+2473,Soul Man,['Comedy']
+2102,Steamboat Willie,"['Animation', ""Children's"", 'Comedy', 'Musical']"
+3793,X-Men,"['Action', 'Sci-Fi']"
+3285,The Beach,"['Adventure', 'Drama']"
+2494,The Last Days,['Documentary']
+3276,Gun Shy,['Comedy']
+3801,Anatomy of a Murder,"['Drama', 'Mystery']"
+101,Bottle Rocket,['Comedy']
+35,Carrington,"['Drama', 'Romance']"
+1258,The Shining,['Horror']
+1858,Mr. Nice Guy,"['Action', 'Comedy']"
+1527,The Fifth Element,"['Action', 'Sci-Fi']"
+1706,Harlem River Drive,['Drama']
+2214,Number Seventeen,['Thriller']
+1953,The French Connection,"['Action', 'Crime', 'Drama', 'Thriller']"
+1500,Grosse Pointe Blank,"['Comedy', 'Crime']"
+1277,Cyrano de Bergerac,"['Action', 'Drama', 'Romance']"
+3408,Erin Brockovich,['Drama']
+3863,The Cell,"['Sci-Fi', 'Thriller']"
+1329,Blood For Dracula,['Horror']
+1974,Friday the 13th,['Horror']
+3665,Curse of the Puppet Master,"['Horror', 'Sci-Fi', 'Thriller']"
+981,Dangerous Ground,['Drama']
+341,Double Happiness,['Drama']
+2126,Snake Eyes,"['Action', 'Crime', 'Mystery', 'Thriller']"
+3640,A King in New York,"['Comedy', 'Drama']"
+3890,Back Stage,['Documentary']
+788,The Nutty Professor,"['Comedy', 'Fantasy', 'Romance', 'Sci-Fi']"
+715,The Horseman on the Roof,['Drama']
+749,The Man from Down Under,['Drama']
+2510,Just the Ticket,"['Comedy', 'Romance']"
+1387,Jaws,"['Action', 'Horror']"
+106,Nobody Loves Me,"['Comedy', 'Drama']"
+357,Four Weddings and a Funeral,"['Comedy', 'Romance']"
+1995,Poltergeist II: The Other Side,"['Horror', 'Thriller']"
+1174,Grosse Fatigue,['Comedy']
+2065,The Purple Rose of Cairo,"['Comedy', 'Drama', 'Romance']"
+1758,Dangerous Beauty,['Drama']
+3157,Stuart Little,"[""Children's"", 'Comedy']"
+1535,Love! Valour! Compassion!,"['Drama', 'Romance']"
+3680,The Decline of Western Civilization Part II: The Metal Years,['Documentary']
+2533,Escape from the Planet of the Apes,"['Action', 'Sci-Fi']"
+3911,Best in Show,['Comedy']
+1496,Anna Karenina,"['Drama', 'Romance']"
+3109,The River,['Drama']
+3654,The Guns of Navarone,"['Action', 'Drama', 'War']"
+2476,Heartbreak Ridge,"['Action', 'War']"
+2481,My Name Is Joe,"['Drama', 'Romance']"
+1428,Angel Baby,['Drama']
+2046,Flight of the Navigator,"['Adventure', ""Children's"", 'Sci-Fi']"
+2250,Men Don't Leave,['Drama']
+1057,Everyone Says I Love You,"['Comedy', 'Musical', 'Romance']"
+3301,The Whole Nine Yards,"['Comedy', 'Crime']"
+566,Naked in New York,"['Comedy', 'Romance']"
+2338,I Still Know What You Did Last Summer,"['Horror', 'Mystery', 'Thriller']"
+627,The Last Supper,"['Drama', 'Thriller']"
+2032,The Barefoot Executive,"[""Children's"", 'Comedy']"
+572,Foreign Student,['Drama']
+33,Wings of Courage,"['Adventure', 'Romance']"
+2512,The Ballad of Narayama,['Drama']
+2839,West Beirut,['Drama']
+2739,The Color Purple,['Drama']
+431,Carlito's Way,"['Crime', 'Drama']"
+2711,My Life So Far,['Drama']
+730,The Low Life,['Drama']
+2529,Planet of the Apes,"['Action', 'Sci-Fi']"
+1100,Days of Thunder,"['Action', 'Romance']"
+309,Green Firecracker Red Firecracker,['Drama']
+783,The Hunchback of Notre Dame,"['Animation', ""Children's"", 'Musical']"
+1502,Kissed,['Romance']
+3746,Butterfly,"['Drama', 'War']"
+436,Color of Night,"['Drama', 'Thriller']"
+2830,Cabaret Balkan,['Drama']
+3757,Asylum,['Horror']
+724,The Craft,"['Drama', 'Horror']"
+3240,The Big Tease,['Comedy']
+979,Nothing Personal,"['Drama', 'War']"
+3902,Goya in Bordeaux,['Drama']
+2674,The Loss of Sexual Innocence,['Drama']
+3099,Shampoo,"['Comedy', 'Romance']"
+1379,Young Guns II,"['Action', 'Comedy', 'Western']"
+3945,Digimon: The Movie,"['Adventure', 'Animation', ""Children's""]"
+810,Kazaam,"[""Children's"", 'Comedy', 'Fantasy']"
+3788,Blowup,"['Drama', 'Mystery']"
+3779,Project Moon Base,['Sci-Fi']
+3455,Buddy Boy,"['Drama', 'Thriller']"
+1581,Out to Sea,['Comedy']
+599,The Wild Bunch,['Western']
+3526,Parenthood,"['Comedy', 'Drama']"
+1310,Hype!,['Documentary']
+3092,Chushingura,['Drama']
+1646,Rocket Man,['Comedy']
+3744,Shaft,"['Action', 'Crime']"
+3829,Mad About Mambo,"['Comedy', 'Romance']"
+2698,Zone 39,['Sci-Fi']
+3232,Seven Chances,['Comedy']
+3905,The Specials,['Comedy']
+1517,Austin Powers: International Man of Mystery,['Comedy']
+2286,The Fiendish Plot of Dr. Fu Manchu,['Comedy']
+2700,Longer and Uncut South Park: Bigger,"['Animation', 'Comedy']"
+942,Laura,"['Crime', 'Film-Noir', 'Mystery']"
+119,Steal Little Steal Big,['Comedy']
+3856,Autumn Heart,['Drama']
+363,Horrible Life of Leni Riefenstahl Wonderful,['Documentary']
+1266,Unforgiven,['Western']
+3791,Footloose,['Drama']
+3186,Interrupted Girl,['Drama']
+3108,The Fisher King,"['Comedy', 'Drama', 'Romance']"
+163,Desperado,"['Action', 'Romance', 'Thriller']"
+3503,Solaris,"['Drama', 'Sci-Fi']"
+69,Friday,['Comedy']
+2222,Champagne,['Comedy']
+2968,Time Bandits,"['Adventure', 'Fantasy', 'Sci-Fi']"
+525,The Saint of Fort Washington,['Drama']
+2688,The General's Daughter,"['Drama', 'Thriller']"
+2749,The Morning After,"['Drama', 'Mystery']"
+1405,Beavis and Butt-head Do America,"['Animation', 'Comedy']"
+3481,High Fidelity,['Comedy']
+2392,Jack Frost,"['Comedy', 'Drama']"
+3947,Get Carter,['Thriller']
+1509,All Over Me,['Drama']
+2019,Seven Samurai,"['Action', 'Drama']"
+122,Boomerang,"['Comedy', 'Romance']"
+967,The Outlaw,['Western']
+1714,Never Met Picasso,['Romance']
+2192,See the Sea,['Drama']
+2391,A Simple Plan,"['Crime', 'Thriller']"
+3440,Teenage Mutant Ninja Turtles III,"['Action', ""Children's"", 'Fantasy']"
+1486,The Quiet Room,['Drama']
+831,Stonewall,['Drama']
+998,Set It Off,"['Action', 'Crime']"
+1677,Critical Care,['Comedy']
+1769,The Replacement Killers,"['Action', 'Thriller']"
+2791,Airplane!,['Comedy']
+2147,The Clan of the Cave Bear,['Drama']
+2420,The Karate Kid,['Drama']
+3612,The Slipper and the Rose,"['Adventure', 'Musical', 'Romance']"
+1603,Mimic,"['Sci-Fi', 'Thriller']"
+1539,Twin Town,"['Comedy', 'Crime']"
+1085,The Old Man and the Sea,"['Adventure', 'Drama']"
+1131,Jean de Florette,['Drama']
+435,Coneheads,"['Comedy', 'Sci-Fi']"
+2255,Young Doctors in Love,['Comedy']
+3410,Soft Fruit,"['Comedy', 'Drama']"
+2489,Spanish Fly,['Drama']
+1135,Private Benjamin,['Comedy']
+1234,The Sting,"['Comedy', 'Crime']"
+3010,Rosetta,['Drama']
+3331,My Tutor,['Drama']
+1852,Love Walked In,"['Drama', 'Thriller']"
+886,Bulletproof,['Action']
+445,Fatal Instinct,['Comedy']
+256,Junior,"['Comedy', 'Sci-Fi']"
+791,His Life and Music Last Klezmer: Leopold Kozlowski,['Documentary']
+2898,The Dark Half,"['Horror', 'Mystery']"
+978,The Blue Angel,['Drama']
+3605,King Creole,"['Drama', 'Musical']"
+1024,The Three Caballeros,"['Animation', ""Children's"", 'Musical']"
+2119,Maximum Overdrive,['Horror']
+2556,Telling You,"['Comedy', 'Drama', 'Romance']"
+2203,Shadow of a Doubt,"['Film-Noir', 'Thriller']"
+3595,Held Up,['Comedy']
+2072,The 'burbs,['Comedy']
+515,The Remains of the Day,['Drama']
+3642,In Old California,['Western']
+499,Mr. Wonderful,"['Comedy', 'Romance']"
+2326,Shattered Image,"['Drama', 'Thriller']"
+2532,Conquest of the Planet of the Apes,"['Action', 'Sci-Fi']"
+2859,Stop Making Sense,['Documentary']
+3302,Beautiful People,['Comedy']
+3794,Chuck & Buck,"['Comedy', 'Drama']"
+3556,The Virgin Suicides,"['Comedy', 'Drama']"
+1339,Bram Stoker's Dracula,"['Horror', 'Romance']"
+1601,Hoodlum,"['Crime', 'Drama', 'Film-Noir']"
+3023,My Best Girl,"['Comedy', 'Romance']"
+53,Lamerica,['Drama']
+2466,Belizaire the Cajun,['Drama']
+1459,Absolute Power,"['Mystery', 'Thriller']"
+3926,Voyage to the Bottom of the Sea,"['Adventure', 'Sci-Fi']"
+1785,King of New York,"['Action', 'Crime']"
+1981,Friday the 13th Part VIII: Jason Takes Manhattan,['Horror']
+1665,Bean,['Comedy']
+3284,They Might Be Giants,"['Comedy', 'Romance']"
+3021,The Funhouse,['Horror']
+1513,Romy and Michele's High School Reunion,['Comedy']
+1007,The Apple Dumpling Gang,"[""Children's"", 'Comedy', 'Western']"
+1477,Love Jones,['Romance']
+867,Carpool,"['Comedy', 'Crime']"
+1247,The Graduate,"['Drama', 'Romance']"
+458,Geronimo: An American Legend,"['Drama', 'Western']"
+372,Reality Bites,"['Comedy', 'Drama']"
+3528,The Prince of Tides,"['Drama', 'Romance']"
+3008,Last Night,['Thriller']
+2104,Tex,['Drama']
+1022,Cinderella,"['Animation', ""Children's"", 'Musical']"
+3869,The Naked Gun 2 1/2: The Smell of Fear,['Comedy']
+2294,Antz,"['Animation', ""Children's""]"
+1897,High Art,"['Drama', 'Romance']"
+2661,It Came from Outer Space,['Sci-Fi']
+3693,The Toxic Avenger,"['Comedy', 'Horror']"
+862,Manny & Lo,['Drama']
+3105,Awakenings,['Drama']
+1781,A Further Gesture,['Drama']
+3385,Volunteers,['Comedy']
+1635,The Ice Storm,['Drama']
+2155,The Slums of Beverly Hills,['Comedy']
+1567,The Last Time I Committed Suicide,['Drama']
+1625,The Game,"['Mystery', 'Thriller']"
+526,Savage Nights,['Drama']
+124,The Star Maker,['Drama']
+2589,Friends & Lovers,"['Comedy', 'Drama', 'Romance']"
+649,Cold Fever,"['Comedy', 'Drama']"
+178,Love & Human Remains,['Comedy']
+840,House Arrest,['Comedy']
+3121,The Hitch-Hiker,['Film-Noir']
+2803,The Pelican Brief,['Thriller']
+3705,Bird on a Wire,"['Action', 'Adventure', 'Romance', 'Thriller']"
+1171,Bob Roberts,['Comedy']
+1301,Forbidden Planet,['Sci-Fi']
+2723,Mystery Men,"['Action', 'Adventure', 'Comedy']"
+2007,Polish Wedding,['Comedy']
+10,GoldenEye,"['Action', 'Adventure', 'Thriller']"
+2982,The Guardian,"['Horror', 'Thriller']"
+3496,Madame Sousatzka,['Drama']
+2579,Following,['Drama']
+1604,Money Talks,"['Action', 'Comedy']"
+285,Beyond Bedlam,"['Drama', 'Horror']"
+718,The Visitors,"['Comedy', 'Sci-Fi']"
+2491,Simply Irresistible,"['Comedy', 'Romance']"
+2772,Detroit Rock City,['Comedy']
+1467,Salut cousin!,"['Comedy', 'Drama']"
+2193,Willow,"['Action', 'Adventure', 'Fantasy']"
+3310,The Kid,['Action']
+915,Sabrina,"['Comedy', 'Romance']"
+3641,A Woman of Paris,['Drama']
+1052,The Proprietor,['Drama']
+3053,The Messenger: The Story of Joan of Arc,"['Drama', 'War']"
+3802,Freejack,"['Action', 'Sci-Fi']"
+3063,Poison Ivy,['Thriller']
+219,The Cure,['Drama']
+745,A Close Shave,"['Animation', 'Comedy', 'Thriller']"
+815,Power 98,"['Action', 'Mystery', 'Thriller']"
+1639,Chasing Amy,"['Drama', 'Romance']"
+1086,Dial M for Murder,"['Mystery', 'Thriller']"
+2969,A Man and a Woman,"['Drama', 'Romance']"
+3463,Last Resort,['Comedy']
+3082,The World Is Not Enough,"['Action', 'Thriller']"
+3169,The Falcon and the Snowman,['Drama']
+2842,Best Laid Plans,"['Crime', 'Drama']"
+1449,Waiting for Guffman,['Comedy']
+3538,East is East,['Comedy']
+456,Fresh,['Drama']
+2705,Early September Late August,['Drama']
+2918,Ferris Bueller's Day Off,['Comedy']
+420,Beverly Hills Cop III,"['Action', 'Comedy']"
+1003,Extreme Measures,"['Drama', 'Thriller']"
+3221,The Draughtsman's Contract,['Drama']
+916,Roman Holiday,"['Comedy', 'Romance']"
+520,Robin Hood: Men in Tights,['Comedy']
+3948,Meet the Parents,['Comedy']
+2729,Lolita,['Drama']
+3872,Last Summer Suddenly,['Drama']
+2631,Frogs for Snakes,"['Comedy', 'Film-Noir', 'Thriller']"
+960,Angel on My Shoulder,"['Crime', 'Drama']"
+2267,Mortal Thoughts,"['Mystery', 'Thriller']"
+3445,Eyes of Laura Mars,"['Mystery', 'Thriller']"
+3864,Godzilla 2000,"['Action', 'Adventure', 'Sci-Fi']"
+377,Speed,"['Action', 'Romance', 'Thriller']"
+2442,Hilary and Jackie,['Drama']
+652,302 301,['Mystery']
+3651,The Blood Spattered Bride,['Horror']
+216,Billy Madison,['Comedy']
+2475,52 Pick-Up,"['Action', 'Mystery', 'Thriller']"
+3233,Smashing Time,['Comedy']
+533,The Shadow,['Action']
+1883,Bulworth,['Comedy']
+3846,Easy Money,['Comedy']
+1391,Mars Attacks!,"['Action', 'Comedy', 'Sci-Fi', 'War']"
+3842,Make Them Die Slowly,['Horror']
+1771,Night Flier,['Horror']
+1851,Leather Jacket Love Story,"['Drama', 'Romance']"
+3929,The Bank Dick,['Comedy']
+351,Corrina Corrina,"['Comedy', 'Drama', 'Romance']"
+3656,Lured,['Crime']
+193,Showgirls,['Drama']
+2425,The General,['Crime']
+1770,B. Monkey,"['Romance', 'Thriller']"
+690,The Promise,['Romance']
+3835,The Crush,['Thriller']
+2624,After Life,['Drama']
+1929,Grand Hotel,['Drama']
+2053,I Blew Up the Kid Honey,"[""Children's"", 'Comedy', 'Sci-Fi']"
+1328,The Amityville Curse,['Horror']
+3417,The Crimson Pirate,"['Adventure', 'Comedy', 'Sci-Fi']"
+3150,The War Zone,['Drama']
+1693,Amistad,['Drama']
+1811,Niagara Niagara,['Drama']
+2253,Toys,"['Action', 'Comedy', 'Fantasy']"
+1281,The Great Dictator,['Comedy']
+762,Striptease,"['Comedy', 'Crime']"
+98,Shopping,"['Action', 'Thriller']"
+2508,The Breaks,['Drama']
+3719,Love's Labour's Lost,"['Comedy', 'Romance']"
+3246,Malcolm X,['Drama']
+190,Safe,['Thriller']
+969,The African Queen,"['Action', 'Adventure', 'Romance', 'War']"
+2659,It Came from Hollywood,"['Comedy', 'Documentary']"
+1544,The Lost World: Jurassic Park,"['Action', 'Adventure', 'Sci-Fi', 'Thriller']"
+1642,Indian Summer,"['Comedy', 'Drama']"
+3765,The Hot Spot,"['Drama', 'Romance']"
+1075,The Sexual Life of the Belgians,['Comedy']
+1703,For Richer or Poorer,['Comedy']
+366,Wes Craven's New Nightmare,['Horror']
+1155,The Invitation,['Drama']
+1681,Mortal Kombat: Annihilation,"['Action', 'Adventure']"
+3756,The Golden Bowl,['Drama']
+3845,And God Created Woman,['Drama']
+2759,Dick,['Comedy']
+2402,Rambo: First Blood Part II,"['Action', 'War']"
+3534,28 Days,['Comedy']
+3337,I'll Never Forget What's 'is Name,"['Comedy', 'Drama']"
+3273,Scream 3,"['Horror', 'Mystery', 'Thriller']"
+3040,Meatballs,['Comedy']
+167,Feast of July,['Drama']
+608,Fargo,"['Crime', 'Drama', 'Thriller']"
+114,Margaret's Museum,['Drama']
+705,Cosi,['Comedy']
+1043,To Gillian on Her 37th Birthday,"['Drama', 'Romance']"
+681,Clean Slate,['Crime']
+3172,Ulysses,['Adventure']
+1023,Winnie the Pooh and the Blustery Day,"['Animation', ""Children's""]"
+2767,Illuminata,['Comedy']
+2745,The Mission,['Drama']
+3194,The Way We Were,['Drama']
+642,Roula,['Drama']
+2000,Lethal Weapon,"['Action', 'Comedy', 'Crime', 'Drama']"
+528,The Scout,['Drama']
+2029,Billy's Hollywood Screen Kiss,"['Comedy', 'Romance']"
+417,Barcelona,"['Comedy', 'Romance']"
+990,Maximum Risk,"['Action', 'Adventure', 'Thriller']"
+510,Poetic Justice,['Drama']
+1731,Mr. Magoo,['Comedy']
+2727,Killer's Kiss,['Film-Noir']
+129,Pie in the Sky,"['Comedy', 'Romance']"
+320,Suture,"['Film-Noir', 'Thriller']"
+2405,The Jewel of the Nile,"['Action', 'Adventure', 'Comedy', 'Romance']"
+1966,Metropolitan,['Comedy']
+2709,Muppets From Space,"[""Children's"", 'Comedy']"
+829,Joe's Apartment,"['Comedy', 'Musical']"
+3212,Born to Win,['Drama']
+1946,Marty,"['Drama', 'Romance']"
+1613,Star Maps,['Drama']
+679,The Run of the Country,['Drama']
+1659,Hurricane Streets,['Drama']
+3906,Under Suspicion,['Crime']
+3047,Experience Preferred... But Not Essential,['Drama']
+2244,The Allnighter,"['Comedy', 'Romance']"
+922,Sunset Blvd.,['Film-Noir']
+3695,The Toxic Avenger Part III: The Last Temptation of Toxie,"['Comedy', 'Horror']"
+697,Feeling Minnesota,"['Drama', 'Romance']"
+3805,Knightriders,"['Action', 'Adventure', 'Drama']"
+1077,Sleeper,"['Comedy', 'Sci-Fi']"
+1457,Fools Rush In,"['Comedy', 'Romance']"
+3807,Sinbad and the Eye of the Tiger,"['Action', 'Adventure']"
+2621,Xiu Xiu: The Sent-Down Girl,"['Drama', 'Romance']"
+1501,Keys to Tulsa,['Crime']
+2157,The Chambermaid on the Titanic,['Romance']
+3658,Quatermass and the Pit,['Sci-Fi']
+3626,8 1/2 Women,['Comedy']
+2301,History of the World: Part I,['Comedy']
+1429,Jackie Chan's First Strike,['Action']
+2872,Excalibur,"['Action', 'Drama', 'Fantasy', 'Romance']"
+2183,The Man Who Knew Too Much,['Thriller']
+2679,Finding North,"['Drama', 'Romance']"
+578,The Hour of the Pig,"['Drama', 'Mystery']"
+3013,Bride of Re-Animator,"['Comedy', 'Horror']"
+2289,The Player,"['Comedy', 'Drama']"
+160,Congo,"['Action', 'Adventure', 'Mystery', 'Sci-Fi']"
+516,Renaissance Man,"['Comedy', 'Drama', 'War']"
+3570,The Last September,['Drama']
+2879,Operation Condor,"['Action', 'Adventure', 'Comedy']"
+2827,The Astronaut's Wife,"['Sci-Fi', 'Thriller']"
+1834,The Spanish Prisoner,"['Drama', 'Thriller']"
+3661,Puppet Master II,"['Horror', 'Sci-Fi', 'Thriller']"
+1964,Klute,"['Drama', 'Mystery']"
+2628,Star Wars: Episode I - The Phantom Menace,"['Action', 'Adventure', 'Fantasy', 'Sci-Fi']"
+2329,American History X,['Drama']
+2813,The Source,['Documentary']
+1561,Wedding Bell Blues,['Comedy']
+3742,The Battleship Potemkin,"['Drama', 'War']"
+447,The Favor,"['Comedy', 'Romance']"
+3849,The Spiral Staircase,['Thriller']
+2423,Christmas Vacation,['Comedy']
+3696,Night of the Creeps,"['Comedy', 'Horror', 'Sci-Fi']"
+3435,Double Indemnity,"['Crime', 'Film-Noir']"
+73,Les MisÃ©rables,"['Drama', 'Musical']"
+2763,The Thomas Crown Affair,"['Action', 'Thriller']"
+3819,Tampopo,['Comedy']
+1279,Night on Earth,"['Comedy', 'Drama']"
+22,Copycat,"['Crime', 'Drama', 'Thriller']"
+968,Night of the Living Dead,"['Horror', 'Sci-Fi']"
+213,Burnt By the Sun,['Drama']
+2888,Drive Me Crazy,"['Comedy', 'Romance']"
+2885,Guinevere,"['Drama', 'Romance']"
+32,Twelve Monkeys,"['Drama', 'Sci-Fi']"
+457,The Fugitive,"['Action', 'Thriller']"
+3674,For the Love of Benji,"['Adventure', ""Children's""]"
+1956,Ordinary People,['Drama']
+1006,The Chamber,['Drama']
+1882,Godzilla,"['Action', 'Sci-Fi']"
+3713,The Long Walk Home,['Drama']
+2136,The Nutty Professor,['Comedy']
+1385,Under Siege,['Action']
+772,Quartier Mozart,['Comedy']
+3352,Brown's Requiem,['Drama']
+179,Mad Love,"['Drama', 'Romance']"
+1961,Rain Man,['Drama']
+2031,000 $1,"[""Children's"", 'Comedy']"
+3910,Dancer in the Dark,"['Drama', 'Musical']"
+3644,Dark Command,['Western']
+595,Beauty and the Beast,"['Animation', ""Children's"", 'Musical']"
+2675,Twice Upon a Yesterday,"['Comedy', 'Drama', 'Romance']"
+3461,Lord of the Flies,"['Adventure', 'Drama', 'Thriller']"
+3547,Prick Up Your Ears,['Drama']
+522,Romper Stomper,"['Action', 'Drama']"
+186,Nine Months,['Comedy']
+2228,The Mountain Eagle,['Drama']
+2478,Three Amigos!,"['Comedy', 'Western']"
+1111,Microcosmos,['Documentary']
+2414,Young Sherlock Holmes,"['Action', 'Adventure', 'Mystery']"
+882,The Trigger Effect,"['Drama', 'Thriller']"
+159,Clockers,['Drama']
+2764,The Thomas Crown Affair,"['Crime', 'Drama', 'Thriller']"
+1309,Parallel Sons,"['Drama', 'Romance']"
+3080,20th Century Goodbye,"['Drama', 'Sci-Fi']"
+1630,The Lay of the Land,"['Comedy', 'Drama']"
+2914,Molly,"['Comedy', 'Drama']"
+2877,Tommy,"['Drama', 'Musical']"
+1707,Home Alone 3,"[""Children's"", 'Comedy']"
+1112,Palookaville,"['Action', 'Drama']"
+2826,The 13th Warrior,"['Action', 'Horror', 'Thriller']"
+3234,Train Ride to Hollywood,['Comedy']
+1867,Tarzan and the Lost City,"['Action', 'Adventure']"
+380,True Lies,"['Action', 'Adventure', 'Comedy', 'Romance']"
+2636,The Mummy's Ghost,['Horror']
+3629,The Gold Rush,['Comedy']
+2374,Gung Ho,"['Comedy', 'Drama']"
+662,Fear,['Thriller']
+2038,The Cat from Outer Space,"[""Children's"", 'Comedy', 'Sci-Fi']"
+3927,Fantastic Voyage,"['Adventure', 'Sci-Fi']"
+1955,Kramer Vs. Kramer,['Drama']
+198,Strange Days,"['Action', 'Crime', 'Sci-Fi']"
+2776,I Remember Marcello Mastroianni: I Remember Yes,['Documentary']
+825,Echte Kerle,"['Comedy', 'Romance']"
+1102,American Strays,['Action']
+3241,The Cup,['Comedy']
+2732,Jules and Jim,['Drama']
+2603,NÃ´,['Drama']
+1455,Hotel de Love,"['Comedy', 'Romance']"
+3344,Blood Feast,['Horror']
+142,Shadows,['Drama']
+1580,Men in Black,"['Action', 'Adventure', 'Comedy', 'Sci-Fi']"
+1945,On the Waterfront,"['Crime', 'Drama']"
+1097,E.T. the Extra-Terrestrial,"[""Children's"", 'Drama', 'Fantasy', 'Sci-Fi']"
+814,A Boy Called Hate,['Drama']
+145,Bad Boys,['Action']
+1600,She's So Lovely,"['Drama', 'Romance']"
+2818,Iron Eagle IV,"['Action', 'War']"
+1263,The Deer Hunter,"['Drama', 'War']"
+2424,You've Got Mail,"['Comedy', 'Romance']"
+3296,To Sir with Love,['Drama']
+1612,Guido Kiss Me,['Comedy']
+2455,The Fly,"['Horror', 'Sci-Fi']"
+2013,The Poseidon Adventure,"['Action', 'Adventure']"
+591,Tough and Deadly,"['Action', 'Drama', 'Thriller']"
+2107,Halloween: H20,"['Horror', 'Thriller']"
+3270,The Cutting Edge,['Drama']
+3866,Sunset Strip,['Comedy']
+903,Vertigo,"['Mystery', 'Thriller']"
+1499,Anaconda,"['Action', 'Adventure', 'Thriller']"
+3160,Magnolia,['Drama']
+793,My Life and Times With Antonin Artaud,['Drama']
+2487,Guts Blood,"['Action', 'Comedy']"
+3824,Autumn in New York,"['Drama', 'Romance']"
+1321,An American Werewolf in London,['Horror']
+3386,JFK,"['Drama', 'Mystery']"
+3412,The Bear,['Adventure']
+2520,Airport,['Drama']
+2249,My Blue Heaven,['Comedy']
+3820,Thomas and the Magic Railroad,"[""Children's""]"
+139,Target,"['Action', 'Drama']"
+3666,Retro Puppetmaster,"['Horror', 'Sci-Fi', 'Thriller']"
+2947,Goldfinger,['Action']
+1836,The Last Days of Disco,['Drama']
+1412,Some Mother's Son,['Drama']
+3031,Repossessed,['Comedy']
+871,Lover's Knot,['Comedy']
+2258,Master Ninja I,['Action']
+3772,Hatchet For the Honeymoon,['Horror']
+905,It Happened One Night,['Comedy']
+196,Species,"['Horror', 'Sci-Fi']"
+2799,Problem Child 2,['Comedy']
+3111,Places in the Heart,['Drama']
+3133,Go West,['Comedy']
+1406,La CÃ©rÃ©monie,['Drama']
+1136,Monty Python and the Holy Grail,['Comedy']
+367,The Mask,"['Comedy', 'Crime', 'Fantasy']"
+1436,Falling in Love Again,['Comedy']
+204,Under Siege 2: Dark Territory,['Action']
+3414,Love Is a Many-Splendored Thing,['Romance']
+3795,The Five Senses,['Drama']
+1196,Star Wars: Episode V - The Empire Strikes Back,"['Action', 'Adventure', 'Drama', 'Sci-Fi', 'War']"
+3430,Death Wish,"['Action', 'Drama']"
+2924,Drunken Master,"['Action', 'Comedy']"
+2736,Brighton Beach Memoirs,['Comedy']
+1047,The Long Kiss Goodnight,"['Action', 'Thriller']"
+671,Mystery Science Theater 3000: The Movie,"['Comedy', 'Sci-Fi']"
+169,Free Willy 2: The Adventure Home,"['Adventure', ""Children's"", 'Drama']"
+2542,Stock & Two Smoking Barrels Lock,"['Comedy', 'Crime', 'Thriller']"
+2965,The Omega Code,['Action']
+2762,The Sixth Sense,['Thriller']
+2836,Outside Providence,['Comedy']
+3368,The Big Country,"['Romance', 'Western']"
+3781,Shaft in Africa,"['Action', 'Crime']"
+1593,Picture Perfect,"['Comedy', 'Romance']"
+1622,Kicked in the Head,"['Comedy', 'Drama']"
+2219,Murder!,"['Mystery', 'Thriller']"
+3678,The Man with the Golden Arm,['Drama']
+1919,Madeline,"[""Children's"", 'Comedy']"
+37,Across the Sea of Time,['Documentary']
+1907,Mulan,"['Animation', ""Children's""]"
+1015,Homeward Bound: The Incredible Journey,"['Adventure', ""Children's""]"
+492,Manhattan Murder Mystery,"['Comedy', 'Mystery']"
+920,Gone with the Wind,"['Drama', 'Romance', 'War']"
+90,The Journey of August King,['Drama']
+401,Mirage,"['Action', 'Thriller']"
+2654,The Wolf Man,['Horror']
+586,Home Alone,"[""Children's"", 'Comedy']"
+2866,The Buddy Holly Story,['Drama']
+2049,The Happiest Millionaire,"['Comedy', 'Musical']"
+2492,20 Dates,['Comedy']
+2502,Office Space,"['Comedy', 'Romance']"
+2766,The Adventures of Sebastian Cole,"['Comedy', 'Drama']"
+2462,The Return of the Texas Chainsaw Massacre,['Horror']
+3272,Bad Lieutenant,"['Crime', 'Drama']"
+2613,Night of the Comet,"['Action', 'Horror', 'Sci-Fi']"
+3707,Nine 1/2 Weeks,['Drama']
+1848,The Borrowers,"['Adventure', ""Children's"", 'Comedy', 'Fantasy']"
+2499,God Said 'Ha!',['Comedy']
+1446,Kolya,['Comedy']
+767,The Grass Harp,['Drama']
+919,The Wizard of Oz,"['Adventure', ""Children's"", 'Drama', 'Musical']"
+232,Eat Drink Man Woman,"['Comedy', 'Drama']"
+1108,Prerokbe Ognja,['Documentary']
+3896,The Way of the Gun,"['Crime', 'Thriller']"
+2361,Pink Flamingos,['Comedy']
+1912,Out of Sight,"['Action', 'Crime', 'Romance']"
+641,Big City Little Indian,['Comedy']
+2697,My Son the Fanatic,"['Comedy', 'Drama', 'Romance']"
+588,Aladdin,"['Animation', ""Children's"", 'Comedy', 'Musical']"
+1192,Paris Is Burning,['Documentary']
+3689,Porky's II: The Next Day,['Comedy']
+2223,The Farmer's Wife,['Comedy']
+3119,Bay of Blood,['Horror']
+2782,Pit and the Pendulum,['Horror']
+957,The Scarlet Letter,['Drama']
+2240,My Bodyguard,['Drama']
+1556,Speed 2: Cruise Control,"['Action', 'Romance', 'Thriller']"
+3488,The Hideous Sun Demon,"['Horror', 'Sci-Fi']"
+2796,Funny Farm,['Comedy']
+2141,An American Tail,"['Animation', ""Children's"", 'Comedy']"
+2216,The Skin Game,['Drama']
+2429,Mighty Joe Young,"['Adventure', ""Children's"", 'Drama']"
+2689,Get Bruce,['Documentary']
+3247,Sister Act,"['Comedy', 'Crime']"
+3535,American Psycho,"['Comedy', 'Horror', 'Thriller']"
+3775,Make Mine Music,"['Animation', ""Children's"", 'Musical']"
+546,Super Mario Bros.,"['Action', 'Adventure', ""Children's"", 'Sci-Fi']"
+1825,The Player's Club,"['Action', 'Drama']"
+3919,Hellraiser III: Hell on Earth,['Horror']
+1142,Get Over It,['Drama']
+2375,The Money Pit,['Comedy']
+138,The Neon Bible,['Drama']
+3931,The Giant Gila Monster,"['Horror', 'Sci-Fi']"
+1743,Arguing the World,['Documentary']
+3098,The Natural,['Drama']
+2114,The Outsiders,['Drama']
+2730,Barry Lyndon,['Drama']
+1550,Trial and Error,"['Comedy', 'Romance']"
+1468,Booty Call,"['Comedy', 'Romance']"
+3253,Wayne's World,['Comedy']
+3774,House Party 2,['Comedy']
+3051,Anywhere But Here,['Drama']
+1344,Cape Fear,"['Film-Noir', 'Thriller']"
+203,Thanks for Everything! Julie Newmar To Wong Foo,['Comedy']
+2590,Hideous Kinky,['Drama']
+1754,Fallen,"['Action', 'Mystery', 'Thriller']"
+3238,Eye of the Beholder,['Thriller']
+2350,Heart Condition,['Comedy']
+2207,Jamaica Inn,['Drama']
+2626,Edge of Seventeen,"['Comedy', 'Drama', 'Romance']"
+365,Little Buddha,['Drama']
+1357,Shine,"['Drama', 'Romance']"
+3323,Chain of Fools,"['Comedy', 'Crime']"
+29,The City of Lost Children,"['Adventure', 'Sci-Fi']"
+2669,Pork Chop Hill,['War']
+1594,In the Company of Men,['Drama']
+1741,Midaq Alley,['Drama']
+2860,Blue Streak,['Comedy']
+1717,Scream 2,"['Horror', 'Thriller']"
+1920,Small Soldiers,"['Animation', ""Children's"", 'Fantasy', 'War']"
+2401,Pale Rider,['Western']
+3372,The Bridge at Remagen,"['Action', 'War']"
+2400,Prancer,"[""Children's"", 'Drama']"
+121,The Boys of St. Vincent,['Drama']
+2479,Gloria,"['Drama', 'Thriller']"
+2710,The Blair Witch Project,['Horror']
+437,Cops and Robbersons,['Comedy']
+2235,One Man's Hero,"['Drama', 'War']"
+3737,Lonely Are the Brave,"['Drama', 'Western']"
+60,The Indian in the Cupboard,"['Adventure', ""Children's"", 'Fantasy']"
+395,Desert Winds,['Drama']
+3659,Quatermass II,"['Sci-Fi', 'Thriller']"
+1962,Driving Miss Daisy,['Drama']
+9,Sudden Death,['Action']
+3459,Gothic,"['Drama', 'Horror']"
+2461,Leatherface: Texas Chainsaw Massacre III,['Horror']
+262,A Little Princess,"[""Children's"", 'Drama']"
+952,Around the World in 80 Days,"['Adventure', 'Comedy']"
+2821,Male and Female,"['Adventure', 'Drama']"
+3594,Center Stage,['Drama']
+768,Someone Else's America,['Drama']
+3179,Angela's Ashes,['Drama']
+3446,Funny Bones,['Comedy']
+2406,Romancing the Stone,"['Action', 'Adventure', 'Comedy', 'Romance']"
+2703,Broken Vessels,['Drama']
+1590,Event Horizon,"['Action', 'Mystery', 'Sci-Fi', 'Thriller']"
+1226,The Quiet Man,"['Comedy', 'Romance']"
+3456,The Color of Paradise,['Drama']
+1341,Burnt Offerings,['Horror']
+2488,Peeping Tom,"['Drama', 'Horror', 'Thriller']"
+2526,Meteor,['Sci-Fi']
+2186,Strangers on a Train,"['Film-Noir', 'Thriller']"
+486,Life with Mikey,['Comedy']
+3884,The Crew,['Comedy']
+3369,Any Number Can Win,['Crime']
+487,Lightning Jack,"['Comedy', 'Western']"
+217,The Babysitter,"['Drama', 'Thriller']"
+2413,Clue,"['Comedy', 'Mystery']"
+3480,Lucas,['Drama']
+2135,Doctor Dolittle,"['Adventure', 'Musical']"
+1702,Flubber,"[""Children's"", 'Comedy', 'Fantasy']"
+617,The Flower of My Secret,['Drama']
+1886,I Got the Hook Up,['Comedy']
+1000,Curdled,['Crime']
+925,Golden Earrings,"['Adventure', 'Romance']"
+3425,Mo' Better Blues,['Drama']
+1935,How Green Was My Valley,['Drama']
+3708,Firestarter,"['Horror', 'Thriller']"
+624,Condition Red,"['Action', 'Drama', 'Thriller']"
+3000,The Princess Mononoke,"['Action', 'Adventure', 'Animation']"
+491,The Man Without a Face,['Drama']
+2501,October Sky,['Drama']
+2148,House,"['Comedy', 'Horror']"
+2531,Battle for the Planet of the Apes,"['Action', 'Sci-Fi']"
+3347,Never Cry Wolf,['Drama']
+3740,Big Trouble in Little China,"['Action', 'Comedy']"
+1518,Breakdown,"['Action', 'Thriller']"
+618,Two Much,"['Comedy', 'Romance']"
+147,The Basketball Diaries,['Drama']
+327,Tank Girl,"['Action', 'Comedy', 'Musical', 'Sci-Fi']"
+914,My Fair Lady,"['Musical', 'Romance']"
+1289,Koyaanisqatsi,"['Documentary', 'War']"
+2585,The Lovers of the Arctic Circle,"['Drama', 'Romance']"
+3205,Black Sunday,['Horror']
+241,Fluke,"[""Children's"", 'Drama']"
+2191,A Merry War,['Comedy']
+695,True Crime,"['Mystery', 'Thriller']"
+2806,Teaching Mrs. Tingle,"['Comedy', 'Thriller']"
+1582,Wild America,"['Adventure', ""Children's""]"
+2906,Random Hearts,"['Drama', 'Romance']"
+1983,Halloween II,['Horror']
+2862,Caligula,['Drama']
+102,Mr. Wrong,['Comedy']
+2519,House on Haunted Hill,['Horror']
+3070,The Adventures of Buckaroo Bonzai Across the 8th Dimension,"['Adventure', 'Comedy', 'Sci-Fi']"
+3006,The Insider,['Drama']
+1780,Ayn Rand: A Sense of Life,['Documentary']
+1326,Amityville II: The Possession,['Horror']
+448,Fearless,['Drama']
+2383,Police Academy 6: City Under Siege,['Comedy']
+2276,A Soldier's Daughter Never Cries,['Drama']
+1815,Eden,['Drama']
+202,Total Eclipse,"['Drama', 'Romance']"
+1804,The Newton Boys,"['Crime', 'Drama']"
+1944,From Here to Eternity,"['Drama', 'Romance', 'War']"
+2313,The Elephant Man,['Drama']
+478,Jimmy Hollywood,['Comedy']
+1065,The Woman in Question,['Mystery']
+2154,How Stella Got Her Groove Back,"['Drama', 'Romance']"
+1448,Fire on the Mountain,['Documentary']
+551,The Nightmare Before Christmas,"[""Children's"", 'Comedy', 'Musical']"
+2704,The Lovers on the Bridge,"['Drama', 'Romance']"
+1414,Mother,['Comedy']
+1117,The Eighth Day,['Drama']
+3356,Condo Painting,['Documentary']
+3373,Buck and the Preacher,['Western']
+3918,Hellbound: Hellraiser II,['Horror']
+2188,54,['Drama']
+3155,Anna and the King,"['Drama', 'Romance']"
+233,Exotica,['Drama']
+2281,Monument Ave.,['Crime']
+2921,High Plains Drifter,['Western']
+502,The Next Karate Kid,"['Action', ""Children's""]"
+2539,Analyze This,['Comedy']
+3038,A Face in the Crowd,['Drama']
+1832,Heaven's Burning,"['Action', 'Drama']"
+657,Yankee Zulu,"['Comedy', 'Drama']"
+1750,Star Kid,"['Adventure', ""Children's"", 'Fantasy', 'Sci-Fi']"

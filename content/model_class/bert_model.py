@@ -125,7 +125,7 @@ def main():
     data = pd.DataFrame({'title': text})
     # test = pd.read_csv('origin_data\movies_test.dat', engine='python',
     #                      sep='::', names=['movieid', 'title', 'genre'], encoding='latin-1', index_col=False)
-    weight_path = 'weight\model-fine-tune2.pth'
+    weight_path = 'content\weight\model-fine-tune2.pth'
     model = BertModel(weight_path, max_len= 7)
     # if os.path.exists(weight_path):
     #     print('afasdf')
